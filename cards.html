@@ -45,6 +45,49 @@
       <div class="sliders" id="sliders"></div>
     </div>
 
+    <div class="pvp-toggle-row">
+      <label class="pvp-switch">
+        <input type="checkbox" id="pvpToggle">
+        <span class="pvp-track"><span class="pvp-thumb"></span></span>
+        <span class="pvp-label">PvP Mode — ban what's unavailable</span>
+      </label>
+    </div>
+
+    <div class="panel ban-panel hidden" id="banPanel">
+      <div class="panel-title">Bans <span class="ban-sub">cards matching any ban are removed from results</span></div>
+      <div class="ban-grid">
+        <div class="ban-col">
+          <div class="ban-head">Ban Elements</div>
+          <div class="chips" id="banElementChips"></div>
+        </div>
+        <div class="ban-col">
+          <div class="ban-head">Ban Talents</div>
+          <select id="banTalentSelect"><option value="">Add a talent to ban…</option></select>
+          <div class="ban-tags" id="banTalentTags"></div>
+        </div>
+      </div>
+      <div class="ban-grid">
+        <div class="ban-col">
+          <div class="ban-head">Ban Specific Cards</div>
+          <div class="search-box"><input id="banCardSearch" placeholder="Search a card to ban…" autocomplete="off"></div>
+          <div class="ban-card-results" id="banCardResults"></div>
+          <div class="ban-tags" id="banCardTags"></div>
+        </div>
+        <div class="ban-col">
+          <div class="ban-head">Ban Stat Extremes <span class="ban-hint">(HP/ATK/DEF/SPD — not TOTAL)</span></div>
+          <div class="ban-stat-row">
+            <label>Ban if any stat ≤ <input type="number" id="banFloor" placeholder="floor" min="0"></label>
+            <label>Ban if any stat ≥ <input type="number" id="banCeiling" placeholder="ceiling" min="0"></label>
+          </div>
+          <div class="ban-hint">Keeps only cards whose four stats all sit strictly between the bounds.</div>
+        </div>
+      </div>
+      <div class="ban-actions">
+        <button class="btn" id="clearBansBtn">Clear All Bans</button>
+        <span class="sub" id="banSummary"></span>
+      </div>
+    </div>
+
     <div class="actions">
       <button class="btn primary" id="resetBtn">Reset Filters</button>
       <span class="sub" id="activeFilters"></span>

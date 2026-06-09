@@ -74,3 +74,43 @@ td{padding:9px 12px;vertical-align:middle}
 .tbl-wrap::-webkit-scrollbar-track{background:var(--bg)}
 .tbl-wrap::-webkit-scrollbar-thumb{background:var(--line);border-radius:5px}
 .foot{margin-top:14px;color:var(--ink-faint);font-size:11px;text-align:center;letter-spacing:.04em}
+/* ===== PvP Mode toggle + Bans panel ===== */
+.pvp-toggle-row{margin:14px 0 0}
+.pvp-switch{display:inline-flex;align-items:center;gap:11px;cursor:pointer;user-select:none}
+.pvp-switch input{display:none}
+.pvp-track{width:42px;height:22px;border-radius:12px;background:var(--panel-2);border:1px solid var(--line);position:relative;transition:all .15s;flex:0 0 auto}
+.pvp-thumb{position:absolute;top:2px;left:2px;width:16px;height:16px;border-radius:50%;background:var(--ink-faint);transition:all .15s}
+.pvp-switch input:checked + .pvp-track{background:var(--accent-dim);border-color:var(--accent)}
+.pvp-switch input:checked + .pvp-track .pvp-thumb{left:22px;background:var(--accent)}
+.pvp-label{font-family:'Chakra Petch',sans-serif;font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--ink-dim)}
+.pvp-switch input:checked ~ .pvp-label{color:var(--ink)}
+
+.ban-panel{margin-top:14px;border-color:var(--imp)}
+.ban-panel .panel-title::before{background:var(--imp);box-shadow:0 0 8px var(--imp)}
+.ban-sub{font-family:'Spline Sans Mono',monospace;font-weight:400;font-size:10px;color:var(--ink-faint);text-transform:none;letter-spacing:0;margin-left:8px}
+.ban-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-bottom:14px}
+@media(max-width:740px){.ban-grid{grid-template-columns:1fr}}
+.ban-head{font-family:'Chakra Petch',sans-serif;font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--ink-dim);margin-bottom:8px}
+.ban-hint{font-size:10px;color:var(--ink-faint);margin-top:5px;font-style:italic}
+.ban-head .ban-hint{font-style:normal;text-transform:none;letter-spacing:0;margin-left:4px}
+
+.ban-chip.on{background:var(--imp)!important;border-color:var(--imp)!important;color:#0c0e14!important}
+
+.ban-tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:9px}
+.ban-tag{display:inline-flex;align-items:center;gap:6px;font-size:11.5px;background:rgba(232,137,107,.12);border:1px solid rgba(232,137,107,.35);color:var(--imp);padding:4px 9px;border-radius:5px;font-family:'Chakra Petch',sans-serif}
+.ban-tag .x{cursor:pointer;font-size:14px;line-height:1;opacity:.75}
+.ban-tag .x:hover{opacity:1}
+
+.ban-card-results{position:relative;margin-top:6px}
+.ban-card-results.show{background:var(--panel-2);border:1px solid var(--line);border-radius:6px;overflow:hidden}
+.ban-card-opt{display:flex;justify-content:space-between;align-items:center;padding:7px 11px;cursor:pointer;font-size:12.5px;border-bottom:1px solid var(--row-alt)}
+.ban-card-opt:last-child{border-bottom:none}
+.ban-card-opt:hover{background:var(--panel)}
+.ban-card-opt .cid{color:var(--ink-faint);font-size:10px}
+
+.ban-stat-row{display:flex;flex-direction:column;gap:8px}
+.ban-stat-row label{display:flex;align-items:center;gap:8px;font-size:12px;color:var(--ink-dim)}
+.ban-stat-row input{width:80px;background:var(--panel-2);border:1px solid var(--line);color:var(--ink);font-family:inherit;font-size:13px;padding:6px 9px;border-radius:5px;outline:none}
+.ban-stat-row input:focus{border-color:var(--imp)}
+
+.ban-actions{display:flex;align-items:center;gap:12px;flex-wrap:wrap;padding-top:4px;border-top:1px solid var(--line);margin-top:4px;padding-top:12px}

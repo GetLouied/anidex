@@ -13,10 +13,37 @@ async function loadData(){
 
 const state = {
   search:"", elements:new Set(), talent:"", variant:"",
-  ranges:{}, sortKey:"id", sortDir:"asc", expanded:new Set()
+  ranges:{}, sortKey:"id", sortDir:"asc", expanded:new Set(),
+  // PvP mode
+  pvp:false,
+  banElements:new Set(), banTalents:new Set(), banCards:new Set(), // banCards holds card IDs
+  banStatFloor:null, banStatCeiling:null
 };
 STATS.forEach(s=>state.ranges[s]=[0,200]);
 state.ranges.total=[0,800];
+
+// ---- PvP ban persistence (session only) ----
+function saveBans(){
+  try{
+    sessionStorage.setItem('pvpBans', JSON.stringify({
+      pvp:state.pvp,
+      el:[...state.banElements], tal:[...state.banTalents], card:[...state.banCards],
+      floor:state.banStatFloor, ceil:state.banStatCeiling
+    }));
+  }catch(e){}
+}
+function loadBans(){
+  try{
+    const raw=sessionStorage.getItem('pvpBans'); if(!raw)return;
+    const b=JSON.parse(raw);
+    state.pvp=!!b.pvp;
+    state.banElements=new Set(b.el||[]);
+    state.banTalents=new Set(b.tal||[]);
+    state.banCards=new Set(b.card||[]);
+    state.banStatFloor=(b.floor===0||b.floor)?b.floor:null;
+    state.banStatCeiling=(b.ceil===0||b.ceil)?b.ceil:null;
+  }catch(e){}
+}
 
 function statBounds(){
   const b={};
@@ -89,7 +116,7 @@ function buildUI(){
     document.getElementById('search').value="";
     document.getElementById('talentSelect').value="";
     populateVariants();
-    document.querySelectorAll('.chip.on').forEach(c=>c.classList.remove('on'));
+    document.querySelectorAll('#elementChips .chip.on').forEach(c=>c.classList.remove('on'));
     buildSliders();render();
   };
   // header
@@ -144,6 +171,20 @@ function filtered(){
     for(const k of [...STATS,"total"]){
       const [lo,hi]=state.ranges[k];
       if(c[k]<lo||c[k]>hi)return false;
+    }
+    // ---- PvP bans (exclusion) ----
+    if(state.pvp){
+      if(state.banElements.has(c.element))return false;
+      if(state.banTalents.has(c.talent))return false;
+      if(state.banCards.has(c.id))return false;
+      // stat-ban: ban if ANY of the 4 stats (not TOTAL) is <= floor or >= ceiling
+      const f=state.banStatFloor, ce=state.banStatCeiling;
+      if(f!==null||ce!==null){
+        for(const k of STATS){
+          if(f!==null && c[k]<=f)return false;
+          if(ce!==null && c[k]>=ce)return false;
+        }
+      }
     }
     return true;
   });
@@ -229,9 +270,119 @@ function applyHashFilters(){
   }
 }
 
+function buildBanUI(){
+  // PvP toggle
+  const toggle=document.getElementById('pvpToggle');
+  toggle.checked=state.pvp;
+  document.getElementById('banPanel').classList.toggle('hidden',!state.pvp);
+  toggle.onchange=()=>{
+    state.pvp=toggle.checked;
+    document.getElementById('banPanel').classList.toggle('hidden',!state.pvp);
+    saveBans();render();
+  };
+
+  // Ban elements chips
+  const bec=document.getElementById('banElementChips');
+  bec.innerHTML='';
+  ELEMENTS.forEach(e=>{
+    const c=document.createElement('div');
+    c.className='chip ban-chip'+(state.banElements.has(e)?' on':'');
+    c.dataset.el=e;c.textContent=e;
+    c.onclick=()=>{
+      state.banElements.has(e)?state.banElements.delete(e):state.banElements.add(e);
+      c.classList.toggle('on');saveBans();render();renderBanSummary();
+    };
+    bec.appendChild(c);
+  });
+
+  // Ban talents dropdown -> tags
+  const bts=document.getElementById('banTalentSelect');
+  bts.innerHTML='<option value="">Add a talent to ban…</option>';
+  Object.keys(TALENTS).sort().forEach(t=>{
+    const o=document.createElement('option');o.value=t;o.textContent=t;bts.appendChild(o);
+  });
+  bts.onchange=()=>{
+    if(bts.value){state.banTalents.add(bts.value);bts.value="";saveBans();render();renderBanTalentTags();renderBanSummary()}
+  };
+  renderBanTalentTags();
+
+  // Ban specific cards: search -> results -> tags
+  const bcs=document.getElementById('banCardSearch');
+  bcs.oninput=()=>{
+    const q=bcs.value.toLowerCase().trim();
+    const res=document.getElementById('banCardResults');
+    res.innerHTML='';
+    if(q.length<2){res.classList.remove('show');return}
+    const matches=CARDS.filter(c=>c.name.toLowerCase().includes(q)&&!state.banCards.has(c.id)).slice(0,8);
+    if(!matches.length){res.classList.remove('show');return}
+    res.classList.add('show');
+    matches.forEach(c=>{
+      const d=document.createElement('div');d.className='ban-card-opt';
+      d.innerHTML=`<span>${c.name}</span><span class="cid">#${c.id}</span>`;
+      d.onclick=()=>{state.banCards.add(c.id);bcs.value="";res.classList.remove('show');res.innerHTML='';saveBans();render();renderBanCardTags();renderBanSummary()};
+      res.appendChild(d);
+    });
+  };
+  renderBanCardTags();
+
+  // Stat ban floor/ceiling
+  const fl=document.getElementById('banFloor'), ce=document.getElementById('banCeiling');
+  fl.value=state.banStatFloor??''; ce.value=state.banStatCeiling??'';
+  const updStat=()=>{
+    state.banStatFloor = fl.value===''?null:Number(fl.value);
+    state.banStatCeiling = ce.value===''?null:Number(ce.value);
+    saveBans();render();renderBanSummary();
+  };
+  fl.oninput=updStat; ce.oninput=updStat;
+
+  // Clear all bans
+  document.getElementById('clearBansBtn').onclick=()=>{
+    state.banElements.clear();state.banTalents.clear();state.banCards.clear();
+    state.banStatFloor=null;state.banStatCeiling=null;
+    fl.value='';ce.value='';
+    document.querySelectorAll('.ban-chip.on').forEach(c=>c.classList.remove('on'));
+    saveBans();render();renderBanTalentTags();renderBanCardTags();renderBanSummary();
+  };
+
+  renderBanSummary();
+}
+
+function renderBanTalentTags(){
+  const wrap=document.getElementById('banTalentTags');
+  wrap.innerHTML='';
+  [...state.banTalents].sort().forEach(t=>{
+    const tag=document.createElement('span');tag.className='ban-tag';
+    tag.innerHTML=`${t}<span class="x">×</span>`;
+    tag.querySelector('.x').onclick=()=>{state.banTalents.delete(t);saveBans();render();renderBanTalentTags();renderBanSummary()};
+    wrap.appendChild(tag);
+  });
+}
+function renderBanCardTags(){
+  const wrap=document.getElementById('banCardTags');
+  wrap.innerHTML='';
+  [...state.banCards].forEach(id=>{
+    const card=CARDS.find(c=>c.id===id);if(!card)return;
+    const tag=document.createElement('span');tag.className='ban-tag';
+    tag.innerHTML=`${card.name}<span class="x">×</span>`;
+    tag.querySelector('.x').onclick=()=>{state.banCards.delete(id);saveBans();render();renderBanCardTags();renderBanSummary()};
+    wrap.appendChild(tag);
+  });
+}
+function renderBanSummary(){
+  const parts=[];
+  if(state.banElements.size)parts.push(state.banElements.size+' element'+(state.banElements.size>1?'s':''));
+  if(state.banTalents.size)parts.push(state.banTalents.size+' talent'+(state.banTalents.size>1?'s':''));
+  if(state.banCards.size)parts.push(state.banCards.size+' card'+(state.banCards.size>1?'s':''));
+  if(state.banStatFloor!==null)parts.push('≤'+state.banStatFloor);
+  if(state.banStatCeiling!==null)parts.push('≥'+state.banStatCeiling);
+  document.getElementById('banSummary').textContent=parts.length?'// banning: '+parts.join(', '):'// no bans set';
+}
+
 function init(){
+  loadBans();
   buildUI();
   populateVariants();
+  buildBanUI();
   applyHashFilters();
   render();
 }
