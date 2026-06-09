@@ -1,0 +1,684 @@
+{
+  "Aegis": [
+    {
+      "label": "-",
+      "desc": "On cast, grant all allied familiars 1 Shield(s), and permanently decrease damage taken by 4%. Each Shield prevents 1 instance of damage after being consumed."
+    }
+  ],
+  "Amplifier": [
+    {
+      "label": "DEF",
+      "desc": "Increase the DEF of all allied familiars by 14% for each allied familiar of the same type as the wielder. (This effect is doubled if your team only consists of 1 familiar) Every cast, increase the elemental effectiveness of this battle by 5%."
+    },
+    {
+      "label": "ATK",
+      "desc": "Increase the ATK of all allied familiars by 14% for each allied familiar of the same type as the wielder. (This effect is doubled if your team only consists of 1 familiar) Every cast, increase the elemental effectiveness of this battle by 5%."
+    }
+  ],
+  "Arcane Affinity": [
+    {
+      "label": "Water",
+      "desc": "[PSV]: At the beginning of the battle, at the start of your turn, increase the elemental effectiveness of this battle by 17% (only 1 Arcane Affinity per team can use this effect). Every round, deal 3% of the enemy's max HP as Water damage."
+    },
+    {
+      "label": "Grass",
+      "desc": "[PSV]: At the beginning of the battle, at the start of your turn, increase the elemental effectiveness of this battle by 17% (only 1 Arcane Affinity per team can use this effect). Every round, deal 3% of the enemy's max HP as Grass damage."
+    },
+    {
+      "label": "Dark",
+      "desc": "[PSV]: At the beginning of the battle, at the start of your turn, increase the elemental effectiveness of this battle by 17% (only 1 Arcane Affinity per team can use this effect). Every round, deal 3% of the enemy's max HP as Dark damage."
+    },
+    {
+      "label": "Ground",
+      "desc": "[PSV]: At the beginning of the battle, at the start of your turn, increase the elemental effectiveness of this battle by 17% (only 1 Arcane Affinity per team can use this effect). Every round, deal 3% of the enemy's max HP as Ground damage."
+    },
+    {
+      "label": "Null",
+      "desc": "[PSV]: At the beginning of the battle, at the start of your turn, increase the elemental effectiveness of this battle by 17% (only 1 Arcane Affinity per team can use this effect). Every round, deal 3% of the enemy's max HP as Null damage."
+    },
+    {
+      "label": "Neutral",
+      "desc": "[PSV]: At the beginning of the battle, at the start of your turn, increase the elemental effectiveness of this battle by 17% (only 1 Arcane Affinity per team can use this effect). Every round, deal 3% of the enemy's max HP as Neutral damage."
+    },
+    {
+      "label": "Fire",
+      "desc": "[PSV]: At the beginning of the battle, at the start of your turn, increase the elemental effectiveness of this battle by 17% (only 1 Arcane Affinity per team can use this effect). Every round, deal 3% of the enemy's max HP as Fire damage."
+    }
+  ],
+  "Atmospheric Acceleration": [
+    {
+      "label": "Electric",
+      "desc": "[PSV]: At the beginning of the battle, at the start of your turn, increase the SPD of all allied familiars by 15%. Every round, compare the SPD of all familiars in the battlefield. The team with the highest SPD will have their SPD increased further by 3%, and the opposing team take 15% of the difference between the two teams' SPD as Electric damage. If SPD is equal, the damage goes to the enemy team. Only 1 'Atmospheric Acceleration' can be active per team."
+    },
+    {
+      "label": "Fire",
+      "desc": "[PSV]: At the beginning of the battle, at the start of your turn, increase the SPD of all allied familiars by 15%. Every round, compare the SPD of all familiars in the battlefield. The team with the highest SPD will have their SPD increased further by 3%, and the opposing team take 15% of the difference between the two teams' SPD as Fire damage. If SPD is equal, the damage goes to the enemy team. Only 1 'Atmospheric Acceleration' can be active per team."
+    },
+    {
+      "label": "Ground",
+      "desc": "[PSV]: At the beginning of the battle, at the start of your turn, increase the SPD of all allied familiars by 15%. Every round, compare the SPD of all familiars in the battlefield. The team with the highest SPD will have their SPD increased further by 3%, and the opposing team take 15% of the difference between the two teams' SPD as Ground damage. If SPD is equal, the damage goes to the enemy team. Only 1 'Atmospheric Acceleration' can be active per team."
+    },
+    {
+      "label": "Dark",
+      "desc": "[PSV]: At the beginning of the battle, at the start of your turn, increase the SPD of all allied familiars by 15%. Every round, compare the SPD of all familiars in the battlefield. The team with the highest SPD will have their SPD increased further by 3%, and the opposing team take 15% of the difference between the two teams' SPD as Dark damage. If SPD is equal, the damage goes to the enemy team. Only 1 'Atmospheric Acceleration' can be active per team."
+    },
+    {
+      "label": "Null",
+      "desc": "[PSV]: At the beginning of the battle, at the start of your turn, increase the SPD of all allied familiars by 15%. Every round, compare the SPD of all familiars in the battlefield. The team with the highest SPD will have their SPD increased further by 3%, and the opposing team take 15% of the difference between the two teams' SPD as Null damage. If SPD is equal, the damage goes to the enemy team. Only 1 'Atmospheric Acceleration' can be active per team."
+    },
+    {
+      "label": "Neutral",
+      "desc": "[PSV]: At the beginning of the battle, at the start of your turn, increase the SPD of all allied familiars by 15%. Every round, compare the SPD of all familiars in the battlefield. The team with the highest SPD will have their SPD increased further by 3%, and the opposing team take 15% of the difference between the two teams' SPD as Neutral damage. If SPD is equal, the damage goes to the enemy team. Only 1 'Atmospheric Acceleration' can be active per team."
+    },
+    {
+      "label": "Water",
+      "desc": "[PSV]: At the beginning of the battle, at the start of your turn, increase the SPD of all allied familiars by 15%. Every round, compare the SPD of all familiars in the battlefield. The team with the highest SPD will have their SPD increased further by 3%, and the opposing team take 15% of the difference between the two teams' SPD as Water damage. If SPD is equal, the damage goes to the enemy team. Only 1 'Atmospheric Acceleration' can be active per team."
+    },
+    {
+      "label": "Light",
+      "desc": "[PSV]: At the beginning of the battle, at the start of your turn, increase the SPD of all allied familiars by 15%. Every round, compare the SPD of all familiars in the battlefield. The team with the highest SPD will have their SPD increased further by 3%, and the opposing team take 15% of the difference between the two teams' SPD as Light damage. If SPD is equal, the damage goes to the enemy team. Only 1 'Atmospheric Acceleration' can be active per team."
+    }
+  ],
+  "Balancing Strike": [
+    {
+      "label": "-",
+      "desc": "If your HP % is lower than the enemy's HP %, deal 15% of your base HP as True damage. Otherwise, this skill deals 5% of your base HP as True damage."
+    }
+  ],
+  "Berserker": [
+    {
+      "label": "ATK",
+      "desc": "[PSV]: While your health is low, increase the ATK of all allied familiars by 30%. The first time this effect activates, permanently decrease your damage taken by 13%."
+    },
+    {
+      "label": "DEF",
+      "desc": "[PSV]: While your health is low, increase the DEF of all allied familiars by 30%. The first time this effect activates, permanently decrease your damage taken by 13%."
+    }
+  ],
+  "Blaze": [
+    {
+      "label": "-",
+      "desc": "Inflict a stack of Burn to enemy familiars, dealing 10% True damage per turn, as well as reducing all healing effects on them by 75%."
+    }
+  ],
+  "Blood Surge": [
+    {
+      "label": "-",
+      "desc": "[PSV]: When your health becomes low, increase the LIFESTEAL of all allies by 45%."
+    }
+  ],
+  "Bloodthirster": [
+    {
+      "label": "-",
+      "desc": "[PSV]: At the start of your first turn, increase your LIFESTEAL, restoring HP equal to 18% attack damage your allies deal, as well as increasing all healing effects by 23% (up to a maximum of 50%). Every turn after that, increase your LIFESTEAL by 5%."
+    }
+  ],
+  "Breaker": [
+    {
+      "label": "DEF",
+      "desc": "Decrease the DEF of all enemy familiars by 20%, and deal True damage equal to 10% of the DEF reduced."
+    },
+    {
+      "label": "ATK",
+      "desc": "Decrease the ATK of all enemy familiars by 20%, and deal True damage equal to 10% of the ATK reduced."
+    }
+  ],
+  "Brutality": [
+    {
+      "label": "-",
+      "desc": "[PSV]: All allied familiars are surrounded by an aura of rage, storing 33% of all damage dealt by enemy familiars. On every 3rd round, deal the accumulated damage as True damage to all enemy familiars (this damage is uncapped), heal for 20% of the damage dealt, and reset the accumulated damage. Only 1 'Brutality' effect can be active per team."
+    }
+  ],
+  "Celestial Blessing": [
+    {
+      "label": "-",
+      "desc": "Increase your max Mana (up to 500 total) and Mana Regeneration by 18%, and heal allied familiars equal to 2x your max Mana."
+    }
+  ],
+  "Celestial Influence": [
+    {
+      "label": "-",
+      "desc": "[PSV]: Start off the battle with 40% increased Mana Regen, while decreasing enemy familiars' Mana Regen by 14%."
+    }
+  ],
+  "Cursed": [
+    {
+      "label": "-",
+      "desc": "[PSV]: At the start of the battle, both teams are Silenced for 2 turns. Each time an active skill is cast, the team that cast the skill takes 15% of their max HP as True damage (this effect is not stackable with familiars on your own team)."
+    }
+  ],
+  "Devour": [
+    {
+      "label": "-",
+      "desc": "Deal 5% of max HP as True damage, and increase your base HP by 8%. This damage is increased by a % based on the difference between your base HP and the enemy familiars' base HP."
+    }
+  ],
+  "Dexterity Drive": [
+    {
+      "label": "Dark",
+      "desc": "Deal Dark damage equal to 8% of your SPD, and deal additional damage according to the difference between your SPD and enemy's SPD."
+    },
+    {
+      "label": "Ground",
+      "desc": "Deal Ground damage equal to 8% of your SPD, and deal additional damage according to the difference between your SPD and enemy's SPD."
+    },
+    {
+      "label": "Electric",
+      "desc": "Deal Electric damage equal to 8% of your SPD, and deal additional damage according to the difference between your SPD and enemy's SPD."
+    },
+    {
+      "label": "Light",
+      "desc": "Deal Light damage equal to 8% of your SPD, and deal additional damage according to the difference between your SPD and enemy's SPD."
+    },
+    {
+      "label": "Grass",
+      "desc": "Deal Grass damage equal to 8% of your SPD, and deal additional damage according to the difference between your SPD and enemy's SPD."
+    },
+    {
+      "label": "Water",
+      "desc": "Deal Water damage equal to 8% of your SPD, and deal additional damage according to the difference between your SPD and enemy's SPD."
+    },
+    {
+      "label": "Fire",
+      "desc": "Deal Fire damage equal to 8% of your SPD, and deal additional damage according to the difference between your SPD and enemy's SPD."
+    },
+    {
+      "label": "Neutral",
+      "desc": "Deal Neutral damage equal to 8% of your SPD, and deal additional damage according to the difference between your SPD and enemy's SPD."
+    },
+    {
+      "label": "Null",
+      "desc": "Deal Null damage equal to 8% of your SPD, and deal additional damage according to the difference between your SPD and enemy's SPD."
+    }
+  ],
+  "Divine Blessing": [
+    {
+      "label": "-",
+      "desc": "[PSV]: At the start of the battle, permanently increase your ATK/DEF/SPD by 10% and gain a stack of Divine Blessing, increasing your ATK/DEF/SPD by 25% for 5 turns."
+    }
+  ],
+  "Divine Fortune": [
+    {
+      "label": "Water",
+      "desc": "[PSV]: During battle, accumulate Gold that charges this talent's power. Start with 100 Gold. At the start of your turn, toss a coin: Heads doubles your Gold; Tails reduces it by 33% (min 100). Then deal Water damage equal to 2% of the enemy's max HP multiplied by your Gold / 200 (Gold used for damage is capped at 1000). The first time you reach 500 Gold, restore 20% HP. The first time you reach 1000 Gold, fully restore your HP and permanently increase your damage dealt and reduce damage taken by 40% (Gold cap bonuses can only be activated once per team)."
+    },
+    {
+      "label": "Grass",
+      "desc": "[PSV]: During battle, accumulate Gold that charges this talent's power. Start with 100 Gold. At the start of your turn, toss a coin: Heads doubles your Gold; Tails reduces it by 33% (min 100). Then deal Grass damage equal to 2% of the enemy's max HP multiplied by your Gold / 200 (Gold used for damage is capped at 1000). The first time you reach 500 Gold, restore 20% HP. The first time you reach 1000 Gold, fully restore your HP and permanently increase your damage dealt and reduce damage taken by 40% (Gold cap bonuses can only be activated once per team)."
+    },
+    {
+      "label": "Dark",
+      "desc": "[PSV]: During battle, accumulate Gold that charges this talent's power. Start with 100 Gold. At the start of your turn, toss a coin: Heads doubles your Gold; Tails reduces it by 33% (min 100). Then deal Dark damage equal to 2% of the enemy's max HP multiplied by your Gold / 200 (Gold used for damage is capped at 1000). The first time you reach 500 Gold, restore 20% HP. The first time you reach 1000 Gold, fully restore your HP and permanently increase your damage dealt and reduce damage taken by 40% (Gold cap bonuses can only be activated once per team)."
+    }
+  ],
+  "Dominance": [
+    {
+      "label": "-",
+      "desc": "[PSV]: While your HP % is greater than or equal to the enemy's HP %, increase the ATK of allies by 17% and deal 5% of the lower of the enemy's current/max HP as True damage."
+    }
+  ],
+  "Double-edged Strike": [
+    {
+      "label": "Fire/ATK",
+      "desc": "Deal Fire damage equal to 15% of your ATK, and take 1/4 of the damage dealt to yourself."
+    },
+    {
+      "label": "Electric/DEF",
+      "desc": "Deal Electric damage equal to 15% of your DEF, and take 1/4 of the damage dealt to yourself."
+    },
+    {
+      "label": "Neutral/ATK",
+      "desc": "Deal Neutral damage equal to 15% of your ATK, and take 1/4 of the damage dealt to yourself."
+    },
+    {
+      "label": "Dark/DEF",
+      "desc": "Deal Dark damage equal to 15% of your DEF, and take 1/4 of the damage dealt to yourself."
+    },
+    {
+      "label": "Light/DEF",
+      "desc": "Deal Light damage equal to 15% of your DEF, and take 1/4 of the damage dealt to yourself."
+    },
+    {
+      "label": "Grass/DEF",
+      "desc": "Deal Grass damage equal to 15% of your DEF, and take 1/4 of the damage dealt to yourself."
+    },
+    {
+      "label": "Fire/DEF",
+      "desc": "Deal Fire damage equal to 15% of your DEF, and take 1/4 of the damage dealt to yourself."
+    },
+    {
+      "label": "Null/ATK",
+      "desc": "Deal Null damage equal to 15% of your ATK, and take 1/4 of the damage dealt to yourself."
+    },
+    {
+      "label": "Electric/ATK",
+      "desc": "Deal Electric damage equal to 15% of your ATK, and take 1/4 of the damage dealt to yourself."
+    },
+    {
+      "label": "Dark/ATK",
+      "desc": "Deal Dark damage equal to 15% of your ATK, and take 1/4 of the damage dealt to yourself."
+    },
+    {
+      "label": "Water/SPD",
+      "desc": "Deal Water damage equal to 15% of your SPD, and take 1/4 of the damage dealt to yourself."
+    },
+    {
+      "label": "Ground/DEF",
+      "desc": "Deal Ground damage equal to 15% of your DEF, and take 1/4 of the damage dealt to yourself."
+    },
+    {
+      "label": "Grass/ATK",
+      "desc": "Deal Grass damage equal to 15% of your ATK, and take 1/4 of the damage dealt to yourself."
+    },
+    {
+      "label": "Water/ATK",
+      "desc": "Deal Water damage equal to 15% of your ATK, and take 1/4 of the damage dealt to yourself."
+    },
+    {
+      "label": "Ground/ATK",
+      "desc": "Deal Ground damage equal to 15% of your ATK, and take 1/4 of the damage dealt to yourself."
+    },
+    {
+      "label": "Electric/SPD",
+      "desc": "Deal Electric damage equal to 15% of your SPD, and take 1/4 of the damage dealt to yourself."
+    },
+    {
+      "label": "Water/DEF",
+      "desc": "Deal Water damage equal to 15% of your DEF, and take 1/4 of the damage dealt to yourself."
+    }
+  ],
+  "Elemental Drain": [
+    {
+      "label": "-",
+      "desc": "Deal True damage to all enemy familiars equal to 5% of their max HP, plus 3% for each unique element present in the battle (multiplied by 1.5x if only 1 familiar is on your team, and unaffected by damage cap). Additionally, heal for 20% of the damage dealt."
+    }
+  ],
+  "Elemental Manipulation": [
+    {
+      "label": "Dark",
+      "desc": "[PSV]: At the beginning of the battle, at the start of your turn, change the element of all familiars to Dark and equip a Elemental Manipulation buff to your team. While the buff is active, this ability temporarily decreases DMG taken and increases DMG dealt by 4% and heals yourself for 3% of the lower of the enemies' current/max HP per turn. This buff expires when the enemy team is below 30% of their max HP."
+    },
+    {
+      "label": "Electric",
+      "desc": "[PSV]: At the beginning of the battle, at the start of your turn, change the element of all familiars to Electric and equip a Elemental Manipulation buff to your team. While the buff is active, this ability temporarily decreases DMG taken and increases DMG dealt by 4% and heals yourself for 3% of the lower of the enemies' current/max HP per turn. This buff expires when the enemy team is below 30% of their max HP."
+    },
+    {
+      "label": "Water",
+      "desc": "[PSV]: At the beginning of the battle, at the start of your turn, change the element of all familiars to Water and equip a Elemental Manipulation buff to your team. While the buff is active, this ability temporarily decreases DMG taken and increases DMG dealt by 4% and heals yourself for 3% of the lower of the enemies' current/max HP per turn. This buff expires when the enemy team is below 30% of their max HP."
+    },
+    {
+      "label": "Null",
+      "desc": "[PSV]: At the beginning of the battle, at the start of your turn, change the element of all familiars to Null and equip a Elemental Manipulation buff to your team. While the buff is active, this ability temporarily decreases DMG taken and increases DMG dealt by 4% and heals yourself for 3% of the lower of the enemies' current/max HP per turn. This buff expires when the enemy team is below 30% of their max HP."
+    },
+    {
+      "label": "Fire",
+      "desc": "[PSV]: At the beginning of the battle, at the start of your turn, change the element of all familiars to Fire and equip a Elemental Manipulation buff to your team. While the buff is active, this ability temporarily decreases DMG taken and increases DMG dealt by 4% and heals yourself for 3% of the lower of the enemies' current/max HP per turn. This buff expires when the enemy team is below 30% of their max HP."
+    },
+    {
+      "label": "Light",
+      "desc": "[PSV]: At the beginning of the battle, at the start of your turn, change the element of all familiars to Light and equip a Elemental Manipulation buff to your team. While the buff is active, this ability temporarily decreases DMG taken and increases DMG dealt by 4% and heals yourself for 3% of the lower of the enemies' current/max HP per turn. This buff expires when the enemy team is below 30% of their max HP."
+    },
+    {
+      "label": "Neutral",
+      "desc": "[PSV]: At the beginning of the battle, at the start of your turn, change the element of all familiars to Neutral and equip a Elemental Manipulation buff to your team. While the buff is active, this ability temporarily decreases DMG taken and increases DMG dealt by 4% and heals yourself for 3% of the lower of the enemies' current/max HP per turn. This buff expires when the enemy team is below 30% of their max HP."
+    }
+  ],
+  "Elemental Strike": [
+    {
+      "label": "Dark/ATK",
+      "desc": "Deal Dark damage based on 10% of your ATK."
+    },
+    {
+      "label": "Light/ATK",
+      "desc": "Deal Light damage based on 10% of your ATK."
+    },
+    {
+      "label": "Ground/ATK",
+      "desc": "Deal Ground damage based on 10% of your ATK."
+    },
+    {
+      "label": "Water/ATK",
+      "desc": "Deal Water damage based on 10% of your ATK."
+    },
+    {
+      "label": "Electric/ATK",
+      "desc": "Deal Electric damage based on 10% of your ATK."
+    },
+    {
+      "label": "Fire/ATK",
+      "desc": "Deal Fire damage based on 10% of your ATK."
+    },
+    {
+      "label": "Grass/ATK",
+      "desc": "Deal Grass damage based on 10% of your ATK."
+    },
+    {
+      "label": "Neutral/ATK",
+      "desc": "Deal Neutral damage based on 10% of your ATK."
+    },
+    {
+      "label": "Grass/DEF",
+      "desc": "Deal Grass damage based on 10% of your DEF."
+    }
+  ],
+  "Endurance": [
+    {
+      "label": "-",
+      "desc": "Buff your allies with Endurance, taking 65% less damage from normal attacks and 25% less damage from skills for 3 turns."
+    }
+  ],
+  "Evasion": [
+    {
+      "label": "-",
+      "desc": "Increase your EVASION by 17%, allowing you to dodge enemy attacks."
+    }
+  ],
+  "Executioner": [
+    {
+      "label": "-",
+      "desc": "[PSV]: When the enemy's health is below 27%, increase your ATK by 50%."
+    }
+  ],
+  "Final Verdict": [
+    {
+      "label": "-",
+      "desc": "[PSV]: At the beginning of battle, at the start of your turn, place the enemy team under Judgement. Compare both teams' base HP, ATK, DEF, and SPD. For each stat where the enemy team is higher, gain 1 Judgement counter, reduce that matching enemy stat by 6%, and if more than 1 Judgement counter is placed, reduce their Mana Regen by 10%. After 3 rounds, deliver the verdict, dealing True damage equal to 10% of the enemy team's max HP for each Judgement counter. This damage is unaffected by damage caps. This talent can only activate once per battle, and only 1 Final Verdict can be active per team."
+    }
+  ],
+  "Foul Play": [
+    {
+      "label": "-",
+      "desc": "[PSV]: Whenever enemy familiars increase their basic stats or heal, increase your stats by 30% of the amount as well. Only 1 'Foul Play' effect can be active per team."
+    }
+  ],
+  "Freeze": [
+    {
+      "label": "-",
+      "desc": "Inflict a stack of Frozen to enemy familiars, crippling their movement speed as well as permanently decreasing their ATK by 10%. Additionally, if the target is already Frozen, deal 4% of their max HP x number of rounds passed since they were Frozen as True damage."
+    }
+  ],
+  "Grievous Limiter": [
+    {
+      "label": "-",
+      "desc": "[PSV]: When the battle starts, decrease the ATK of enemy familiars by 40%. Their ATK increases by 3% every turn after that."
+    }
+  ],
+  "Lethal Clarity": [
+    {
+      "label": "-",
+      "desc": "[PSV]: Increase your CRIT and ATK by 12%. Every turn after that, increase your CRIT by 2%. Whenever you inflict a CRIT, heal for 45% of the damage dealt."
+    }
+  ],
+  "Life Sap": [
+    {
+      "label": "-",
+      "desc": "[PSV]: Every round, deal 2% of the enemy familiars' max HP as damage, and heal for 160% of the damage dealt."
+    }
+  ],
+  "Lucky Coin": [
+    {
+      "label": "-",
+      "desc": "Roll a 20 sided dice. Your allied familiars gain the amount rolled x 3 HP/ATK/DEF/SPD at random."
+    }
+  ],
+  "Mana Reaver": [
+    {
+      "label": "-",
+      "desc": "Absorb up to 20% Mana from enemy familiars, and deal True damage equal to the Mana absorbed x10 (damage is further multiplied by number of enemy familiars)."
+    }
+  ],
+  "Miracle Injection": [
+    {
+      "label": "-",
+      "desc": "[PSV]: Start off the battle by decreasing your HP and max HP by 10%. Increase your SPD/ATK/DEF by the amount decreased x2."
+    }
+  ],
+  "Offensive Stance": [
+    {
+      "label": "-",
+      "desc": "Increase the ATK of all allied familiars by 40%, increase damage dealt by 5%, and simultaneously decrease their DEF by 10%."
+    }
+  ],
+  "Omniscient Hack": [
+    {
+      "label": "-",
+      "desc": "[PSV]: Hack into your enemies in the beginning of the battle, gaining insight into your opponents. Decrease all damage taken by 18% and increase damage dealt by 15%."
+    }
+  ],
+  "Overload": [
+    {
+      "label": "ATK",
+      "desc": "[PSV]: When the battle starts, increase the ATK by 55% of all allied familiars. Your ATK decreases by 8% every turn after that."
+    },
+    {
+      "label": "DEF",
+      "desc": "[PSV]: When the battle starts, increase the DEF by 55% of all allied familiars. Your DEF decreases by 8% every turn after that."
+    },
+    {
+      "label": "SPD",
+      "desc": "[PSV]: When the battle starts, increase the SPD by 55% of all allied familiars. Your SPD decreases by 8% every turn after that."
+    }
+  ],
+  "Pain For Power": [
+    {
+      "label": "-",
+      "desc": "Sacrifice 7% of your allies current HP to increase the ATK and SPD of all allied familiars by 30%."
+    }
+  ],
+  "Paralysis": [
+    {
+      "label": "-",
+      "desc": "Gain a 40% chance to inflict a stack of Stun to enemy familiars, disabling their next turn, as well as permanently decreasing their DEF by 10%."
+    }
+  ],
+  "Poison": [
+    {
+      "label": "-",
+      "desc": "Inflict a stack of Poison to enemy familiars, dealing 5 + 5% true damage every turn it persists."
+    }
+  ],
+  "Precision": [
+    {
+      "label": "-",
+      "desc": "Increase the CRIT of ally familiars by 16%, and increase CRIT DMG by 25%."
+    }
+  ],
+  "Protector": [
+    {
+      "label": "-",
+      "desc": "[PSV]: When your health drops below 30%, restore the HP of all allied familiars by 20%, raise their DEF by 35%, and decrease all damage taken by 5%."
+    }
+  ],
+  "Recoil": [
+    {
+      "label": "-",
+      "desc": "[PSV]: At the start of the battle (during your turn), reduce the mana regeneration of all allied and enemy familiars by 15%. Inflict a stack of Recoil to your opponent, dealing 3% of its HP as True damage per turn. This status cannot be resisted, and additional statuses cannot be added."
+    }
+  ],
+  "Reflector": [
+    {
+      "label": "-",
+      "desc": "[PSV]: Start off the battle with Reflector buff, reflecting 23% of the damage you take to enemy familiars instead."
+    }
+  ],
+  "Regeneration": [
+    {
+      "label": "-",
+      "desc": "Every time this ability is cast, heal 7.5% of your HP, and add 1 stack of Regeneration, healing them for 7.5% HP per stack every turn."
+    }
+  ],
+  "Rejuvenation": [
+    {
+      "label": "-",
+      "desc": "Restore the HP of all allied familiars by 12%, as well as increasing healing effects on allied familiars by 10%, up to a maximum of 50% heal increase."
+    }
+  ],
+  "Restricted Instinct": [
+    {
+      "label": "-",
+      "desc": "Inflicts a stack of Silence on enemy familiars for up to 3 turns, restricting any of their abilities to be used, and permanently decreasing its Mana Regen by 10% on every cast."
+    }
+  ],
+  "Reversion": [
+    {
+      "label": "-",
+      "desc": "[PSV]: Once your health drops below 20%, revert the stats and HP of all allied and enemy familiars back to their base stats. Your allied familiars also increase their DEF/SPD by 12% after the reversion."
+    }
+  ],
+  "Rising Resolve": [
+    {
+      "label": "-",
+      "desc": "[PSV]: While your total stats (HP, ATK, DEF, SPD) are below your opponents' total stats, increase all your stats by 8% (max HP is increased instead of HP). The first time your total stats exceed your opponents' total stats, restore 10% of your max HP."
+    }
+  ],
+  "Smokescreen": [
+    {
+      "label": "-",
+      "desc": "Inflict the debuff Smokescreen to enemy familiars, causing a 50% chance to miss their attacks and damage from spells. This effect can last up to 3 turns."
+    }
+  ],
+  "Soul Stealer": [
+    {
+      "label": "DEF",
+      "desc": "[PSV]: Absorb 4% of the enemy familiars' DEF every turn."
+    },
+    {
+      "label": "ATK",
+      "desc": "[PSV]: Absorb 4% of the enemy familiars' ATK every turn."
+    }
+  ],
+  "Temporal Rewind": [
+    {
+      "label": "-",
+      "desc": "[PSV]: Start off the battle buffing your allies with a stack of Temporal Rewind (this does not stack, and refreshes the ability instead). After 3 turns, restore your HP to half the difference between your original HP and your current HP, and deal the same amount as True damage to your opponent. Fill your Mana bar to max after the rewind. Permanently increase your SPD/ATK/DEF by 20% after the rewind."
+    }
+  ],
+  "Time Attack": [
+    {
+      "label": "Fire/ATK",
+      "desc": "Deal 5% of your base ATK as Fire damage. The damage increases by 50% for every turn passed."
+    },
+    {
+      "label": "Light/ATK",
+      "desc": "Deal 5% of your base ATK as Light damage. The damage increases by 50% for every turn passed."
+    },
+    {
+      "label": "Ground/ATK",
+      "desc": "Deal 5% of your base ATK as Ground damage. The damage increases by 50% for every turn passed."
+    },
+    {
+      "label": "Dark/DEF",
+      "desc": "Deal 5% of your base DEF as Dark damage. The damage increases by 50% for every turn passed."
+    },
+    {
+      "label": "Dark/ATK",
+      "desc": "Deal 5% of your base ATK as Dark damage. The damage increases by 50% for every turn passed."
+    },
+    {
+      "label": "Grass/ATK",
+      "desc": "Deal 5% of your base ATK as Grass damage. The damage increases by 50% for every turn passed."
+    },
+    {
+      "label": "Fire/DEF",
+      "desc": "Deal 5% of your base DEF as Fire damage. The damage increases by 50% for every turn passed."
+    },
+    {
+      "label": "Dark/HP",
+      "desc": "Deal 5% of your base HP as Dark damage. The damage increases by 50% for every turn passed."
+    },
+    {
+      "label": "Water/ATK",
+      "desc": "Deal 5% of your base ATK as Water damage. The damage increases by 50% for every turn passed."
+    },
+    {
+      "label": "Water/DEF",
+      "desc": "Deal 5% of your base DEF as Water damage. The damage increases by 50% for every turn passed."
+    },
+    {
+      "label": "Neutral/DEF",
+      "desc": "Deal 5% of your base DEF as Neutral damage. The damage increases by 50% for every turn passed."
+    },
+    {
+      "label": "Neutral/HP",
+      "desc": "Deal 5% of your base HP as Neutral damage. The damage increases by 50% for every turn passed."
+    },
+    {
+      "label": "Electric/DEF",
+      "desc": "Deal 5% of your base DEF as Electric damage. The damage increases by 50% for every turn passed."
+    }
+  ],
+  "Time Bomb": [
+    {
+      "label": "-",
+      "desc": "Inflict a stack of Time Bomb to enemy familiars, dealing 30% of your ATK as True damage after 2 turns, as well as increasing their damage taken by 10%. This damage is unaffected by damage caps and it cannot be resisted. Only 1 Time Bomb can be placed at a time."
+    }
+  ],
+  "Transformation": [
+    {
+      "label": "ATK",
+      "desc": "[PSV]: When the battle starts, decrease the SPD of all allied familiars by 15%, and simultaneously increasing their base HP and ATK by 30%."
+    },
+    {
+      "label": "DEF",
+      "desc": "[PSV]: When the battle starts, decrease the SPD of all allied familiars by 15%, and simultaneously increasing their base HP and DEF by 30%."
+    }
+  ],
+  "Trick Room": [
+    {
+      "label": "DEF",
+      "desc": "If the enemy familiars' DEF is higher than yours, your allies gain DEF equal to 60% of the difference between the two DEF's, and simultaneously reduce their DEF by the same amount."
+    },
+    {
+      "label": "ATK",
+      "desc": "If the enemy familiars' ATK is higher than yours, your allies gain ATK equal to 60% of the difference between the two ATK's, and simultaneously reduce their ATK by the same amount."
+    }
+  ],
+  "Ultimate Combo": [
+    {
+      "label": "-",
+      "desc": "Every time this ability is casted, increase your Fighting Counter by 1, and gain 20 mana. This skill deals 3% of your SPD x the amount of Fighting Counters you have as True damage (unaffected by modifiers). If your allied familiars have a total of 3 Fighting Counters, this skill deals 30% of your opponent's max HP as True damage instead (unaffected by modifiers), and your Fighting Counters are reset back to 0."
+    }
+  ],
+  "Underdog": [
+    {
+      "label": "DEF",
+      "desc": "[PSV]: While your HP % is lower than the enemy's HP %, increase the DEF of all allies by 15%."
+    },
+    {
+      "label": "ATK",
+      "desc": "[PSV]: While your HP % is lower than the enemy's HP %, increase the ATK of all allies by 15%."
+    }
+  ],
+  "Undying Will": [
+    {
+      "label": "-",
+      "desc": "[PSV]: Once per battle, when your HP goes to 0, your allies gain the buff Undying Will, making them immune to death until this talent activates again. When this talent activates, revive yourself with 10% HP, and increase your damage dealt by 20%."
+    }
+  ],
+  "Unlucky Coin": [
+    {
+      "label": "-",
+      "desc": "Roll a 20 sided dice. Enemy familiars have their HP/ATK/DEF/SPD reduced by the amount rolled x 2 at random."
+    }
+  ],
+  "Vengeance": [
+    {
+      "label": "ATK",
+      "desc": "Deal True damage to all enemy familiars equal to 11% of their ATK."
+    },
+    {
+      "label": "DEF",
+      "desc": "Deal True damage to all enemy familiars equal to 11% of their DEF."
+    },
+    {
+      "label": "SPD",
+      "desc": "Deal True damage to all enemy familiars equal to 11% of their SPD."
+    }
+  ],
+  "Yin Yang": [
+    {
+      "label": "-",
+      "desc": "[PSV]: At the beginning of the battle, at the start of your turn, gain a Yang buff, temporarily increasing your DEF by 75% and healing all allies by 4% of their max HP. This effect swaps to a Yin buff every other turn, temporarily increasing your ATK by 75% and permanently increasing your ATK and SPD by 5%. If a Yang buff is already in effect, a Yin buff will be applied instead, and vice versa."
+    }
+  ]
+}

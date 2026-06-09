@@ -1,0 +1,1280 @@
+ID,Name,Element,HP,ATK,DEF,SPD,TOTAL,Talent,Talent Variant,Series
+1,2B,Neutral,80,97,66,82,325,Temporal Rewind,-,Nier: Automata
+2,9S,Neutral,94,67,90,76,327,Temporal Rewind,-,Nier: Automata
+3,Accelerator,Light,73,89,70,89,321,Offensive Stance,-,A Certain Scientific Railgun
+4,Ai Hayasaka,Ground,88,88,57,93,326,Restricted Instinct,-,Love Is War
+5,Ainz Ooal Gown,Dark,82,99,66,78,325,Elemental Strike,Dark/ATK,Overlord
+6,Ais Wallenstein,Neutral,68,93,94,66,321,Breaker,ATK,Danmachi
+7,Akame,Dark,85,80,69,86,320,Executioner,-,Akame Ga Kill!
+8,Akane Tsunemori,Light,77,89,93,62,321,Lucky Coin,-,Psycho Pass
+9,Akeno Himejima,Electric,62,99,71,91,323,Rejuvenation,-,High School DxD
+10,Aki Hayakawa,Dark,79,94,76,80,329,Temporal Rewind,-,Chainsaw Man
+11,Akiko Yosano,Neutral,85,75,85,80,325,Protector,-,Bungou Stray Dogs
+12,Akira Hayama,Grass,73,83,71,100,327,Dominance,-,Shokugeki No Soma
+13,Akitaru Obi,Ground,94,70,76,83,323,Endurance,-,Fire Force
+14,Aladdin,Light,64,76,84,97,321,Divine Blessing,-,Magi
+15,Albedo,Dark,96,94,67,67,324,Poison,-,Overlord
+16,Alex Louis Armstrong,Light,89,87,92,86,354,Recoil,-,Fullmetal Alchemist
+17,Alibaba Saluja,Fire,80,76,96,71,323,Divine Blessing,-,Magi
+18,Alice Nakiri,Ground,81,73,76,95,325,Breaker,ATK,Shokugeki No Soma
+19,Alice Zuberg,Light,75,86,98,65,324,Regeneration,-,Sword Art Online
+20,All Might,Neutral,85,94,76,67,322,Underdog,ATK,My Hero Academia
+21,Amber,Neutral,79,99,83,66,327,Precision,-,Darker Than Black
+22,Ami Mizuno (Sailor Mercury),Water,72,84,70,98,324,Rejuvenation,-,Sailor Moon
+23,Android 18,Ground,74,92,75,81,322,Overload,ATK,Dragon Ball
+24,Angel Devil,Neutral,88,91,73,76,328,Life Sap,-,Chainsaw Man
+25,Anna Kyoyama,Light,76,89,80,84,329,Celestial Blessing,-,Shaman King
+26,Annie Leonhart,Water,96,96,65,70,327,Transformation,ATK,Attack On Titan
+27,Anya Forger,Light,80,80,80,80,320,Reversion,-,Spy X Family
+28,Aoi Asahina,Water,72,77,91,87,327,Regeneration,-,Danganronpa
+29,Aqua,Water,80,93,85,68,326,Rejuvenation,-,Konosuba
+30,Arataka Reigen,Neutral,85,70,87,75,317,Trick Room,ATK,Mob Psycho 100
+31,Armin Arlert,Ground,70,96,73,86,325,Evasion,-,Attack On Titan
+32,Arthur Boyle,Fire,86,78,72,95,331,Breaker,ATK,Fire Force
+33,Artoria Pendragon,Light,86,93,75,65,319,Breaker,DEF,Fate
+34,Aru Akise,Light,95,84,70,76,325,Divine Blessing,-,Mirai Nikki
+35,Asia Argento,Light,99,81,62,81,323,Regeneration,-,High School DxD
+36,Asta,Dark,83,85,68,93,329,Restricted Instinct,-,Black Clover
+37,Astolfo,Neutral,70,82,86,93,331,Paralysis,-,Nov 2021 Event
+38,Asuna Yuuki,Water,97,85,63,79,324,Balancing Strike,-,Sword Art Online
+39,Atsushi Nakajima,Light,90,81,93,63,327,Transformation,ATK,Bungou Stray Dogs
+40,Ayano Keiko (Silica),Grass,63,84,100,80,327,Restricted Instinct,-,Sword Art Online
+41,Ayato Kirishima,Dark,87,94,63,75,319,Elemental Strike,Dark/ATK,Tokyo Ghoul
+42,Ayato Naoi,Neutral,89,81,86,67,323,Poison,-,Angel Beats
+43,Azusa Nakano,Light,80,80,82,77,319,Rejuvenation,-,K On!
+44,Bad (Metal Bat),Ground,60,92,79,94,325,Executioner,-,One Punch Man
+45,Ban,Dark,90,61,83,94,328,Regeneration,-,7 Deadly Sins
+46,Basara Toujou,Light,65,77,94,87,323,Executioner,-,Shinmai Maou No Testament
+47,Bell Cranel,Dark,75,88,86,70,319,Evasion,-,Danmachi
+48,Bell Hydra,Neutral,84,89,66,82,321,Trick Room,DEF,Blood Lad
+49,Benedict Blue,Water,95,87,68,80,330,Miracle Injection,-,Violet Evergarden
+50,Benimaru,Fire,75,86,71,90,322,Time Attack,Fire/ATK,Tensei Shitara Slime Datta Ken
+51,Benimaru Shinmon,Fire,73,87,76,91,327,Mana Reaver,-,Fire Force
+52,Beros,Dark,84,86,80,76,326,Grievous Limiter,-,Blood Lad
+53,Bishamonten,Electric,77,95,73,80,325,Lucky Coin,-,Noragami
+54,Bisky Krueger,Light,67,96,62,95,320,Evasion,-,Hunter X Hunter
+55,Black Star,Ground,83,92,70,80,325,Time Attack,Ground/ATK,Soul Eater
+56,Blair,Dark,102,69,68,84,323,Time Attack,Dark/HP,Soul Eater
+57,Bond Forger,Neutral,83,89,80,87,339,Underdog,ATK,Spy X Family
+58,Botan,Light,92,73,81,81,327,Reversion,-,Yu Yu Hakusho
+59,Braz D Blood,Dark,70,92,87,75,324,Dominance,-,Blood Lad
+60,Brook,Dark,78,94,72,79,323,Precision,-,One Piece
+61,Byakuya Togami,Light,89,70,91,75,325,Blood Surge,-,Danganronpa
+62,C.C.,Light,95,67,93,70,325,Rejuvenation,-,Code Geass
+63,Chainsaw Man,Dark,69,102,86,69,326,Bloodthirster,-,Chainsaw Man
+64,Charmy Pappitson,Dark,82,87,79,77,325,Transformation,ATK,Black Clover
+65,Chiaki Nanami,Electric,80,91,68,86,325,Dominance,-,Danganronpa
+66,Chifuyu Matsuno,Neutral,86,75,93,73,327,Balancing Strike,-,Tokyo Revengers
+67,Chika Fujiwara,Light,87,90,82,66,325,Lucky Coin,-,Love Is War
+68,Child Emperor,Neutral,84,85,62,93,324,Underdog,DEF,One Punch Man
+69,Chino Kafuu,Water,80,95,81,70,326,Time Bomb,-,Gochuumon Wa Usagi Desu Ka
+70,Chisato Hasegawa,Neutral,98,92,64,70,324,Divine Blessing,-,Shinmai Maou No Testament
+71,Chiya Ujimatsu,Water,76,69,98,77,320,Lucky Coin,-,Gochuumon Wa Usagi Desu Ka
+72,Chlammy Zell,Neutral,81,81,81,81,324,Paralysis,-,No Game No Life
+73,Chocolove Mcdonell,Electric,90,78,70,90,328,Dexterity Drive,Ground,Shaman King
+74,Chomusuke,Dark,81,81,81,81,324,Celestial Influence,-,Konosuba
+75,Chrome,Ground,79,88,78,82,327,Elemental Strike,Ground/ATK,Dr. Stone
+76,Cirno,Water,73,99,73,90,335,Freeze,-,Touhou
+77,Cocoa Hoto,Fire,70,95,72,85,322,Dominance,-,Gochuumon Wa Usagi Desu Ka
+78,Colossal Titan,Ground,95,95,95,50,335,Recoil,-,Attack On Titan
+79,Cornelia Britannia,Neutral,76,97,74,73,320,Celestial Influence,-,Code Geass
+80,Cow Girl,Water,98,74,72,80,324,Temporal Rewind,-,Goblin Slayer
+81,Crona,Dark,96,87,62,79,324,Time Attack,Dark/DEF,Soul Eater
+82,Crusch Karsten,Neutral,84,80,78,85,327,Restricted Instinct,-,Re:Zero
+83,Dabi,Fire,80,87,83,72,322,Amplifier,ATK,My Hero Academia
+84,Damian Desmond,Ground,80,80,80,80,320,Life Sap,-,Spy X Family
+85,Darkness,Neutral,97,70,91,61,319,Rejuvenation,-,Konosuba
+86,Death The Kid,Dark,93,67,75,88,323,Lucky Coin,-,Soul Eater
+87,Demiurge,Fire,86,75,88,80,329,Blaze,-,Overlord
+88,Denji,Neutral,84,88,91,70,333,Paralysis,-,Chainsaw Man
+89,Denki Kaminari,Electric,60,98,75,91,324,Executioner,-,My Hero Academia
+90,Diablo,Dark,85,60,77,100,322,Grievous Limiter,-,Tensei Shitara Slime Datta Ken
+91,Diane,Ground,81,81,83,81,326,Elemental Strike,Ground/ATK,7 Deadly Sins
+92,Dio Brando,Electric,74,88,83,81,326,Blood Surge,-,Jojos Bizarre Adventure
+93,Doppo Kunikida,Grass,97,77,73,79,326,Celestial Blessing,-,Bungou Stray Dogs
+94,Draken,Fire,82,83,80,86,331,Transformation,ATK,Tokyo Revengers
+95,Echidna,Dark,76,99,84,67,326,Pain For Power,-,Re:Zero
+96,Ed,Fire,87,65,92,83,327,Mana Reaver,-,Cowboy Bebop
+97,Edward Elric,Electric,84,75,101,63,323,Regeneration,-,Fullmetal Alchemist
+98,Elaine,Grass,72,88,76,87,323,Protector,-,7 Deadly Sins
+99,Elma,Water,86,85,86,68,325,Time Attack,Water/ATK,Ms. Kobayashi's Dragon Maid
+100,Emilia,Water,82,90,72,76,320,Amplifier,DEF,Re:Zero
+101,Enel,Electric,94,62,76,87,319,Double-edged Strike,Electric/DEF,One Piece
+102,Envy,Dark,85,73,76,88,322,Evasion,-,Fullmetal Alchemist
+103,Eren Yeager,Ground,73,68,87,95,323,Dexterity Drive,Ground,Attack On Titan
+104,Eri,Light,79,84,75,83,321,Reversion,-,My Hero Academia
+105,Erina Nakiri,Neutral,84,90,76,76,326,Pain For Power,-,Shokugeki No Soma
+106,Eris,Light,82,84,83,76,325,Lucky Coin,-,Konosuba
+107,Eruka Frog,Light,74,78,83,89,324,Time Bomb,-,Soul Eater
+108,Erwin Smith,Ground,86,87,73,77,323,Offensive Stance,-,Attack On Titan
+109,Erza Scarlet,Ground,78,95,80,76,329,Pain For Power,-,Fairy Tail
+110,Escanor,Fire,79,100,80,64,323,Overload,ATK,7 Deadly Sins
+111,Esdeath,Water,70,97,62,90,319,Elemental Strike,Water/ATK,Akame Ga Kill!
+112,Eto Yoshimura,Dark,95,80,78,73,326,Breaker,ATK,Tokyo Ghoul
+113,Eugeo,Water,73,89,76,84,322,Freeze,-,Sword Art Online
+114,Fafnir,Dark,89,83,74,79,325,Balancing Strike,-,Ms. Kobayashi's Dragon Maid
+115,Fairy King Harlequin,Grass,91,92,63,73,319,Blaze,-,7 Deadly Sins
+116,Faye Valentine,Light,85,91,74,77,327,Precision,-,Cowboy Bebop
+117,Feitan Portor,Fire,75,80,86,82,323,Evasion,-,Hunter X Hunter
+118,Felix Argyle,Neutral,102,73,77,68,320,Evasion,-,Re:Zero
+119,Ferid Bathory,Dark,70,92,86,70,318,Bloodthirster,-,Owari No Seraph
+120,Fiel Nirvalen (Fii),Light,73,86,86,79,324,Celestial Influence,-,No Game No Life
+121,Filo,Light,85,76,83,79,323,Amplifier,ATK,The Rising Of The Shield Hero
+122,Fitoria,Light,90,82,76,77,325,Transformation,ATK,The Rising Of The Shield Hero
+123,Flandre Scarlet,Fire,89,80,83,77,329,Bloodthirster,-,Touhou
+124,Fran,Grass,76,62,98,84,320,Double-edged Strike,Grass/DEF,Katekyo Hitman Reborn
+125,Franken Stein,Dark,93,81,85,67,326,Time Bomb,-,Soul Eater
+126,Frederica,Light,91,70,87,79,327,Miracle Injection,-,Bofuri
+127,Freya,Grass,75,79,84,83,321,Rejuvenation,-,Danmachi
+128,Fumikage Tokoyami,Dark,86,71,67,95,319,Dexterity Drive,Dark,My Hero Academia
+129,Fuutarou Uesugi,Neutral,80,80,80,80,320,Celestial Blessing,-,The Quintessential Quintuplets
+130,Fuyumi Yanagi,Water,79,88,84,75,326,Bloodthirster,-,Blood Lad
+131,Gaara,Ground,78,80,92,75,325,Divine Blessing,-,Naruto
+132,Gajeel Redfox,Ground,80,89,80,75,324,Overload,ATK,Fairy Tail
+133,Garou,Neutral,70,82,91,80,323,Blood Surge,-,One Punch Man
+134,Gen Asagiri,Neutral,96,60,84,82,322,Poison,-,Dr. Stone
+135,Genos,Fire,83,90,76,72,321,Overload,ATK,One Punch Man
+136,Genryusai Shigekuni Yamamoto,Fire,97,74,84,66,321,Amplifier,DEF,Bleach
+137,Ghost,Dark,75,75,75,75,300,Dominance,-,Halloween Event
+138,Gilbert Bougainvillea,Neutral,81,96,81,70,328,Double-edged Strike,Neutral/ATK,Violet Evergarden
+139,Gilgamesh,Fire,84,86,85,70,325,Executioner,-,Fate
+140,Gilthunder,Electric,80,82,73,88,323,Elemental Strike,Electric/ATK,7 Deadly Sins
+141,Gin,Grass,95,84,78,78,335,Soul Stealer,DEF,Hotarubi No Mori E
+142,Gin Gagamaru,Ground,87,72,101,50,310,Protector,-,Blue Lock
+143,Gintoki Sakata,Electric,83,80,87,74,324,Endurance,-,Gintama
+144,Giorno Giovanna,Grass,84,84,78,78,324,Temporal Rewind,-,Jojos Bizarre Adventure
+145,Giyu Tomioka,Water,76,80,81,93,330,Double-edged Strike,Water/SPD,Demon Slayer
+146,Goblin Slayer,Ground,90,95,77,63,325,Executioner,-,Goblin Slayer
+147,Gon Freecss,Light,80,86,80,77,323,Paralysis,-,Hunter X Hunter
+148,Goro (056),Ground,84,75,92,76,327,Divine Blessing,-,Darling In The Franxx
+149,Gowther,Water,89,63,82,83,317,Trick Room,ATK,7 Deadly Sins
+150,Gray Fullbuster,Water,81,83,80,79,323,Freeze,-,Fairy Tail
+151,Greed,Neutral,84,73,95,72,324,Protector,-,Fullmetal Alchemist
+152,Grimmjow Jeagerjaques,Dark,67,94,68,95,324,Dexterity Drive,Dark,Bleach
+153,Guild Girl,Ground,85,70,95,74,324,Divine Blessing,-,Goblin Slayer
+154,Guren Ichinose,Neutral,63,85,95,80,323,Offensive Stance,-,Owari No Seraph
+155,Hajime Kokonoi,Dark,81,86,72,95,334,Unlucky Coin,-,Tokyo Revengers
+156,Hao Asakura,Fire,90,72,97,68,327,Blaze,-,Shaman King
+157,Happy,Water,84,83,71,90,328,Dexterity Drive,Water,Fairy Tail
+158,Haruka Tenou (Sailor Uranus),Grass,90,82,60,92,324,Elemental Strike,Grass/ATK,Sailor Moon
+159,Hatsune Miku,Water,85,78,83,83,329,Breaker,ATK,Vocaloid
+160,Hayato Gokudera,Fire,84,86,68,84,322,Time Bomb,-,Katekyo Hitman Reborn
+161,Hei,Dark,80,85,80,81,326,Paralysis,-,Darker Than Black
+162,Hestia,Light,85,73,83,87,328,Vengeance,ATK,Danmachi
+163,Hibana,Fire,76,92,83,77,328,Overload,ATK,Fire Force
+164,Hideyoshi Kinoshita,Neutral,96,70,93,72,331,Ultimate Combo,-,Nov 2021 Event
+165,Hideyoshi Nagachika,Electric,83,92,67,84,326,Overload,ATK,Tokyo Ghoul
+166,Hiei,Dark,93,86,82,58,319,Reversion,-,Yu Yu Hakusho
+167,High Elf Archer,Grass,81,75,88,82,326,Precision,-,Goblin Slayer
+168,Hijikata Toushirou,Fire,74,86,90,76,326,Double-edged Strike,Fire/DEF,Gintama
+169,Himeno,Grass,78,93,82,72,325,Pain For Power,-,Chainsaw Man
+170,Himiko Toga,Dark,79,85,86,79,329,Poison,-,My Hero Academia
+171,Hinami Fueguchi,Dark,74,88,81,77,320,Offensive Stance,-,Tokyo Ghoul
+172,Hinata Hyuga,Neutral,85,75,94,69,323,Divine Blessing,-,Naruto
+173,Hiro (016),Neutral,89,96,60,77,322,Divine Blessing,-,Darling In The Franxx
+174,Hisako Arato,Neutral,69,83,85,90,327,Bloodthirster,-,Shokugeki No Soma
+175,Hisoka Morrow,Dark,83,72,90,75,320,Poison,-,Hunter X Hunter
+176,Historia Reiss,Light,83,77,95,73,328,Temporal Rewind,-,Attack On Titan
+177,Hiyori Iki,Water,72,80,93,81,326,Transformation,ATK,Noragami
+178,Horohoro,Water,90,75,86,80,331,Freeze,-,Shaman King
+179,Hotaru Takegawa,Water,83,89,66,91,329,Temporal Rewind,-,Hotarubi No Mori E
+180,Houka Inumuta,Water,90,86,75,74,325,Dominance,-,Kill La Kill
+181,Hyoma Chigiri,Water,84,85,71,99,339,Dexterity Drive,Ground,Blue Lock
+182,Ichigo (015),Water,81,65,90,83,319,Underdog,DEF,Darling In The Franxx
+183,Ichigo Kurosaki,Dark,89,102,64,66,321,Berserker,ATK,Bleach
+184,Ichika Nakano,Electric,76,80,95,76,327,Miracle Injection,-,The Quintessential Quintuplets
+185,Ikumi Mito,Ground,76,92,80,80,328,Life Sap,-,Shokugeki No Soma
+186,Illyasviel Von Einzbern,Water,84,85,78,76,323,Elemental Strike,Water/ATK,Fate
+187,Inosuke Hashibira,Dark,90,88,81,62,321,Amplifier,DEF,Demon Slayer
+188,Inuyasha,Dark,84,81,68,92,325,Divine Blessing,-,Inuyasha
+189,Ira Gamagori,Ground,98,80,68,79,325,Time Bomb,-,Kill La Kill
+190,Irina Jelavic,Neutral,84,76,85,80,325,Vengeance,ATK,Assassination Classroom
+191,Iris,Neutral,88,70,96,72,326,Life Sap,-,Fire Force
+192,Iron Maiden Jeanne,Light,80,85,80,80,325,Reflector,-,Shaman King
+193,Issei Hyoudou,Dark,82,86,70,86,324,Rejuvenation,-,High School DxD
+194,Itachi Uchiha,Dark,82,101,70,72,325,Transformation,ATK,Naruto
+195,Itaru Hashida,Ground,90,90,97,75,352,Recoil,-,Steins Gate
+196,Itona Horibe,Electric,78,83,80,86,327,Ultimate Combo,-,Assassination Classroom
+197,Itsuki Kawasumi,Grass,80,82,80,85,327,Grievous Limiter,-,The Rising Of The Shield Hero
+198,Itsuki Nakano,Fire,76,76,76,95,323,Time Bomb,-,The Quintessential Quintuplets
+199,Iz,Water,100,76,80,62,318,Celestial Blessing,-,Bofuri
+200,Izuku Midoriya (Deku),Grass,78,93,66,84,321,Vengeance,ATK,My Hero Academia
+201,Izumi Kyoka,Water,85,80,82,80,327,Berserker,DEF,Bungou Stray Dogs
+202,Izumo Kamiki,Dark,93,75,82,76,326,Trick Room,ATK,Ao No Exorcist
+203,Izuna Hatsuse,Fire,90,83,84,66,323,Transformation,ATK,No Game No Life
+204,Jack Frost,Water,82,110,70,73,335,Executioner,-,Christmas Afterparty 2020
+205,Jellal Fernandes,Dark,69,94,98,64,325,Elemental Strike,Light/ATK,Fairy Tail
+206,Jet Black,Ground,85,90,86,100,361,Recoil,-,Cowboy Bebop
+207,Jibril,Light,81,88,75,80,324,Elemental Strike,Light/ATK,No Game No Life
+208,Jinpachi Ego,Ground,80,82,50,88,300,Trick Room,DEF,Blue Lock
+209,Jiraiya,Ground,91,83,85,65,324,Underdog,DEF,Naruto
+210,Jonathan Joestar,Water,84,90,74,77,325,Endurance,-,Jojos Bizarre Adventure
+211,Joseph Joestar,Light,96,88,72,70,326,Rejuvenation,-,Jojos Bizarre Adventure
+212,Josuke Higashikata,Ground,92,68,88,75,323,Endurance,-,Jojos Bizarre Adventure
+213,Jotaro Kujo,Neutral,80,90,80,75,325,Transformation,ATK,Jojos Bizarre Adventure
+214,Judar,Dark,65,78,91,86,320,Double-edged Strike,Dark/DEF,Magi
+215,July,Neutral,78,75,97,70,320,Regeneration,-,Darker Than Black
+216,Junko Enoshima,Electric,78,72,90,87,327,Grievous Limiter,-,Danganronpa
+217,Juvia Lockser,Water,75,97,80,71,323,Elemental Strike,Water/ATK,Fairy Tail
+218,Kaede Kayano,Grass,74,87,81,84,326,Transformation,ATK,Assassination Classroom
+219,Kagome Higurashi,Grass,75,91,91,64,321,Divine Blessing,-,Inuyasha
+220,Kagura,Ground,84,87,78,77,326,Endurance,-,Gintama
+221,Kaguya Shinomiya,Dark,84,77,88,76,325,Breaker,ATK,Love Is War
+222,Kakashi Hatake,Electric,67,97,74,81,319,Elemental Strike,Electric/ATK,Naruto
+223,Kakine Teitoku,Light,70,86,86,84,326,Elemental Strike,Dark/ATK,A Certain Scientific Railgun
+224,Kallen Kozuki,Ground,73,69,96,87,325,Dominance,-,Code Geass
+225,Kamijou Touma,Light,84,89,71,77,321,Restricted Instinct,-,A Certain Scientific Railgun
+226,Kanade,Fire,84,70,83,80,317,Trick Room,ATK,Bofuri
+227,Kanade Tachibana,Light,70,89,75,87,321,Breaker,ATK,Angel Beats
+228,Kanao Tsuyuri,Neutral,69,81,96,77,323,Berserker,ATK,Demon Slayer
+229,Kaneki Ken,Dark,73,99,75,80,327,Amplifier,ATK,Tokyo Ghoul
+230,Kanna Kamui,Electric,93,75,89,73,330,Protector,-,Ms. Kobayashi's Dragon Maid
+231,Karasuma Tadaomi,Ground,87,84,75,82,328,Precision,-,Assassination Classroom
+232,Karma Akabane,Fire,73,96,72,86,327,Executioner,-,Assassination Classroom
+233,Kasumi,Ground,90,80,73,94,337,Mana Reaver,-,Bofuri
+234,Katsuki Bakugo,Fire,85,94,63,82,324,Blaze,-,My Hero Academia
+235,Katsura Kotarou,Grass,83,98,76,67,324,Vengeance,DEF,Gintama
+236,Kazuma,Grass,83,80,73,90,326,Dominance,-,Noragami
+237,Kazuma Kuwabara,Ground,91,73,77,86,327,Restricted Instinct,-,Yu Yu Hakusho
+238,Kazuma Satou,Neutral,75,84,100,64,323,Freeze,-,Konosuba
+239,Kei Shirogane,Water,88,76,75,93,332,Dexterity Drive,Light,Love Is War
+240,Kei Tsukishima,Dark,78,78,93,76,325,Protector,-,Haikyuu!!
+241,Keigo Takami (Hawks),Grass,68,97,65,95,325,Double-edged Strike,Grass/ATK,My Hero Academia
+242,Keisuke Baji,Fire,79,95,68,86,328,Blood Surge,-,Tokyo Revengers
+243,Kenji Miyazawa,Ground,78,80,66,100,324,Offensive Stance,-,Bungou Stray Dogs
+244,Kenma Kozume,Water,90,87,68,81,326,Trick Room,DEF,Haikyuu!!
+245,Kenpachi Zaraki,Electric,97,91,65,71,324,Paralysis,-,Bleach
+246,Kento Nanami,Ground,69,92,84,80,325,Pain For Power,-,Jujutsu Kaisen
+247,Kid Buu,Dark,80,83,81,78,322,Pain For Power,-,Dragon Ball
+248,Kikyo,Light,80,85,74,80,319,Precision,-,Inuyasha
+249,Killua Zoldyck,Electric,87,88,67,84,326,Paralysis,-,Hunter X Hunter
+250,Kirari Momobami,Light,85,84,76,82,327,Life Sap,-,Kakegurui
+251,Kirito,Dark,82,90,73,85,330,Elemental Strike,Dark/ATK,Sword Art Online
+252,Kiritsugu Emiya,Dark,70,85,77,90,322,Precision,-,Fate
+253,Kishou Arima,Dark,76,78,79,94,327,Dexterity Drive,Dark,Tokyo Ghoul
+254,Kisuke Urahara,Dark,90,72,84,85,331,Restricted Instinct,-,Bleach
+255,Klein,Fire,83,74,96,70,323,Amplifier,DEF,Sword Art Online
+256,Kobayashi,Neutral,86,75,82,79,322,Lucky Coin,-,Ms. Kobayashi's Dragon Maid
+257,Koenma,Electric,85,85,80,75,325,Divine Blessing,-,Yu Yu Hakusho
+258,Kofuku,Grass,82,91,67,85,325,Time Attack,Grass/ATK,Noragami
+259,Kohaku,Grass,70,85,80,95,330,Dexterity Drive,Grass,Dr. Stone
+260,Kojiro Shinomiya,Fire,100,70,75,83,328,Paralysis,-,Shokugeki No Soma
+261,Kokoro,Grass,71,87,88,78,324,Pain For Power,-,Darling In The Franxx
+262,Koneko Toujou,Neutral,89,72,71,89,321,Paralysis,-,High School DxD
+263,Konno Yuuki,Ground,76,85,93,70,324,Lucky Coin,-,Sword Art Online
+264,Koro Sensei,Light,73,85,73,100,331,Dexterity Drive,Light,Assassination Classroom
+265,Koshi Sugawara,Grass,84,69,93,78,324,Rejuvenation,-,Haikyuu!!
+266,Kotori Itsuka,Fire,94,94,64,69,321,Overload,ATK,Date A Live
+267,Kougyoku,Water,88,87,73,76,324,Transformation,ATK,Magi
+268,Kouta,Neutral,72,87,85,81,325,Pain For Power,-,Elfen Lied
+269,Krillin,Neutral,96,91,68,65,320,Balancing Strike,-,Dragon Ball
+270,Krul Tepes,Dark,65,74,94,87,320,Bloodthirster,-,Owari No Seraph
+271,Kurapika,Light,75,77,85,87,324,Berserker,DEF,Hunter X Hunter
+272,Kurisu Makise,Ground,76,90,70,87,323,Vengeance,DEF,Steins Gate
+273,Kurumi Nonaka,Water,75,97,74,76,322,Elemental Strike,Water/ATK,Shinmai Maou No Testament
+274,Kurumi Tokisaki,Fire,75,88,75,83,321,Bloodthirster,-,Date A Live
+275,Kyoka Jiro,Electric,78,93,60,93,324,Balancing Strike,-,My Hero Academia
+276,Kyoko Kirigiri,Neutral,68,87,82,90,327,Grievous Limiter,-,Danganronpa
+277,Kyoya Hibari,Neutral,73,79,82,88,322,Underdog,ATK,Katekyo Hitman Reborn
+278,L,Light,88,73,80,87,328,Grievous Limiter,-,Death Note
+279,Lambo,Electric,74,87,77,85,323,Overload,ATK,Katekyo Hitman Reborn
+280,Laxus Dreyar,Electric,85,89,68,83,325,Executioner,-,Fairy Tail
+281,Lelouch Lamperouge,Dark,80,64,86,90,320,Restricted Instinct,-,Code Geass
+282,Leorio Paradinight,Water,75,81,79,92,327,Breaker,ATK,Hunter X Hunter
+283,Levi Ackerman,Ground,75,88,74,94,331,Evasion,-,Attack On Titan
+284,Liala,Grass,85,85,81,71,322,Regeneration,-,Shinmai Maou No Testament
+285,Light Yagami (Kira),Light,86,100,78,61,325,Executioner,-,Death Note
+286,Liliruca Arde,Ground,80,67,99,73,319,Amplifier,DEF,Danmachi
+287,Lisa Lisa,Water,83,89,74,82,328,Evasion,-,Jojos Bizarre Adventure
+288,Liz T Blood,Dark,78,87,68,92,325,Overload,ATK,Blood Lad
+289,Loid Forger (Twilight),Dark,70,98,82,80,330,Unlucky Coin,-,Spy X Family
+290,Loke,Ground,65,77,87,94,323,Berserker,DEF,Fairy Tail
+291,Lubbock,Grass,91,80,75,76,322,Lucky Coin,-,Akame Ga Kill!
+292,Luck Voltia,Electric,76,91,79,80,326,Bloodthirster,-,Black Clover
+293,Lucoa,Ground,86,73,83,79,321,Protector,-,Ms. Kobayashi's Dragon Maid
+294,Lucy (Kaede),Dark,80,82,90,80,332,Berserker,ATK,Elfen Lied
+295,Lucy Heartfilia,Light,75,92,86,68,321,Breaker,ATK,Fairy Tail
+296,Lyserg Diethel,Grass,79,83,75,92,329,Celestial Influence,-,Shaman King
+297,Machi Komacine,Ground,91,78,76,80,325,Regeneration,-,Hunter X Hunter
+298,Madara Uchiha,Dark,88,90,82,60,320,Temporal Rewind,-,Naruto
+299,Maka Albarn,Light,87,80,72,80,319,Time Attack,Light/ATK,Soul Eater
+300,Maki Oze,Fire,92,76,83,77,328,Protector,-,Fire Force
+301,Makima,Dark,84,92,80,76,332,Miracle Injection,-,Chainsaw Man
+302,Mako Mankanshoku,Fire,63,89,82,95,329,Executioner,-,Kill La Kill
+303,Makoto Kino (Sailor Jupiter),Electric,83,89,79,76,327,Paralysis,-,Sailor Moon
+304,Makoto Naegi,Dark,81,81,81,83,326,Lucky Coin,-,Danganronpa
+305,Mamoru Chiba (Tuxedo Mask),Dark,82,87,73,77,319,Regeneration,-,Sailor Moon
+306,Maple,Neutral,65,65,130,65,325,Reflector,-,Bofuri
+307,Maria Naruse,Dark,84,68,93,80,325,Underdog,DEF,Shinmai Maou No Testament
+308,Mariko Kurama,Fire,83,81,70,95,329,Overload,ATK,Elfen Lied
+309,Mary Saotome,Neutral,78,79,86,84,327,Divine Blessing,-,Kakegurui
+310,Mavis Vermillion,Light,63,87,87,87,324,Vengeance,ATK,Fairy Tail
+311,Maya Joga,Neutral,78,87,93,65,323,Time Bomb,-,Gochuumon Wa Usagi Desu Ka
+312,Mayu,Neutral,90,82,85,73,330,Endurance,-,Elfen Lied
+313,Mayuri,Fire,86,72,85,83,326,Berserker,DEF,Date A Live
+314,Mayuri Shiina,Neutral,66,66,95,94,321,Rejuvenation,-,Steins Gate
+315,Medusa Gorgon,Dark,68,99,65,90,322,Restricted Instinct,-,Soul Eater
+316,Megumi Fushiguro,Light,86,71,92,78,327,Endurance,-,Jujutsu Kaisen
+317,Megumi Natsu,Light,85,91,78,70,324,Time Attack,Light/ATK,Gochuumon Wa Usagi Desu Ka
+318,Megumi Tadokoro,Water,74,88,92,70,324,Underdog,DEF,Shokugeki No Soma
+319,Megumin,Fire,80,97,70,73,320,Elemental Strike,Fire/ATK,Konosuba
+320,Meguru Bachira,Water,90,75,81,88,334,Celestial Influence,-,Blue Lock
+321,Meliodas,Ground,77,76,73,98,324,Evasion,-,7 Deadly Sins
+322,Mello,Ground,83,91,70,83,327,Dominance,-,Death Note
+323,Melty Q Melromarc,Water,73,75,87,86,321,Regeneration,-,The Rising Of The Shield Hero
+324,Mephisto Pheles,Dark,70,100,87,64,321,Grievous Limiter,-,Ao No Exorcist
+325,Mera Mera,Fire,81,81,82,82,326,Blaze,-,Fire Force
+326,Merlin,Dark,76,88,89,71,324,Temporal Rewind,-,7 Deadly Sins
+327,Mii,Fire,82,84,83,80,329,Time Attack,Fire/ATK,Bofuri
+328,Mikaela Hyakuya,Fire,96,81,67,77,321,Balancing Strike,-,Owari No Seraph
+329,Mikasa Ackerman,Ground,66,83,78,93,320,Dexterity Drive,Ground,Attack On Titan
+330,Mikey,Dark,85,81,75,88,329,Breaker,DEF,Tokyo Revengers
+331,Miko,Fire,87,92,73,72,324,Transformation,ATK,No Game No Life
+332,Miko Iino,Ground,93,77,79,86,335,Paralysis,-,Love Is War
+333,Miku (390),Neutral,93,87,74,71,325,Offensive Stance,-,Darling In The Franxx
+334,Miku Nakano,Electric,95,76,76,76,323,Celestial Influence,-,The Quintessential Quintuplets
+335,Milim Nava,Ground,70,90,92,72,324,Celestial Influence,-,Tensei Shitara Slime Datta Ken
+336,Minako Aino (Sailor Venus),Neutral,66,80,94,87,327,Elemental Strike,Neutral/ATK,Sailor Moon
+337,Minato Namikaze,Electric,73,82,65,103,323,Dexterity Drive,Electric,Naruto
+338,Mine,Neutral,97,68,94,66,325,Time Attack,Neutral/DEF,Akame Ga Kill!
+339,Minene Uryuu,Dark,87,90,83,62,322,Offensive Stance,-,Mirai Nikki
+340,Mio Akiyama,Neutral,84,87,78,71,320,Amplifier,ATK,K On!
+341,Mio Naruse,Fire,86,84,72,80,322,Breaker,DEF,Shinmai Maou No Testament
+342,Mio Takamiya,Light,74,80,72,99,325,Double-edged Strike,Light/DEF,Date A Live
+343,Miroku,Grass,92,93,67,74,326,Elemental Strike,Grass/ATK,Inuyasha
+344,Misa Amane,Light,85,97,74,72,328,Pain For Power,-,Death Note
+345,Misaka Mikoto,Electric,75,92,71,87,325,Overload,ATK,A Certain Scientific Railgun
+346,Misery,Light,79,94,72,90,335,Rejuvenation,-,Bofuri
+347,Mitsuba Sangu,Ground,87,73,65,94,319,Balancing Strike,-,Owari No Seraph
+348,Miyuki Shirogane,Light,84,83,90,69,326,Regeneration,-,Love Is War
+349,Mocha Hoto,Ground,65,93,72,92,322,Breaker,ATK,Gochuumon Wa Usagi Desu Ka
+350,Momo Yaoyorozu,Ground,83,65,100,71,319,Protector,-,My Hero Academia
+351,Monika,Light,72,88,75,93,328,Dominance,-,DDLC
+352,Monkey D Luffy,Neutral,70,90,86,76,322,Elemental Strike,Neutral/ATK,One Piece
+353,Morgiana,Fire,67,96,72,89,324,Double-edged Strike,Fire/ATK,Magi
+354,Mori Jin,Ground,83,83,83,83,332,Divine Blessing,-,The God Of High School
+355,Motoyasu Kitamura,Electric,72,90,82,81,325,Breaker,DEF,The Rising Of The Shield Hero
+356,Mukuro Rokudo,Dark,85,65,91,79,320,Evasion,-,Katekyo Hitman Reborn
+357,Nagi Seishiro,Dark,85,93,68,86,332,Ultimate Combo,-,Blue Lock
+358,Nagisa Shiota,Water,81,93,74,80,328,Ultimate Combo,-,Assassination Classroom
+359,Nagito Komaeda,Water,74,88,89,72,323,Lucky Coin,-,Danganronpa
+360,Nami,Electric,70,85,75,95,325,Time Bomb,-,One Piece
+361,Nana,Fire,75,80,75,95,325,Restricted Instinct,-,Elfen Lied
+362,Naofumi Iwatani,Ground,78,67,100,78,323,Protector,-,The Rising Of The Shield Hero
+363,Naomi Misora,Water,67,88,90,81,326,Endurance,-,Death Note
+364,Naraku,Dark,83,62,96,79,320,Underdog,DEF,Inuyasha
+365,Naruto Uzumaki,Fire,75,95,70,89,329,Elemental Strike,Fire/ATK,Naruto
+366,Natsu Dragneel,Fire,80,95,64,81,320,Blaze,-,Fairy Tail
+367,Natsuki,Water,95,78,77,74,324,Life Sap,-,DDLC
+368,Near,Neutral,75,81,62,88,306,Trick Room,DEF,Death Note
+369,Neji Hyuga,Grass,82,88,86,70,326,Ultimate Combo,-,Naruto
+370,Nero,Dark,75,84,89,75,323,Protector,-,Black Clover
+371,Nezuko Kamado,Dark,84,82,80,78,324,Vengeance,ATK,Demon Slayer
+372,Nico Robin,Dark,90,90,70,70,320,Trick Room,DEF,One Piece
+373,Nino Nakano,Light,76,95,76,76,323,Restricted Instinct,-,The Quintessential Quintuplets
+374,No Face,Dark,83,91,80,74,328,Life Sap,-,Spirited Away
+375,Nobara Kugisaki,Ground,95,73,78,85,331,Evasion,-,Jujutsu Kaisen
+376,Nobuchika Ginoza,Neutral,95,66,78,85,324,Precision,-,Psycho Pass
+377,Noda,Ground,78,92,86,70,326,Underdog,ATK,Angel Beats
+378,Noelle Silva,Water,75,81,93,77,326,Amplifier,DEF,Black Clover
+379,November,Water,87,82,81,75,325,Freeze,-,Darker Than Black
+380,Nui Harime,Fire,66,89,97,70,322,Lucky Coin,-,Kill La Kill
+381,Ochaco Uraraka,Light,92,97,63,70,322,Underdog,ATK,My Hero Academia
+382,Okita Sougo,Water,81,93,74,78,326,Double-edged Strike,Water/ATK,Gintama
+383,Origami Tobiichi,Water,94,76,79,73,322,Overload,ATK,Date A Live
+384,Osamu Dazai,Dark,80,88,76,84,328,Unlucky Coin,-,Bungou Stray Dogs
+385,Padoru,Water,90,95,70,80,335,Soul Stealer,DEF,Christmas Afterparty 2020
+386,Pain,Dark,80,86,85,78,329,Executioner,-,Naruto
+387,Payne,Light,80,84,85,77,326,Divine Blessing,-,Bofuri
+388,Piccolo,Grass,62,83,99,76,320,Elemental Strike,Grass/DEF,Dragon Ball
+389,Portgas D Ace,Fire,91,72,92,70,325,Blaze,-,One Piece
+390,Power,Dark,73,92,86,82,333,Regeneration,-,Chainsaw Man
+391,Priestess,Light,85,85,85,70,325,Protector,-,Goblin Slayer
+392,Prince Diamond,Light,80,92,75,74,321,Offensive Stance,-,Sailor Moon
+393,Puck,Light,70,90,78,89,327,Celestial Influence,-,Re:Zero
+394,Rabo,Water,85,92,78,71,326,Executioner,-,Noragami
+395,Ram,Grass,85,89,81,66,321,Elemental Strike,Grass/ATK,Re:Zero
+396,Ranpo Edogawa,Electric,90,87,75,70,322,Trick Room,ATK,Bungou Stray Dogs
+397,Raphtalia,Ground,91,85,87,61,324,Vengeance,ATK,The Rising Of The Shield Hero
+398,Reborn,Neutral,73,94,76,76,319,Precision,-,Katekyo Hitman Reborn
+399,Rei Hino (Sailor Mars),Fire,84,71,96,69,320,Blaze,-,Sailor Moon
+400,Reimu Hakurei,Neutral,89,70,84,85,328,Celestial Blessing,-,Touhou
+401,Reisen Udongein Inaba,Fire,91,78,85,80,334,Paralysis,-,Touhou
+402,Reisuke Houjou,Ground,88,80,85,72,325,Poison,-,Mirai Nikki
+403,Rem,Water,85,87,78,71,321,Paralysis,-,Re:Zero
+404,Ren Amaki,Water,82,84,70,91,327,Precision,-,The Rising Of The Shield Hero
+405,Ren Amamiya (Joker),Fire,75,84,90,82,331,Dominance,-,Persona 5
+406,Ren Hakuryuu,Dark,84,87,68,84,323,Double-edged Strike,Dark/ATK,Magi
+407,Rensuke Kunigami,Fire,78,96,82,73,329,Elemental Strike,Light/ATK,Blue Lock
+408,Renzo Shima,Fire,98,92,63,70,323,Grievous Limiter,-,Ao No Exorcist
+409,Reze,Fire,73,101,83,70,327,Time Bomb,-,Chainsaw Man
+410,Rias Gremory,Fire,70,86,74,97,327,Dexterity Drive,Fire,High School DxD
+411,Riko Saikawa,Grass,72,92,78,83,325,Breaker,DEF,Ms. Kobayashi's Dragon Maid
+412,Rimuru Tempest,Water,67,102,76,79,324,Time Bomb,-,Tensei Shitara Slime Datta Ken
+413,Rin Itoshi,Ground,82,79,90,90,341,Vengeance,ATK,Blue Lock
+414,Rin Okumura,Fire,86,94,68,74,322,Rejuvenation,-,Ao No Exorcist
+415,Rin Tohsaka,Fire,71,89,100,64,324,Amplifier,DEF,Fate
+416,Rintarou Okabe,Neutral,85,90,86,60,321,Rejuvenation,-,Steins Gate
+417,Ririka Momobami,Light,77,67,93,80,317,Trick Room,ATK,Kakegurui
+418,Ritsu,Electric,83,91,80,71,325,Time Attack,Electric/DEF,Assassination Classroom
+419,Ritsu Kageyama,Water,78,93,85,70,326,Overload,ATK,Mob Psycho 100
+420,Ritsu Tainaka,Neutral,76,88,60,96,320,Dexterity Drive,Neutral,K On!
+421,Riza Hawkeye,Fire,70,85,87,86,328,Precision,-,Fullmetal Alchemist
+422,Rize Tedeza,Dark,93,86,76,69,324,Endurance,-,Gochuumon Wa Usagi Desu Ka
+423,Rock Lee,Grass,76,87,80,76,319,Overload,ATK,Naruto
+424,Roronoa Zoro,Ground,81,84,71,90,326,Breaker,ATK,One Piece
+425,Rossweisse,Light,74,72,90,93,329,Amplifier,DEF,High School DxD
+426,Roy Mustang,Fire,84,87,70,83,324,Pain For Power,-,Fullmetal Alchemist
+427,Ruby Rose,Dark,84,90,79,83,336,Executioner,-,RWBY
+428,Ruka Urushibara,Ground,92,84,70,80,326,Reversion,-,Nov 2021 Event
+429,Rukia Kuchiki,Water,97,75,65,83,320,Paralysis,-,Bleach
+430,Ryo Kurokiba,Dark,78,85,92,70,325,Balancing Strike,-,Shokugeki No Soma
+431,Ryohei Sasagawa,Fire,93,70,96,63,322,Balancing Strike,-,Katekyo Hitman Reborn
+432,Ryota Suzui,Neutral,78,87,87,78,330,Protector,-,Kakegurui
+433,Ryuji Suguro,Fire,88,75,62,98,323,Time Bomb,-,Ao No Exorcist
+434,Ryuk,Dark,83,100,82,86,351,Recoil,-,Death Note
+435,Ryuko Matoi,Fire,81,96,77,70,324,Celestial Influence,-,Kill La Kill
+436,Ryuu Lion,Grass,84,70,82,91,327,Ultimate Combo,-,Danmachi
+437,Sae Itoshi,Water,90,90,73,80,333,Precision,-,Blue Lock
+438,Saika Totsuka,Water,73,93,84,78,328,Bloodthirster,-,Nov 2021 Event
+439,Saitama,Neutral,66,103,80,68,317,Double-edged Strike,Neutral/ATK,One Punch Man
+440,Sakura Haruno,Neutral,85,71,76,90,322,Vengeance,SPD,Naruto
+441,Sakura Matou,Dark,96,68,77,79,320,Protector,-,Fate
+442,Sally,Water,73,94,83,76,326,Pain For Power,-,Bofuri
+443,Sango,Ground,93,81,81,70,325,Vengeance,DEF,Inuyasha
+444,Sanji,Fire,76,91,77,81,325,Double-edged Strike,Fire/ATK,One Piece
+445,Sans,Water,80,83,72,97,332,Mana Reaver,-,Undertale
+446,Sasuke Uchiha,Dark,89,80,83,75,327,Blaze,-,Naruto
+447,Saten Ruiko,Grass,86,90,73,75,324,Amplifier,ATK,A Certain Scientific Railgun
+448,Satoru Gojo,Electric,86,83,78,78,325,Berserker,ATK,Jujutsu Kaisen
+449,Satoshi Isshiki,Neutral,82,83,70,87,322,Mana Reaver,-,Shokugeki No Soma
+450,Satsuki Kiryuin,Neutral,93,83,81,64,321,Lucky Coin,-,Kill La Kill
+451,Sayaka Maizono,Light,78,68,90,92,328,Endurance,-,Danganronpa
+452,Sayori,Light,80,72,92,81,325,Overload,DEF,DDLC
+453,Scar,Electric,88,79,68,94,329,Dexterity Drive,Electric,Fullmetal Alchemist
+454,Scathach,Ground,76,95,71,78,320,Precision,-,Fate
+455,Sebas Tian,Dark,77,82,90,74,323,Amplifier,DEF,Overlord
+456,Senku Ishigami,Ground,100,83,67,76,326,Breaker,DEF,Dr. Stone
+457,Sesshomaru,Light,88,71,99,62,320,Divine Blessing,-,Inuyasha
+458,Shalltear Bloodfallen,Dark,100,67,93,63,323,Poison,-,Overlord
+459,Sharo Kirima,Electric,67,89,78,92,326,Lucky Coin,-,Gochuumon Wa Usagi Desu Ka
+460,Shido Itsuka,Water,86,64,83,92,325,Double-edged Strike,Water/DEF,Date A Live
+461,Shiemi Moriyama,Grass,92,63,67,102,324,Restricted Instinct,-,Ao No Exorcist
+462,Shigeo Kageyama,Neutral,85,81,80,86,332,Reversion,-,Mob Psycho 100
+463,Shikamaru Nara,Ground,76,84,89,75,324,Grievous Limiter,-,Naruto
+464,Shimura Shinpachi,Ground,85,70,78,93,326,Ultimate Combo,-,Gintama
+465,Shinoa Hiragi,Neutral,85,97,74,69,325,Executioner,-,Owari No Seraph
+466,Shinobu Kocho,Grass,93,83,80,72,328,Poison,-,Demon Slayer
+467,Shinra Kusakabe,Fire,83,94,78,71,326,Elemental Strike,Fire/ATK,Fire Force
+468,Shinya Hiragi,Fire,75,101,73,73,322,Underdog,DEF,Owari No Seraph
+469,Shinya Kogami,Dark,100,67,83,80,330,Grievous Limiter,-,Psycho Pass
+470,Shion,Grass,78,101,78,67,324,Time Attack,Grass/ATK,Tensei Shitara Slime Datta Ken
+471,Shirai Kuroko,Neutral,73,89,72,89,323,Evasion,-,A Certain Scientific Railgun
+472,Shirley Fenette,Fire,88,76,63,98,325,Grievous Limiter,-,Code Geass
+473,Shiro,Water,82,96,80,66,324,Grievous Limiter,-,No Game No Life
+474,Shirou Emiya,Fire,72,90,85,80,327,Vengeance,ATK,Fate
+475,Shizue Izawa,Fire,85,67,90,83,325,Time Attack,Fire/DEF,Tensei Shitara Slime Datta Ken
+476,Sho Suzuki,Neutral,68,95,68,97,328,Time Bomb,-,Mob Psycho 100
+477,Shogo Makishima,Dark,95,76,70,88,329,Miracle Injection,-,Psycho Pass
+478,Shokuhou Misaki,Neutral,78,93,81,71,323,Restricted Instinct,-,A Certain Scientific Railgun
+479,Shota Aizawa (Eraser Head),Electric,63,87,78,97,325,Restricted Instinct,-,My Hero Academia
+480,Shoto Todoroki,Water,96,84,75,64,319,Precision,-,My Hero Academia
+481,Shoyo Hinata,Light,70,89,72,102,333,Evasion,-,Haikyuu!!
+482,Shrek,Neutral,80,88,75,95,338,Freeze,-,Shrek
+483,Shusei Kagari,Electric,68,78,99,81,326,Miracle Injection,-,Psycho Pass
+484,Sinbad,Grass,80,89,71,83,323,Executioner,-,Magi
+485,Sinon,Light,74,87,75,90,326,Precision,-,Sword Art Online
+486,Skeleton,Dark,75,75,75,75,300,Mana Reaver,-,Halloween Event
+487,Soma Yukihira,Fire,86,86,70,85,327,Mana Reaver,-,Shokugeki No Soma
+488,Son Goku,Electric,80,91,70,85,326,Balancing Strike,-,Dragon Ball
+489,Sora,Fire,92,55,76,89,312,Trick Room,ATK,No Game No Life
+490,Sosuke Aizen,Dark,81,92,73,80,326,Restricted Instinct,-,Bleach
+491,Souei,Water,74,80,80,90,324,Restricted Instinct,-,Tensei Shitara Slime Datta Ken
+492,Soul Evans,Light,65,85,85,91,326,Overload,ATK,Soul Eater
+493,Spike Spiegel,Neutral,81,98,71,80,330,Precision,-,Cowboy Bebop
+494,Squalo,Water,86,82,86,76,330,Freeze,-,Katekyo Hitman Reborn
+495,Staz C Blood,Dark,90,87,80,64,321,Bloodthirster,-,Blood Lad
+496,Stephanie Dola,Light,86,72,96,70,324,Amplifier,DEF,No Game No Life
+497,Subaru Natsuki,Dark,82,80,80,80,322,Endurance,-,Re:Zero
+498,Suika,Grass,88,82,78,78,326,Grievous Limiter,-,Dr. Stone
+499,Suou Pavlichenko,Neutral,76,97,75,83,331,Protector,-,Darker Than Black
+500,Suzaku Kururugi,Neutral,83,79,71,87,320,Precision,-,Code Geass
+501,Suzuha Amane,Neutral,76,92,70,88,326,Vengeance,DEF,Steins Gate
+502,Suzuya Juuzou,Light,72,66,94,90,322,Vengeance,ATK,Tokyo Ghoul
+503,Sword Maiden,Light,75,84,70,96,325,Evasion,-,Goblin Slayer
+504,Takashi Mitsuya,Neutral,80,72,95,85,332,Vengeance,ATK,Tokyo Revengers
+505,Takasugi Shinsuke,Neutral,80,84,75,88,327,Pain For Power,-,Gintama
+506,Takehisa Hinawa,Fire,88,77,58,90,313,Trick Room,DEF,Fire Force
+507,Takemichi Hanagaki,Dark,85,78,79,87,329,Reversion,-,Tokyo Revengers
+508,Takeshi Yamamoto,Water,78,101,76,65,320,Executioner,-,Katekyo Hitman Reborn
+509,Takumi Aldini,Light,78,84,70,92,324,Time Bomb,-,Shokugeki No Soma
+510,Tamaki Kotatsu,Fire,87,93,70,76,326,Transformation,ATK,Fire Force
+511,Tanjiro Kamado,Water,80,82,77,89,328,Berserker,DEF,Demon Slayer
+512,Tao Ren,Electric,73,95,80,70,318,Transformation,ATK,Shaman King
+513,Tatsumaki,Grass,74,78,69,98,319,Dexterity Drive,Grass,One Punch Man
+514,Tatsumi,Dark,87,78,78,87,330,Transformation,ATK,Akame Ga Kill!
+515,Teruki Hanazawa,Light,77,87,80,83,327,Precision,-,Mob Psycho 100
+516,Tet,Dark,82,84,83,78,327,Lucky Coin,-,No Game No Life
+517,Tetsuro Kuroo,Neutral,90,79,81,74,324,Balancing Strike,-,Haikyuu!!
+518,Tobio Kageyama,Fire,70,91,92,72,325,Pain For Power,-,Haikyuu!!
+519,Toge Inumaki,Neutral,86,89,73,81,329,Paralysis,-,Jujutsu Kaisen
+520,Tohka Yatogami,Water,65,92,99,62,318,Executioner,-,Date A Live
+521,Tohru,Fire,80,75,88,84,327,Poison,-,Ms. Kobayashi's Dragon Maid
+522,Toko Fukawa,Dark,78,77,80,94,329,Restricted Instinct,-,Danganronpa
+523,Tony Tony Chopper,Ground,90,72,97,64,323,Transformation,ATK,One Piece
+524,Toshiro Hitsugaya,Water,91,80,89,60,320,Freeze,-,Bleach
+525,Touka Kirishima,Dark,75,83,84,86,328,Poison,-,Tokyo Ghoul
+526,Trafalgar D Law,Water,87,74,81,80,322,Temporal Rewind,-,One Piece
+527,Trunks,Electric,88,80,82,77,327,Time Bomb,-,Dragon Ball
+528,Tsubaki Kasugano,Dark,67,88,77,89,321,Overload,ATK,Mirai Nikki
+529,Tsukasa Shishio,Ground,90,91,71,75,327,Bloodthirster,-,Dr. Stone
+530,Tsukuyo,Ground,83,89,73,81,326,Precision,-,Gintama
+531,Tsumugi Kotobuki,Light,72,77,85,91,325,Regeneration,-,K On!
+532,Tsunayoshi Sawada (Tsuna),Fire,70,95,87,67,319,Underdog,ATK,Katekyo Hitman Reborn
+533,Ukyo Saionji,Grass,70,90,78,83,321,Breaker,ATK,Dr. Stone
+534,Ulquiorra Schiffer,Dark,82,92,79,65,318,Overload,ATK,Bleach
+535,Usagi Tsukino (Sailor Moon),Light,94,79,61,91,325,Trick Room,ATK,Sailor Moon
+536,Usopp,Neutral,70,74,86,93,323,Dexterity Drive,Neutral,One Piece
+537,Uzu Sanageyama,Grass,82,73,78,90,323,Celestial Influence,-,Kill La Kill
+538,Vegeta,Electric,80,92,73,75,320,Vengeance,DEF,Dragon Ball
+539,Vicious,Dark,90,90,70,75,325,Balancing Strike,-,Cowboy Bebop
+540,Violet Evergarden,Grass,74,93,80,90,337,Breaker,DEF,Violet Evergarden
+541,Wave,Water,75,92,71,88,326,Evasion,-,Akame Ga Kill!
+542,Weiss Schnee,Water,84,80,72,97,333,Dexterity Drive,Water,RWBY
+543,Wendy Marvell,Light,61,92,80,89,322,Elemental Strike,Light/ATK,Fairy Tail
+544,Wiz,Water,85,72,85,88,330,Berserker,DEF,Konosuba
+545,Wolf,Neutral,70,89,81,86,326,Blood Surge,-,Blood Lad
+546,Yami Sukehiro,Dark,98,105,71,82,356,Recoil,-,Black Clover
+547,Yato,Neutral,76,85,82,80,323,Breaker,DEF,Noragami
+548,Yin,Water,86,88,68,77,319,Paralysis,-,Darker Than Black
+549,Yoh Asakura,Neutral,85,92,80,70,327,Double-edged Strike,Light/DEF,Shaman King
+550,Yoichi Isagi,Grass,85,85,83,83,336,Breaker,DEF,Blue Lock
+551,Yoichi Saotome,Grass,94,80,82,65,321,Balancing Strike,-,Owari No Seraph
+552,Yoko Kurama,Grass,71,95,81,81,328,Dominance,-,Yu Yu Hakusho
+553,Yor Forger,Dark,70,98,82,80,330,Divine Blessing,-,Spy X Family
+554,Yoshino,Water,83,82,81,80,326,Temporal Rewind,-,Date A Live
+555,Yotsuba Nakano,Grass,80,80,85,80,325,Reversion,-,The Quintessential Quintuplets
+556,Yu Ishigami,Neutral,72,92,80,83,327,Bloodthirster,-,Love Is War
+557,Yu Nishinoya,Electric,92,71,82,82,327,Endurance,-,Haikyuu!!
+558,Yui,Neutral,84,72,76,100,332,Precision,-,Angel Beats
+559,Yui Hirasawa,Light,67,94,71,86,318,Paralysis,-,K On!
+560,Yuichiro Hyakuya,Fire,80,80,75,87,322,Offensive Stance,-,Owari No Seraph
+561,Yuji Itadori,Ground,80,90,75,85,330,Unlucky Coin,-,Jujutsu Kaisen
+562,Yuki Nonaka,Light,83,84,76,83,326,Balancing Strike,-,Shinmai Maou No Testament
+563,Yukichi Fukuzawa,Water,89,94,65,77,325,Restricted Instinct,-,Bungou Stray Dogs
+564,Yukina,Water,83,92,77,80,332,Celestial Blessing,-,Yu Yu Hakusho
+565,Yukine,Water,74,83,90,76,323,Divine Blessing,-,Noragami
+566,Yukio Okumura,Neutral,71,95,74,85,325,Celestial Influence,-,Ao No Exorcist
+567,Yukiteru Amano,Neutral,98,66,100,64,328,Offensive Stance,-,Mirai Nikki
+568,Yumeko Jabami,Dark,60,90,90,90,330,Lucky Coin,-,Kakegurui
+569,Yuno,Grass,68,84,84,87,323,Elemental Strike,Grass/DEF,Black Clover
+570,Yuno Gasai,Dark,75,90,83,70,318,Blood Surge,-,Mirai Nikki
+571,Yunyun,Water,72,93,91,69,325,Vengeance,ATK,Konosuba
+572,Yuri,Dark,78,87,85,75,325,Pain For Power,-,DDLC
+573,Yuri Briar,Neutral,95,67,90,75,327,Restricted Instinct,-,Spy X Family
+574,Yuri Nakamura,Neutral,73,85,82,87,327,Precision,-,Angel Beats
+575,Yuriko Nishinotouin,Grass,76,85,75,89,325,Restricted Instinct,-,Kakegurui
+576,Yusuke Urameshi,Electric,98,73,72,78,321,Endurance,-,Yu Yu Hakusho
+577,Yuta Okkotsu,Dark,85,93,73,76,327,Paralysis,-,Jujutsu Kaisen
+578,Yuzuru Otonashi,Neutral,85,87,70,87,329,Precision,-,Angel Beats
+579,Zenitsu Agatsuma,Electric,80,73,87,88,328,Paralysis,-,Demon Slayer
+580,Zero Two,Light,87,84,76,79,326,Double-edged Strike,Light/DEF,Darling In The Franxx
+581,Zest,Dark,80,71,83,95,329,Dexterity Drive,Dark,Shinmai Maou No Testament
+582,Zombieman,Dark,70,97,69,83,319,Blood Surge,-,One Punch Man
+583,Zora Ideale,Dark,91,95,71,66,323,Elemental Strike,Dark/ATK,Black Clover
+584,Gyro Zeppeli,Ground,84,89,75,80,328,Offensive Stance,-,Jojos Bizarre Adventure
+585,First Hassan,Dark,78,92,74,90,334,Executioner,-,Fate
+586,Chuuya Nakahara,Dark,70,89,82,89,330,Unlucky Coin,-,Bungou Stray Dogs
+587,Asuka Langley Sohryu,Ground,81,75,94,82,332,Overload,DEF,Evangelion
+588,Shinji Ikari,Neutral,90,76,76,90,332,Endurance,-,Evangelion
+589,Rei Ayanami,Dark,80,91,85,71,327,Soul Stealer,ATK,Evangelion
+590,Gendo Ikari,Electric,70,80,70,95,315,Trick Room,DEF,Evangelion
+591,Kaworu Nagisa,Dark,71,86,91,83,331,Soul Stealer,DEF,Evangelion
+592,Mari Makinami,Ground,75,90,82,78,325,Ultimate Combo,-,Evangelion
+593,Misato Katsuragi,Ground,82,94,80,61,317,Time Attack,Ground/ATK,Evangelion
+594,Ryoji Kaji,Neutral,70,80,90,89,329,Underdog,ATK,Evangelion
+595,Zeref Dragneel,Dark,90,78,86,90,344,Reversion,-,Fairy Tail
+596,Celestia Ludenberg,Dark,91,70,78,89,328,Unlucky Coin,-,Danganronpa
+597,Broly,Ground,75,95,78,80,328,Pain For Power,-,Dragon Ball
+598,Flashy Flash,Light,84,70,77,100,331,Dexterity Drive,Dark,One Punch Man
+599,Fubuki,Grass,83,79,83,80,325,Celestial Blessing,-,One Punch Man
+600,Kyojuro Rengoku,Fire,81,93,74,80,328,Berserker,ATK,Demon Slayer
+601,Muzan Kibutsuji,Dark,95,75,80,75,325,Devour,-,Demon Slayer
+602,Edward Newgate (Whitebeard),Ground,80,88,88,70,326,Berserker,DEF,One Piece
+603,Ryomen Sukuna,Fire,85,78,85,78,326,Life Sap,-,Jujutsu Kaisen
+604,Obanai Iguro,Light,77,90,85,75,327,Poison,-,Demon Slayer
+605,Kuchiki Byakuya,Light,70,93,91,70,324,Time Attack,Light/ATK,Bleach
+606,Ken Sudo,Fire,83,87,80,75,325,Double-edged Strike,Fire/DEF,Classroom Of The Elite
+607,Suzune Horikita,Water,85,71,92,83,331,Dominance,-,Classroom Of The Elite
+608,Kiyotaka Ayanokouji,Neutral,80,80,60,90,310,Trick Room,DEF,Classroom Of The Elite
+609,Kikyou Kushida,Light,81,78,83,86,328,Mana Reaver,-,Classroom Of The Elite
+610,Honami Ichinose,Light,70,90,87,81,328,Soul Stealer,DEF,Classroom Of The Elite
+611,Airi Sakura,Water,72,78,91,93,334,Endurance,-,Classroom Of The Elite
+612,Kei Karuizawa,Water,74,80,85,88,327,Breaker,DEF,Classroom Of The Elite
+613,Cell,Ground,91,78,80,78,327,Devour,-,Dragon Ball
+614,Acnologia,Neutral,84,77,93,73,327,Devour,-,Fairy Tail
+615,Mai Sakurajima,Water,91,80,86,70,327,Evasion,-,Bunny Girl Senpai
+616,Buddha,Light,80,74,91,81,326,Celestial Blessing,-,Record Of Ragnarok
+617,Adam,Light,93,77,76,84,330,Reflector,-,Record Of Ragnarok
+618,Shiva,Ground,88,92,73,76,329,Blaze,-,Record Of Ragnarok
+619,Brunhilde,Neutral,90,87,78,72,327,Underdog,DEF,Record Of Ragnarok
+620,Thor,Electric,70,95,70,90,325,Double-edged Strike,Electric/ATK,Record Of Ragnarok
+621,Lu Bu,Ground,80,76,84,90,330,Endurance,-,Record Of Ragnarok
+622,Jack The Ripper,Light,80,81,63,91,315,Trick Room,DEF,Record Of Ragnarok
+623,Twenty Fifth Bam,Water,78,88,78,88,332,Berserker,ATK,Tower Of God
+624,Khun Aguero Agnis,Fire,95,73,80,81,329,Protector,-,Tower Of God
+625,Rak Wraithraiser,Ground,80,94,71,81,326,Double-edged Strike,Ground/ATK,Tower Of God
+626,Anaak Zahard,Grass,75,86,70,92,323,Berserker,ATK,Tower Of God
+627,Hatz,Fire,78,80,79,91,328,Ultimate Combo,-,Tower Of God
+628,Endorsi Zahard,Light,77,91,75,88,331,Grievous Limiter,-,Tower Of God
+629,Lero Ro,Neutral,79,95,70,83,327,Unlucky Coin,-,Tower Of God
+630,Ha Yuri Zahard,Electric,71,93,90,76,330,Amplifier,DEF,Tower Of God
+631,Rachel,Dark,75,79,84,88,326,Celestial Blessing,-,Tower Of God
+632,Yue,Dark,76,83,104,68,331,Celestial Blessing,-,Arifureta
+633,Hajime Nagumo,Light,91,82,74,81,328,Miracle Injection,-,Arifureta
+634,Shea Haulia,Neutral,64,90,63,93,310,Overload,ATK,Arifureta
+635,Tio Klarus,Dark,96,82,88,58,324,Transformation,DEF,Arifureta
+636,Shizuku Yaegashi,Electric,85,86,82,74,327,Berserker,DEF,Arifureta
+637,Kaori Shirasaki,Water,91,73,94,68,326,Protector,-,Arifureta
+638,Myu,Water,96,85,83,68,332,Reversion,-,Arifureta
+639,Aiko Hatayama,Grass,82,91,67,72,312,Trick Room,DEF,Arifureta
+640,Miledi Reisen,Electric,81,84,83,76,324,Celestial Blessing,-,Arifureta
+641,Meiru Melusine,Water,86,89,84,71,330,Overload,DEF,Arifureta
+642,Lyutillis Haltina,Grass,87,82,85,74,328,Endurance,-,Arifureta
+643,Madoka Kaname,Light,81,80,93,73,327,Time Attack,Fire/DEF,Madoka Magica
+644,Homura Akemi,Dark,71,88,84,84,327,Time Attack,Dark/ATK,Madoka Magica
+645,Mami Tomoe,Light,61,90,64,99,314,Restricted Instinct,-,Madoka Magica
+646,Sayaka Miki,Water,84,63,90,82,319,Rejuvenation,-,Madoka Magica
+647,Kyoko Sakura,Fire,83,87,67,83,320,Trick Room,DEF,Madoka Magica
+648,Iroha Tamaki,Light,81,76,82,89,328,Reversion,-,Madoka Magica
+649,Yachiyo Nanami,Water,80,81,83,81,325,Soul Stealer,ATK,Madoka Magica
+650,Rena Minami,Water,79,85,68,94,326,Mana Reaver,-,Madoka Magica
+651,Sana Futaba,Grass,87,76,100,63,326,Ultimate Combo,-,Madoka Magica
+652,Houtarou Oreki,Neutral,74,91,78,94,337,Grievous Limiter,-,Hyouka
+653,Eru Chitanda,Neutral,80,84,81,92,337,Soul Stealer,ATK,Hyouka
+654,Zelda,Light,90,76,90,80,336,Mana Reaver,-,The Legend Of Zelda
+655,Link,Grass,81,96,73,86,336,Underdog,ATK,The Legend Of Zelda
+656,Umaru Doma,Fire,78,70,78,90,316,Celestial Influence,-,Himouto Umaru Chan
+657,Ray,Ground,76,62,93,95,326,Trick Room,ATK,Promised Neverland
+658,Emma,Fire,76,62,93,95,326,Endurance,-,Promised Neverland
+659,Norman,Neutral,76,93,62,95,326,Dominance,-,Promised Neverland
+660,Isabella,Dark,78,96,82,71,327,Berserker,DEF,Promised Neverland
+661,Mujika,Grass,95,73,97,50,315,Miracle Injection,-,Promised Neverland
+662,Sonju,Fire,95,97,73,50,315,Miracle Injection,-,Promised Neverland
+663,Phil,Light,80,80,80,80,320,Underdog,DEF,Promised Neverland
+664,Yugo,Neutral,73,98,62,95,328,Berserker,ATK,Promised Neverland
+665,Roxy Migurdia,Water,70,72,96,90,328,Protector,-,Jobless Reincarnation
+666,Eris Boreas Greyrat,Fire,67,84,97,78,326,Overload,DEF,Jobless Reincarnation
+667,Sylphiette,Grass,70,87,80,90,327,Smokescreen,-,Jobless Reincarnation
+668,Rudeus Greyrat,Light,96,81,69,82,328,Smokescreen,-,Jobless Reincarnation
+669,Ghislaine Dedoldia,Ground,83,92,65,79,319,Blood Surge,-,Jobless Reincarnation
+670,Zenith Greyrat,Grass,81,83,72,90,326,Paralysis,-,Jobless Reincarnation
+671,Lilia Greyrat,Fire,105,92,71,79,347,Recoil,-,Jobless Reincarnation
+672,Kishirika Kishirisu,Neutral,100,100,50,57,307,Soul Stealer,DEF,Jobless Reincarnation
+673,Ruijerd Superdia,Grass,72,95,82,81,330,Transformation,DEF,Jobless Reincarnation
+674,Baki Hanma,Light,89,82,80,75,326,Pain For Power,-,Baki The Grappler
+675,Yujiro Hanma,Light,70,97,84,81,332,Double-edged Strike,Dark/DEF,Baki The Grappler
+676,Gouki Shibukawa,Light,84,89,83,77,333,Underdog,ATK,Baki The Grappler
+677,Doppo Orochi,Neutral,75,90,82,85,332,Ultimate Combo,-,Baki The Grappler
+678,Pickle,Light,85,97,68,82,332,Double-edged Strike,Electric/DEF,Baki The Grappler
+679,Biscuit Oliva,Light,82,90,73,76,321,Overload,ATK,Baki The Grappler
+680,Retsu Kaioh,Fire,86,72,80,87,325,Devour,-,Baki The Grappler
+681,Kaoru Hanayama,Water,83,65,96,82,326,Transformation,DEF,Baki The Grappler
+682,Katsumi Orochi,Ground,80,90,71,91,332,Dexterity Drive,Fire,Baki The Grappler
+683,Howl Jenkins Pendragon,Light,90,73,95,65,323,Transformation,DEF,Howls Moving Castle
+684,Calcifer,Fire,79,89,89,70,327,Celestial Blessing,-,Howls Moving Castle
+685,Sophie Hatter,Grass,85,80,80,70,315,Blood Surge,-,Howls Moving Castle
+686,Turnip Head,Ground,100,65,85,65,315,Smokescreen,-,Howls Moving Castle
+687,Markl,Grass,83,70,82,78,313,Trick Room,ATK,Howls Moving Castle
+688,Witch Of The Waste,Dark,86,77,77,80,320,Freeze,-,Howls Moving Castle
+689,Prince Justin,Electric,85,100,65,65,315,Precision,-,Howls Moving Castle
+690,Hayase Nagatoro,Neutral,83,87,64,93,327,Dominance,-,Ijiranaide Nagatoro
+691,Komi Shouko,Neutral,80,88,70,93,331,Smokescreen,-,Komi Cant Communicate
+692,Kusuo Saiki,Light,81,75,83,90,329,Life Sap,-,The Disasterous Life Of Saiki K
+693,Kokomi Teruhashi,Light,84,88,72,88,332,Divine Blessing,-,The Disasterous Life Of Saiki K
+694,Adam Smasher,Dark,98,98,70,70,336,Overload,ATK,Cyberpunk Edgerunners
+695,Faraday,Dark,85,85,80,80,330,Soul Stealer,ATK,Cyberpunk Edgerunners
+696,David Martinez,Dark,75,93,70,95,333,Pain For Power,-,Cyberpunk Edgerunners
+697,Doc,Dark,81,92,84,75,332,Smokescreen,-,Cyberpunk Edgerunners
+698,Lucy Kushinada,Dark,78,81,80,92,331,Omniscient Hack,-,Cyberpunk Edgerunners
+699,Rebecca,Dark,86,83,78,81,328,Precision,-,Cyberpunk Edgerunners
+700,Maine,Dark,78,84,90,81,333,Berserker,ATK,Cyberpunk Edgerunners
+701,Doraemon,Light,75,75,90,90,330,Restricted Instinct,-,Doraemon
+702,Holo,Ground,84,78,90,80,332,Transformation,DEF,Spice And Wolf
+703,Chihiro Rokuhira,Ground,92,90,67,85,334,Bloodthirster,-,Kagurabachi
+704,Guts,Neutral,100,85,88,63,336,Devour,-,Berserk
+705,Griffith,Dark,85,100,60,90,335,Elemental Strike,Dark/ATK,Berserk
+706,Skull Knight,Ground,80,90,65,100,335,Executioner,-,Berserk
+707,Nosferatu Zodd,Ground,95,60,96,80,331,Divine Blessing,-,Berserk
+708,Casca,Grass,71,81,82,98,332,Amplifier,DEF,Berserk
+709,Serpico,Water,80,87,68,96,331,Elemental Strike,Dark/ATK,Berserk
+710,Father Mozgus,Fire,96,80,87,72,335,Blaze,-,Berserk
+711,Grunbeld,Fire,88,83,82,81,334,Evasion,-,Berserk
+712,Vlad Tepes (Dracula),Dark,88,95,65,90,338,Dominance,-,Castlevania
+713,Adrian Tepes (Alucard),Fire,83,95,82,75,335,Balancing Strike,-,Castlevania
+714,Sypha Belnades,Light,91,90,80,75,336,Omniscient Hack,-,Castlevania
+715,Trevor Belmont,Water,85,88,90,75,338,Reflector,-,Castlevania
+716,Lenore,Fire,72,94,86,85,337,Soul Stealer,DEF,Castlevania
+717,Pumpknight,Fire,70,99,99,70,338,Double-edged Strike,Fire/ATK,Halloween 2023
+718,Deathrattle,Dark,74,86,70,100,330,Ultimate Combo,-,Halloween 2023
+719,Spectral Wraith,Dark,80,90,70,90,330,Mana Reaver,-,Halloween 2023
+720,Rikka Takanashi,Dark,81,90,70,92,333,Paralysis,-,Chuunibyou Demo Koi Ga Shitai
+721,Atom,Neutral,80,98,65,95,338,Omniscient Hack,-,Pluto
+722,Uran,Water,89,74,77,94,334,Endurance,-,Pluto
+723,Brando,Electric,87,83,100,65,335,Paralysis,-,Pluto
+724,Epsilon,Grass,98,68,78,88,332,Life Sap,-,Pluto
+725,Gesicht,Dark,90,62,98,90,340,Smokescreen,-,Pluto
+726,Hercules,Ground,98,95,72,68,333,Reflector,-,Pluto
+727,North No.2,Ground,88,88,76,81,333,Soul Stealer,ATK,Pluto
+728,Conan Edogawa,Ground,80,90,76,91,337,Unlucky Coin,-,Detective Conan
+729,Amiya,Dark,80,93,92,72,337,Elemental Strike,Dark/ATK,Arknights
+730,Skadi,Water,92,88,80,80,340,Blood Surge,-,Arknights
+731,Chongyue,Ground,75,92,81,92,340,Time Bomb,-,Arknights
+732,Texas,Dark,78,76,92,94,340,Celestial Influence,-,Arknights
+733,Mlynar,Electric,98,100,85,55,338,Elemental Strike,Electric/ATK,Arknights
+734,Exusiai,Light,85,92,66,95,338,Precision,-,Arknights
+735,Silverash,Water,85,94,78,81,338,Balancing Strike,-,Arknights
+736,Santa Claus,Ground,98,98,62,81,339,Breaker,ATK,Christmas 2023
+737,Kingpin Grinch,Dark,92,83,73,90,338,Poison,-,Christmas 2023
+738,Winter Frost,Water,98,74,83,82,337,Devour,-,Christmas 2023
+739,Yang Xiao Long,Fire,79,92,89,80,340,Reflector,-,RWBY
+740,Thorfinn,Light,85,100,65,90,340,Undying Will,-,Vinland Saga
+741,Thors Snorresson,Ground,85,85,85,85,340,Ultimate Combo,-,Vinland Saga
+742,Thorkell,Neutral,92,92,95,85,364,Recoil,-,Vinland Saga
+743,Askeladd,Neutral,88,90,70,88,336,Omniscient Hack,-,Vinland Saga
+744,Bjorn,Ground,92,88,96,54,330,Berserker,DEF,Vinland Saga
+745,Einar,Light,79,88,82,85,334,Smokescreen,-,Vinland Saga
+746,Canute,Water,76,94,80,89,339,Grievous Limiter,-,Vinland Saga
+747,Snake,Neutral,82,90,98,70,340,Dominance,-,Vinland Saga
+748,Sverkel,Dark,80,70,65,91,306,Trick Room,DEF,Vinland Saga
+749,Blake Belladonna,Dark,80,96,80,81,337,Omniscient Hack,-,RWBY
+750,Ye Xiu,Neutral,95,87,70,87,339,Life Sap,-,The King's Avatar
+751,Su Mucheng,Light,84,88,78,90,340,Ultimate Combo,-,The King's Avatar
+752,Zhou Zekai,Fire,70,100,75,94,339,Breaker,DEF,The King's Avatar
+753,Huang Shaotian,Ground,81,82,85,90,338,Evasion,-,The King's Avatar
+754,Taki Tachibana,Water,78,92,81,89,340,Yin Yang,-,Your Name
+755,Mitsuha Miyamizu,Grass,94,76,92,78,340,Yin Yang,-,Your Name
+756,Long,Fire,85,100,85,70,340,Divine Blessing,-,CNY Valentines 2024
+757,Nianbeast,Dark,100,85,100,55,340,Miracle Injection,-,CNY Valentines 2024
+758,Cupid,Light,90,81,81,90,342,Paralysis,-,CNY Valentines 2024
+759,Mash Burnedead,Neutral,95,95,95,90,375,Recoil,-,Mashle
+760,Rayne Ames,Light,84,97,77,78,336,Overload,ATK,Mashle
+761,Finn Ames,Light,75,90,82,88,335,Evasion,-,Mashle
+762,Lance Crown,Ground,78,92,85,85,340,Endurance,-,Mashle
+763,Lemon Irvine,Water,87,75,90,82,334,Paralysis,-,Mashle
+764,Love Cute,Grass,82,88,85,78,333,Smokescreen,-,Mashle
+765,Dot Barrett,Fire,85,88,82,85,340,Blaze,-,Mashle
+766,Abel Walker,Dark,79,100,80,81,340,Omniscient Hack,-,Mashle
+767,Sora (Kingdom Hearts),Neutral,92,96,88,62,338,Celestial Influence,-,Kingdom Hearts
+768,Bojji,Grass,80,70,85,100,335,Evasion,-,Ousama Ranking
+769,Daida,Water,82,80,82,85,329,Underdog,DEF,Ousama Ranking
+770,Kage,Dark,83,85,72,96,336,Restricted Instinct,-,Ousama Ranking
+771,Bosse,Ground,98,80,96,62,336,Devour,-,Ousama Ranking
+772,Hilling,Light,96,84,76,74,330,Life Sap,-,Ousama Ranking
+773,Miranjo,Grass,81,94,73,85,333,Omniscient Hack,-,Ousama Ranking
+774,Desha,Light,84,95,78,78,335,Yin Yang,-,Ousama Ranking
+775,Ouken,Neutral,95,85,82,73,335,Lethal Clarity,-,Ousama Ranking
+776,Despa,Ground,82,85,76,86,329,Unlucky Coin,-,Ousama Ranking
+777,Bebin,Neutral,86,86,83,85,340,Pain For Power,-,Ousama Ranking
+778,Riku,Ground,95,86,85,74,340,Celestial Blessing,-,Kingdom Hearts
+779,Kairi,Grass,92,84,84,80,340,Trick Room,ATK,Kingdom Hearts
+780,Kiryu Moeka,Ground,80,90,85,75,330,Omniscient Hack,-,Steins Gate
+781,Faris Nyannyan,Water,75,80,85,85,325,Smokescreen,-,Steins Gate
+782,Julia,Neutral,70,80,90,80,320,Yin Yang,-,Cowboy Bebop
+783,Laughing Bull,Fire,70,75,85,95,325,Omniscient Hack,-,Cowboy Bebop
+784,Genshirou Saji,Electric,70,70,90,100,330,Reversion,-,High School DxD
+785,Yuuto Kiba,Dark,60,95,75,95,325,Lethal Clarity,-,High School DxD
+786,Xenovia Quarta,Light,80,85,95,65,325,Bloodthirster,-,High School DxD
+787,Ravel Phenex,Dark,70,80,90,90,330,Rejuvenation,-,High School DxD
+788,Euphemia Li Britannia,Ground,75,75,80,95,325,Temporal Rewind,-,Code Geass
+789,V.V.,Dark,83,82,80,85,330,Undying Will,-,Code Geass
+790,Nunnally Lamperouge,Electric,72,86,98,74,330,Underdog,ATK,Code Geass
+791,Kaname Ohgi,Grass,76,84,81,75,316,Time Bomb,-,Code Geass
+792,Sylvia Sherwood,Grass,84,80,78,82,324,Precision,-,Spy X Family
+793,Fiona Frost,Water,86,75,78,84,323,Recoil,-,Spy X Family
+794,Teru Mikami,Ground,89,92,75,75,331,Undying Will,-,Death Note
+795,Rem (Death Note),Light,86,94,87,68,335,Devour,-,Death Note
+796,Touta Matsuda,Ground,82,74,76,89,321,Freeze,-,Death Note
+797,Kiwi,Grass,78,95,76,82,331,Offensive Stance,-,Cyberpunk Edgerunners
+798,Sasha Yakovleva,Electric,84,74,81,84,323,Mana Reaver,-,Cyberpunk Edgerunners
+799,Roxas,Electric,83,85,81,94,343,Double-edged Strike,Electric/SPD,Kingdom Hearts
+800,Sung Jinwoo,Dark,85,93,68,94,340,Elemental Manipulation,Dark,Solo Leveling
+801,Statue Of God,Dark,100,95,95,100,390,Cursed,-,Solo Leveling
+802,Blood Red Commander Igris,Neutral,90,81,84,85,340,Undying Will,-,Solo Leveling
+803,Woo Jinchul,Grass,78,85,79,80,322,Omniscient Hack,-,Solo Leveling
+804,Go Gunhee,Ground,89,92,88,71,340,Overload,ATK,Solo Leveling
+805,Kang Taeshik,Dark,73,89,78,100,340,Executioner,-,Solo Leveling
+806,Lee Joohee,Water,81,80,82,75,318,Rejuvenation,-,Solo Leveling
+807,Choi Jong In,Fire,85,92,83,80,340,Blaze,-,Solo Leveling
+808,Cha Hae In,Electric,82,89,79,84,334,Lethal Clarity,-,Solo Leveling
+809,Yoo Jinho,Light,80,78,100,68,326,Endurance,-,Solo Leveling
+810,Song Chiyul,Fire,88,72,82,78,320,Elemental Strike,Fire/ATK,Solo Leveling
+811,Infernal Fiend,Fire,75,80,90,90,335,Smokescreen,-,High Society 2024
+812,Majordoma,Water,100,85,83,75,343,Omniscient Hack,-,High Society 2024
+813,Majordomo,Light,80,80,90,90,340,Unlucky Coin,-,High Society 2024
+814,Hellhound Overlord,Dark,82,86,74,92,334,Reflector,-,High Society 2024
+815,Stone Sentinel,Ground,96,90,90,64,340,Freeze,-,High Society 2024
+816,Tifa Lockhart,Light,82,96,64,98,340,Lethal Clarity,-,Final Fantasy
+817,Aura,Dark,81,90,81,82,334,Yin Yang,-,Frieren: Beyond Journeys End (Soso no Frieren)
+818,Denken,Grass,84,92,72,88,336,Bloodthirster,-,Frieren: Beyond Journeys End (Soso no Frieren)
+819,Eisen,Electric,100,90,82,65,337,Reflector,-,Frieren: Beyond Journeys End (Soso no Frieren)
+820,Fern,Light,80,93,70,88,331,Elemental Strike,Dark/ATK,Frieren: Beyond Journeys End (Soso no Frieren)
+821,Frieren,Grass,92,98,80,70,340,Mana Reaver,-,Frieren: Beyond Journeys End (Soso no Frieren)
+822,Himmel,Ground,100,95,93,95,383,Cursed,-,Frieren: Beyond Journeys End (Soso no Frieren)
+823,Laufen,Ground,87,82,71,100,340,Lethal Clarity,-,Frieren: Beyond Journeys End (Soso no Frieren)
+824,Linie,Electric,88,90,72,90,340,Omniscient Hack,-,Frieren: Beyond Journeys End (Soso no Frieren)
+825,Serie,Water,90,100,70,80,340,Undying Will,-,Frieren: Beyond Journeys End (Soso no Frieren)
+826,Stark,Electric,88,105,75,68,336,Berserker,ATK,Frieren: Beyond Journeys End (Soso no Frieren)
+827,Ubel,Neutral,90,85,85,80,340,Miracle Injection,-,Frieren: Beyond Journeys End (Soso no Frieren)
+828,Wirbel,Ground,90,78,82,90,340,Paralysis,-,Frieren: Beyond Journeys End (Soso no Frieren)
+829,Gen Narumi,Ground,92,94,80,74,340,Grievous Limiter,-,Kaiju No. 8
+830,Hibino Kafka,Dark,80,95,76,89,340,Amplifier,ATK,Kaiju No. 8
+831,Iharu Furuhashi,Fire,92,89,81,78,340,Divine Blessing,-,Kaiju No. 8
+832,Isao Shinomiya,Electric,82,98,81,79,340,Vengeance,ATK,Kaiju No. 8
+833,Kaiju No 9,Grass,100,84,64,92,340,Devour,-,Kaiju No. 8
+834,Kaiju No 10,Ground,81,98,70,91,340,Berserker,ATK,Kaiju No. 8
+835,Kikoru Shinomiya,Electric,92,89,78,81,340,Pain For Power,-,Kaiju No. 8
+836,Mina Ashiro,Dark,82,92,88,78,340,Offensive Stance,-,Kaiju No. 8
+837,Reno Ichikawa,Light,88,84,84,84,340,Freeze,-,Kaiju No. 8
+838,Soshiro Hoshina,Dark,84,81,79,96,340,Ultimate Combo,-,Kaiju No. 8
+839,Cloud Strife,Electric,82,94,70,94,340,Evasion,-,Final Fantasy
+840,Gohan,Grass,82,79,90,81,332,Berserker,ATK,Dragon Ball
+841,Beerus,Light,81,88,90,70,329,Omniscient Hack,-,Dragon Ball
+842,Frieza,Neutral,85,90,75,80,330,Time Attack,Dark/ATK,Dragon Ball
+843,Shanks,Fire,95,82,84,72,333,Yin Yang,-,One Piece
+844,Franky,Ground,83,85,75,89,332,Miracle Injection,-,One Piece
+845,Jinbei,Water,83,86,76,82,327,Pain For Power,-,One Piece
+846,Boa Hancock,Ground,98,66,94,69,327,Poison,-,One Piece
+847,Kyoraku Shunsui,Neutral,86,89,84,71,330,Devour,-,Bleach
+848,Yhwach,Dark,86,77,92,75,330,Soul Stealer,DEF,Bleach
+849,Yoruichi,Electric,67,90,80,95,332,Smokescreen,-,Bleach
+850,Toji Fushiguro,Light,92,97,98,93,380,Cursed,-,Jujutsu Kaisen
+851,Choso,Dark,85,80,91,65,321,Blood Surge,-,Jujutsu Kaisen
+852,Aoi Todo,Water,85,92,73,76,326,Trick Room,DEF,Jujutsu Kaisen
+853,Johnny Joestar,Water,95,95,88,53,331,Omniscient Hack,-,Jojos Bizarre Adventure
+854,Jolyne Kujo,Water,81,89,80,79,329,Amplifier,ATK,Jojos Bizarre Adventure
+855,Noriaki Kakyoin,Grass,79,99,75,81,334,Lethal Clarity,-,Jojos Bizarre Adventure
+856,Barou Shouei,Fire,73,98,70,88,329,Devour,-,Blue Lock
+857,Ryusei Shido,Electric,83,80,78,90,331,Soul Stealer,ATK,Blue Lock
+858,Squall Leonhart,Grass,84,70,94,84,332,Balancing Strike,-,Final Fantasy
+859,Gabimaru,Fire,81,99,82,74,336,Omniscient Hack,-,Hells Paradise
+860,Yuzuriha,Water,81,82,95,75,333,Unlucky Coin,-,Hells Paradise
+861,Aza Chobei,Electric,75,80,84,87,326,Life Sap,-,Hells Paradise
+862,Nurugai,Neutral,68,91,72,103,334,Evasion,-,Hells Paradise
+863,Tamiya Gantetsusai,Light,90,87,80,70,327,Balancing Strike,-,Hells Paradise
+864,Mei,Fire,75,100,90,70,335,Elemental Manipulation,Fire,Hells Paradise
+865,Houko,Ground,91,64,87,81,323,Rejuvenation,-,Hells Paradise
+866,Yamada Asaemon Sagiri,Light,75,101,70,90,336,Executioner,-,Hells Paradise
+867,Yamada Asaemon Shion,Dark,74,92,65,98,329,Double-edged Strike,Neutral/ATK,Hells Paradise
+868,Yamada Asaemon Senta,Neutral,95,97,102,85,379,Cursed,-,Hells Paradise
+869,Yuki Yoshikawa,Grass,84,88,83,77,332,Lucky Coin,-,Horimiya
+870,Remi Ayasaki,Water,75,92,70,98,335,Offensive Stance,-,Horimiya
+871,Kakeru Sengoku,Dark,101,97,60,75,333,Dominance,-,Horimiya
+872,Izumi Miyamura,Grass,110,65,95,65,335,Underdog,DEF,Horimiya
+873,Kyouko Hori,Light,80,79,96,82,337,Poison,-,Horimiya
+874,Toru Ishikawa,Water,73,90,93,75,331,Blaze,-,Horimiya
+875,Shu Iura,Electric,97,97,80,70,344,Recoil,-,Horimiya
+876,Sakura Kono,Grass,98,70,98,60,326,Reflector,-,Horimiya
+877,Akane Yanagi,Fire,105,88,102,89,384,Cursed,-,Horimiya
+878,Hallway Ogre,Grass,95,75,87,79,336,Lethal Clarity,-,Back To School 2024
+879,Headmaster Gator,Water,80,95,85,74,334,Paralysis,-,Back To School 2024
+880,Libram Spectre,Dark,101,70,103,60,334,Vengeance,DEF,Back To School 2024
+881,Ai Hoshino,Light,82,80,90,81,333,Protector,-,Oshi No Ko
+882,Aquamarine Hoshino,Water,86,85,89,76,336,Vengeance,DEF,Oshi No Ko
+883,Ruby Hoshino,Fire,100,79,75,82,336,Reversion,-,Oshi No Ko
+884,Kana Arima,Grass,77,95,70,89,331,Double-edged Strike,Dark/DEF,Oshi No Ko
+885,Akane Kurokawa,Water,94,76,82,81,333,Devour,-,Oshi No Ko
+886,Mem Cho,Electric,86,78,87,81,332,Grievous Limiter,-,Oshi No Ko
+887,Frill Shiranui,Grass,83,84,80,87,334,Unlucky Coin,-,Oshi No Ko
+888,Melt Narushima,Dark,87,80,85,79,331,Reflector,-,Oshi No Ko
+889,Minami Kotobuki,Water,75,102,70,90,337,Overload,ATK,Oshi No Ko
+890,Yuki Sumi,Light,83,79,93,77,332,Blaze,-,Oshi No Ko
+891,Sephiroth,Dark,81,94,73,85,333,Devour,-,Final Fantasy
+892,Tatsuya Shiba,Light,85,92,78,80,335,Blood Surge,-,The Irregular At Magic Highschool
+893,Miyuki Shiba,Water,94,74,87,77,332,Arcane Affinity,Water,The Irregular At Magic Highschool
+894,Mayumi Saegusa,Electric,92,86,80,75,333,Restricted Instinct,-,The Irregular At Magic Highschool
+895,Mizuki Shibata,Dark,90,82,90,70,332,Mana Reaver,-,The Irregular At Magic Highschool
+896,Saijo Leonhard,Electric,70,99,98,62,329,Offensive Stance,-,The Irregular At Magic Highschool
+897,Erika Chiba,Ground,75,93,70,94,332,Double-edged Strike,Fire/ATK,The Irregular At Magic Highschool
+898,Mari Watanabe,Electric,84,80,95,79,338,Dominance,-,The Irregular At Magic Highschool
+899,Mikihiko Yoshida,Dark,95,80,95,65,335,Celestial Blessing,-,The Irregular At Magic Highschool
+900,Angelina Kudou Shields,Grass,70,95,80,91,336,Overload,ATK,The Irregular At Magic Highschool
+901,Ken Takakura (Okarun),Electric,73,98,81,83,335,Rising Resolve,-,Dandadan
+902,Aira Shiratori,Light,95,80,60,98,333,Dexterity Drive,Ground,Dandadan
+903,Seiko Ayase,Grass,93,64,80,95,332,Protector,-,Dandadan
+904,Momo Ayase,Light,90,102,75,70,337,Elemental Manipulation,Light,Dandadan
+905,Jin Enjoji (Jiji),Fire,94,82,75,88,339,Life Sap,-,Dandadan
+906,Turbo Granny,Dark,60,100,97,85,342,Miracle Injection,-,Dandadan
+907,Serpoians,Dark,83,74,105,77,339,Arcane Affinity,Dark,Dandadan
+908,Lilith G.G.O,Water,90,110,90,95,385,Cursed,-,Halloween 2024
+909,Writhsmile,Ground,80,79,92,80,331,Blood Surge,-,Halloween 2024
+910,Akihito Shinjo,Fire,85,93,90,70,338,Unlucky Coin,-,Halloween 2024
+911,Lady Of Death,Neutral,74,85,95,82,336,Yin Yang,-,Halloween 2024
+912,Batman,Dark,90,85,85,76,336,Rising Resolve,-,Batman Ninja Vs Yakuza League
+913,Kurome,Dark,90,87,72,80,329,Underdog,DEF,Akame Ga Kill!
+914,Sheele,Dark,90,110,80,95,375,Cursed,-,Akame Ga Kill!
+915,Leone,Neutral,98,82,78,75,333,Berserker,ATK,Akame Ga Kill!
+916,Sasha Braus,Ground,83,80,91,84,338,Celestial Blessing,-,Attack On Titan
+917,Reiner Braun,Ground,90,89,73,83,335,Transformation,DEF,Attack On Titan
+918,Hange Zoe,Light,85,76,78,90,329,Trick Room,DEF,Attack On Titan
+919,Zeke Yeager,Neutral,95,80,90,70,335,Elemental Manipulation,Neutral,Attack On Titan
+920,Uta,Dark,89,68,89,94,340,Blaze,-,Tokyo Ghoul
+921,Yakumo Oomori (Jason),Dark,70,83,93,88,334,Berserker,ATK,Tokyo Ghoul
+922,Rize Kamishiro,Dark,99,98,70,70,337,Transformation,ATK,Tokyo Ghoul
+923,Jinx,Dark,78,87,77,95,337,Foul Play,-,Arcane League Of Legends
+924,Vi,Neutral,93,80,85,78,336,Brutality,-,Arcane League Of Legends
+925,Joker,Light,95,91,70,80,336,Foul Play,-,Batman Ninja Vs Yakuza League
+926,Tetsuya Kuroko,Water,100,71,96,70,337,Evasion,-,Kuroko No Basuke
+927,Shintaro Midorima,Grass,88,96,71,78,333,Precision,-,Kuroko No Basuke
+928,Seijuro Akashi,Fire,81,93,80,80,334,Rising Resolve,-,Kuroko No Basuke
+929,Ryota Kise,Electric,78,84,84,88,334,Foul Play,-,Kuroko No Basuke
+930,Aomine Daiki,Water,79,88,89,84,340,Brutality,-,Kuroko No Basuke
+931,Atsushi Murasakibara,Ground,83,84,90,83,340,Yin Yang,-,Kuroko No Basuke
+932,Taiga Kagami,Fire,79,89,80,90,338,Arcane Affinity,Fire,Kuroko No Basuke
+933,Satsuki Momoi,Neutral,96,85,85,70,336,Grievous Limiter,-,Kuroko No Basuke
+934,Teppei Kiyoshi,Neutral,70,95,95,70,330,Omniscient Hack,-,Kuroko No Basuke
+935,Junpei Hyuga,Light,90,80,93,75,338,Lethal Clarity,-,Kuroko No Basuke
+936,Charmander,Fire,100,75,85,79,339,Time Attack,Fire/ATK,Pokemon
+937,Squirtle,Water,81,92,83,75,331,Divine Blessing,-,Pokemon
+938,Pikachu,Electric,85,89,67,99,340,Balancing Strike,-,Pokemon
+939,Ash Ketchum,Neutral,85,90,79,80,334,Rising Resolve,-,Pokemon
+940,Brock,Ground,85,85,83,80,333,Undying Will,-,Pokemon
+941,Misty,Water,86,72,90,83,331,Regeneration,-,Pokemon
+942,Bulbasaur,Grass,85,92,92,70,339,Life Sap,-,Pokemon
+943,Mewtwo,Dark,84,96,78,80,338,Brutality,-,Pokemon
+944,Mew,Null,88,88,88,88,352,Smokescreen,-,Pokemon
+945,Professor Oak,Dark,102,80,80,75,337,Omniscient Hack,-,Pokemon
+946,Krampus,Dark,95,70,95,80,340,Freeze,-,Christmas 2024
+947,Winter Elf,Water,94,92,70,85,341,Poison,-,Christmas 2024
+948,Glacial Reindeer,Water,79,100,86,74,339,Celestial Blessing,-,Christmas 2024
+949,Ekko,Electric,90,80,81,99,350,Temporal Rewind,-,Arcane League Of Legends
+950,Tsuyu Asui (Froppy),Water,79,82,80,96,337,Celestial Influence,-,My Hero Academia
+951,Shigaraki Tomura,Null,80,95,83,75,333,Breaker,DEF,My Hero Academia
+952,Maki Zenin,Neutral,102,93,74,70,339,Miracle Injection,-,Jujutsu Kaisen
+953,Ishtar,Light,91,92,78,79,340,Unlucky Coin,-,Fate
+954,Ereshkigal,Light,92,70,94,80,336,Yin Yang,-,Fate
+955,Shura Kirigakure,Ground,83,84,89,80,336,Soul Stealer,DEF,Ao No Exorcist
+956,Alphonse Elric,Null,99,70,100,60,329,Elemental Manipulation,Dark,Fullmetal Alchemist
+957,Shuna,Light,89,72,93,80,334,Ultimate Combo,-,Tensei Shitara Slime Datta Ken
+958,Ryusui Nanami,Water,92,70,90,79,331,Trick Room,ATK,Dr. Stone
+959,Yuzuriha Ogawa,Grass,92,67,93,82,334,Regeneration,-,Dr. Stone
+960,Taiju Oki,Ground,90,79,95,70,334,Rising Resolve,-,Dr. Stone
+961,Pandoras Actor,Neutral,87,80,89,80,336,Foul Play,-,Overlord
+962,Cocytus,Null,100,65,87,85,337,Freeze,-,Overlord
+963,Aura Bella Fiora,Light,75,90,82,91,338,Berserker,ATK,Overlord
+964,Mare Bello Fiore,Grass,90,78,91,73,332,Berserker,DEF,Overlord
+965,Tooru Oikawa,Water,83,91,70,91,335,Lethal Clarity,-,Haikyuu!!
+966,Kotaro Bokuto,Null,73,94,91,78,336,Overload,ATK,Haikyuu!!
+967,Suguru Geto,Null,82,91,84,79,336,Yin Yang,-,Jujutsu Kaisen
+968,Caitlyn Kiramman,Null,86,92,80,79,337,Precision,-,Arcane League Of Legends
+969,Sakamoto,Null,90,72,90,87,339,Dexterity Drive,Electric,Nichijou (My Ordinary Life)
+970,Mio Naganohara,Water,91,63,95,88,337,Balancing Strike,-,Nichijou (My Ordinary Life)
+971,Nano Shinonome,Ground,86,82,80,90,338,Trick Room,ATK,Nichijou (My Ordinary Life)
+972,Hakase Shinonome,Light,82,80,86,86,334,Elemental Drain,-,Nichijou (My Ordinary Life)
+973,Mai Minakami,Dark,97,72,80,82,331,Rejuvenation,-,Nichijou (My Ordinary Life)
+974,Izumi Sakurai,Neutral,82,87,99,70,338,Blaze,-,Nichijou (My Ordinary Life)
+975,Yuuko Aioi,Electric,75,92,76,94,337,Double-edged Strike,Grass/DEF,Nichijou (My Ordinary Life)
+976,Wakana Gojo,Water,78,90,75,95,338,Dexterity Drive,Dark,My Dress Up Darling
+977,Marin Kitagawa,Neutral,102,65,80,93,340,Transformation,DEF,My Dress Up Darling
+978,Miyo Saimori,Grass,85,84,77,84,330,Trick Room,DEF,My Happy Marriage
+979,Kiyoka Kudo,Ground,81,75,96,87,339,Amplifier,ATK,My Happy Marriage
+980,Maomao,Light,90,90,80,85,345,Lucky Coin,-,Apothecary Diaries
+981,Jinshi,Null,85,96,76,80,337,Life Sap,-,Apothecary Diaries
+982,Lunar Snake,Grass,92,94,80,90,356,Recoil,-,LNY Valentines 2025
+983,Love Demon,Null,88,93,90,62,333,Undying Will,-,LNY Valentines 2025
+984,Medusa,Null,85,78,91,81,335,Poison,-,LNY Valentines 2025
+985,Aphrodite,Electric,88,82,93,80,343,Devour,-,LNY Valentines 2025
+986,Arajin Tomoshibi,Grass,80,75,81,99,335,Rising Resolve,-,Bucchigiri?!
+987,Asamine Matakara,Null,105,80,110,85,380,Cursed,-,Bucchigiri?!
+988,Senya,Fire,88,85,80,90,343,Amplifier,ATK,Bucchigiri?!
+989,Ichiya,Water,78,94,83,82,337,Unlucky Coin,-,Bucchigiri?!
+990,Marito Jin,Grass,90,83,93,72,338,Divine Blessing,-,Bucchigiri?!
+991,Mahoro Jin,Neutral,94,70,94,80,338,Elemental Drain,-,Bucchigiri?!
+992,Akutarou Shindo,Water,79,99,79,82,339,Yin Yang,-,Bucchigiri?!
+993,Kakeru Zabu,Electric,90,90,90,70,340,Undying Will,-,Bucchigiri?!
+994,Komao Sakigake,Electric,93,84,82,85,344,Elemental Strike,Electric/ATK,Bucchigiri?!
+995,Nagare Jabashiri,Ground,95,99,65,80,339,Pain For Power,-,Bucchigiri?!
+996,Bai Yuechu,Fire,81,96,85,78,340,Elemental Drain,-,Fox Spirit Matchmaker
+997,Alexia Midgar,Null,91,60,86,91,328,Balancing Strike,-,The Eminence In Shadow
+998,Alpha,Dark,86,79,85,80,330,Trick Room,ATK,The Eminence In Shadow
+999,Aurora (Witch Of Calamity),Null,80,72,96,83,331,Elemental Strike,Ground/ATK,The Eminence In Shadow
+1000,Beatrix,Light,73,75,102,89,339,Double-edged Strike,Electric/DEF,The Eminence In Shadow
+1001,Beta,Dark,80,81,95,82,338,Regeneration,-,The Eminence In Shadow
+1002,Cid Kagenou,Dark,82,85,82,86,335,Life Sap,-,The Eminence In Shadow
+1003,Delta,Dark,94,91,78,77,340,Pain For Power,-,The Eminence In Shadow
+1004,Epsilon (Eis),Light,103,70,103,79,355,Recoil,-,The Eminence In Shadow
+1005,Eta,Dark,84,85,86,84,339,Amplifier,DEF,The Eminence In Shadow
+1006,Gamma,Electric,96,67,88,85,336,Devour,-,The Eminence In Shadow
+1007,Rose Oriana,Grass,93,84,80,78,335,Elemental Drain,-,The Eminence In Shadow
+1008,Zeta,Dark,100,70,80,93,343,Dexterity Drive,Grass,The Eminence In Shadow
+1009,Tushan Susu,Water,91,83,83,82,339,Rising Resolve,-,Fox Spirit Matchmaker
+1010,Taro Sakamoto,Null,90,81,92,77,340,Omniscient Hack,-,Sakamoto Days
+1011,Shin Asakura,Null,79,86,81,93,339,Evasion,-,Sakamoto Days
+1012,Lu Xiaotang,Ground,85,70,97,84,336,Regeneration,-,Sakamoto Days
+1013,Heisuke Mashimo,Electric,92,87,80,76,335,Precision,-,Sakamoto Days
+1014,Osaragi,Dark,88,83,87,81,339,Elemental Drain,-,Sakamoto Days
+1015,Shishiba,Ground,90,95,80,75,340,Elemental Strike,Ground/ATK,Sakamoto Days
+1016,Yoichi Nagumo,Neutral,82,78,95,82,337,Unlucky Coin,-,Sakamoto Days
+1017,Kei Uzuki,Light,90,79,94,80,343,Arcane Affinity,Water,Sakamoto Days
+1018,Rion Akao,Electric,91,87,85,77,340,Atmospheric Acceleration,Electric,Sakamoto Days
+1019,Hyo,Ground,88,92,88,72,340,Brutality,-,Sakamoto Days
+1020,Pennywise,Water,102,80,93,60,335,Executioner,-,April Fools 2025
+1021,Dizzy,Fire,80,90,80,90,340,Miracle Injection,-,April Fools 2025
+1022,Trixie,Null,81,97,83,76,337,Lucky Coin,-,April Fools 2025
+1023,Trixx,Dark,99,95,78,68,340,Divine Blessing,-,April Fools 2025
+1024,Dante,Null,90,90,90,70,340,Devour,-,Devil May Cry
+1025,Jo Togame,Light,84,86,90,80,340,Rising Resolve,-,Wind Breaker
+1026,Hajime Umemiya,Null,82,76,92,86,336,Protector,-,Wind Breaker
+1027,Haruka Sakura,Grass,79,94,81,85,339,Yin Yang,-,Wind Breaker
+1028,Hayato Suo,Ground,80,81,87,90,338,Atmospheric Acceleration,Ground,Wind Breaker
+1029,Akihiko Nirei,Ground,93,81,83,80,337,Omniscient Hack,-,Wind Breaker
+1030,Mitsuki Kiryu,Electric,84,80,85,90,339,Ultimate Combo,-,Wind Breaker
+1031,Kyotaro Sugishita,Fire,90,89,83,75,337,Berserker,ATK,Wind Breaker
+1032,Taiga Tsugeura,Fire,85,87,81,85,338,Offensive Stance,-,Wind Breaker
+1033,Ren Kaji,Electric,87,84,89,79,339,Soul Stealer,DEF,Wind Breaker
+1034,Toma Hiragi,Ground,80,87,85,80,332,Balancing Strike,-,Wind Breaker
+1035,Choji Tomiyama,Dark,84,94,85,77,340,Vengeance,DEF,Wind Breaker
+1036,Beatrice,Null,101,75,90,74,340,Celestial Blessing,-,Re:Zero
+1037,Petelgeuse Romanee Conti,Dark,88,91,80,79,338,Arcane Affinity,Dark,Re:Zero
+1038,Izana Kurokawa,Fire,106,90,103,80,379,Cursed,-,Tokyo Revengers
+1039,Tetta Kisaki,Ground,83,98,93,66,340,Foul Play,-,Tokyo Revengers
+1040,Shuji Hanma,Light,83,87,89,77,336,Dominance,-,Tokyo Revengers
+1041,Tsubaki Nakatsukasa,Ground,77,99,79,82,337,Transformation,ATK,Soul Eater
+1042,Joker (FF),Fire,75,95,82,87,339,Lucky Coin,-,Fire Force
+1043,Arrow,Fire,83,102,85,70,340,Precision,-,Fire Force
+1044,Haumea,Electric,99,81,94,67,341,Elemental Manipulation,Electric,Fire Force
+1045,Souji Okita,Null,97,91,70,78,336,Miracle Injection,-,Record Of Ragnarok
+1046,Sasaki Kojiro,Dark,91,91,77,80,339,Yin Yang,-,Record Of Ragnarok
+1047,Runa Yomozuki,Electric,79,85,80,90,334,Omniscient Hack,-,Kakegurui
+1048,Midari Ikishima,Null,85,81,76,98,340,Unlucky Coin,-,Kakegurui
+1049,Mitsuri Kanroji,Light,81,94,72,88,335,Devour,-,Demon Slayer
+1050,Mu Dan,Fire,90,80,90,80,340,Transformation,DEF,Hells Paradise
+1051,Aoba Kuronuma,Water,87,87,92,74,340,Blood Surge,-,Durarara!!
+1052,Celty Sturluson,Dark,103,82,78,74,337,Elemental Manipulation,Electric,Durarara!!
+1053,Izaya Orihara,Null,75,99,80,85,339,Rising Resolve,-,Durarara!!
+1054,Shizuo Heiwajima,Neutral,85,84,80,81,330,Brutality,-,Durarara!!
+1055,Shinra Kishitani,Neutral,87,80,92,81,340,Regeneration,-,Durarara!!
+1056,Masaomi Kida,Electric,79,85,96,80,340,Evasion,-,Durarara!!
+1057,Anri Sonohara,Fire,88,82,90,78,338,Celestial Blessing,-,Durarara!!
+1058,Namie Yagiri,Null,93,78,99,68,338,Rejuvenation,-,Durarara!!
+1059,Vorona,Dark,101,83,102,70,356,Recoil,-,Durarara!!
+1060,Erika Karisawa,Electric,63,92,89,90,334,Amplifier,ATK,Durarara!!
+1061,Kasuka Heiwajima (Yuuhei Hanejima),Ground,90,93,95,60,338,Arcane Affinity,Ground,Durarara!!
+1062,Mika Harima,Grass,99,69,99,69,336,Undying Will,-,Durarara!!
+1063,Walker Yumasaki,Grass,83,85,92,81,341,Blaze,-,Durarara!!
+1064,Kyohei Kadota,Grass,72,92,70,106,340,Dominance,-,Durarara!!
+1065,Mikado Ryugamine,Water,86,83,89,82,340,Soul Stealer,ATK,Durarara!!
+1066,Vergil,Electric,85,80,104,71,340,Regeneration,-,Devil May Cry
+1067,Shinpei Ajiro,Null,90,73,106,65,334,Reversion,-,Summer Time Rendering
+1068,Mio Kofune,Water,90,99,75,70,334,Lucky Coin,-,Summer Time Rendering
+1069,Ushio Kofune,Water,83,75,80,99,337,Undying Will,-,Summer Time Rendering
+1070,Hizuru Minakata,Dark,70,99,99,70,338,Lethal Clarity,-,Summer Time Rendering
+1071,Sou Hishigata,Fire,83,88,82,84,337,Brutality,-,Summer Time Rendering
+1072,Tokiko Hishigata,Fire,77,88,90,85,340,Grievous Limiter,-,Summer Time Rendering
+1073,Ginjiro Nezu,Null,91,85,86,73,335,Precision,-,Summer Time Rendering
+1074,Ryunosuke Minakata,Light,82,83,90,86,341,Protector,-,Summer Time Rendering
+1075,Masahito Karikiri,Neutral,70,80,90,100,340,Atmospheric Acceleration,Neutral,Summer Time Rendering
+1076,Haine,Null,68,95,99,77,339,Bloodthirster,-,Summer Time Rendering
+1077,Spike Corgi,Grass,84,83,96,77,340,Celestial Blessing,-,Summer Splash 2025
+1078,Boss Hippo,Fire,96,87,70,80,333,Trick Room,DEF,Summer Splash 2025
+1079,Chill Paws,Electric,75,90,92,82,339,Overload,DEF,Summer Splash 2025
+1080,Chihiro Ogino,Light,100,70,100,70,340,Rejuvenation,-,Spirited Away
+1081,Priscilla Barielle,Fire,90,82,88,76,336,Regeneration,-,Re:Zero
+1082,Mash Kyrielight,Water,81,81,99,69,330,Protector,-,Fate
+1083,Orihime Inoue,Electric,88,80,80,90,338,Rejuvenation,-,Bleach
+1084,Elizabeth Liones,Grass,80,92,88,80,340,Soul Stealer,DEF,7 Deadly Sins
+1085,Zeldris,Null,93,68,84,70,315,Trick Room,ATK,7 Deadly Sins
+1086,Mereoleona Vermillion,Fire,80,93,80,88,341,Brutality,-,Black Clover
+1087,Chelsea,Fire,72,93,80,94,339,Poison,-,Akame Ga Kill!
+1088,Silver Fang (Bang),Null,81,92,92,74,339,Blood Surge,-,One Punch Man
+1089,King,Neutral,91,79,82,80,332,Amplifier,DEF,One Punch Man
+1090,Muhammad Avdol,Fire,98,82,90,70,340,Blaze,-,Jojos Bizarre Adventure
+1091,Hero X,Null,92,93,85,70,340,Elemental Drain,-,To Be Hero X
+1092,Nice,Null,97,80,91,71,339,Soul Stealer,DEF,To Be Hero X
+1093,E Soul (Yang Cheng),Electric,97,87,87,75,346,Yin Yang,-,To Be Hero X
+1094,Queen,Null,87,99,80,74,340,Trick Room,DEF,To Be Hero X
+1095,Dragon Boy,Dark,89,81,91,82,343,Rising Resolve,-,To Be Hero X
+1096,Ghostblade,Dark,79,97,70,94,340,Atmospheric Acceleration,Dark,To Be Hero X
+1097,Loli,Water,91,63,103,74,331,Time Attack,Water/DEF,To Be Hero X
+1098,Lucky Cyan,Light,90,90,90,70,340,Lucky Coin,-,To Be Hero X
+1099,The Johnnies,Grass,92,94,67,85,338,Miracle Injection,-,To Be Hero X
+1100,Ahu,Ground,81,97,93,71,342,Reversion,-,To Be Hero X
+1101,Lin Ling,Fire,90,81,83,86,340,Undying Will,-,To Be Hero X
+1102,Nijika Ijichi,Electric,103,67,86,82,338,Unlucky Coin,-,Bocchi the Rock!
+1103,Ikuyo Kita,Fire,92,77,83,88,340,Blood Surge,-,Bocchi the Rock!
+1104,Hitori Gotoh (Bocchi),Electric,95,95,95,95,380,Cursed,-,Bocchi the Rock!
+1105,Ryo Yamada,Water,72,99,70,99,340,Atmospheric Acceleration,Water,Bocchi the Rock!
+1106,Seika Ijichi,Neutral,85,95,95,85,360,Recoil,-,Bocchi the Rock!
+1107,Futari Gotoh,Grass,85,76,104,73,338,Freeze,-,Bocchi the Rock!
+1108,Michiyo Gotoh,Fire,64,104,76,94,338,Double-edged Strike,Electric/ATK,Bocchi the Rock!
+1109,Jimihen,Light,99,60,99,80,338,Brutality,-,Bocchi the Rock!
+1110,Pa San (Alto Otogi),Null,81,86,89,80,336,Berserker,DEF,Bocchi the Rock!
+1111,Kikuri Hiroi,Fire,94,99,75,78,346,Amplifier,DEF,Bocchi the Rock!
+1112,Naoki Gotoh,Null,88,85,86,81,340,Arcane Affinity,Null,Bocchi the Rock!
+1113,Haku,Water,89,95,81,75,340,Elemental Manipulation,Electric,Spirited Away
+1114,Ponyo,Water,105,60,100,80,345,Transformation,DEF,Ponyo
+1115,Ice Bear Alpha (Tank),Null,79,102,82,77,340,Offensive Stance,-,Solo Leveling (High Society 2025)
+1116,Kim Chul (Iron),Neutral,110,73,82,70,335,Reflector,-,Solo Leveling (High Society 2025)
+1117,Kargalgan (Tusk),Fire,81,89,95,70,335,Unlucky Coin,-,Solo Leveling (High Society 2025)
+1118,Ant King (Beru),Ground,85,86,90,79,340,Elemental Drain,-,Solo Leveling (High Society 2025)
+1119,Esil Radiru,Dark,86,70,87,95,338,Celestial Blessing,-,Solo Leveling
+1120,Baek Yoonho,Null,76,102,80,80,338,Pain For Power,-,Solo Leveling
+1121,Goto Ryuji,Dark,84,85,74,86,329,Vengeance,ATK,Solo Leveling
+1122,Hwang Dongsoo,Null,86,96,75,83,340,Brutality,-,Solo Leveling
+1123,Min Byung Gyu,Grass,100,80,90,70,340,Undying Will,-,Solo Leveling
+1124,Kaisellin (Kaisel),Fire,91,98,82,69,340,Freeze,-,Solo Leveling (High Society 2025)
+1125,Baran,Electric,87,91,71,91,340,Blaze,-,Solo Leveling
+1126,Ma Dongwook,Grass,110,95,102,84,391,Cursed,-,Solo Leveling
+1127,San,Dark,83,105,76,75,339,Elemental Strike,Light/ATK,Princess Mononoke
+1128,Rudo Surebrec,Null,80,98,84,78,340,Omniscient Hack,-,Gachiakuta
+1129,Enjin,Electric,90,90,80,80,340,Elemental Drain,-,Gachiakuta
+1130,Zanka Nijiku,Water,99,75,95,70,339,Balancing Strike,-,Gachiakuta
+1131,Riyo Reaper,Fire,74,92,98,76,340,Devour,-,Gachiakuta
+1132,Tamsy Caines,Ground,95,73,82,89,339,Elemental Manipulation,Dark,Gachiakuta
+1133,Delmon Gates,Water,85,86,98,70,339,Soul Stealer,DEF,Gachiakuta
+1134,Gris Rubion,Neutral,100,67,100,67,334,Amplifier,DEF,Gachiakuta
+1135,Follo Tunito,Grass,79,103,88,70,340,Brutality,-,Gachiakuta
+1136,Jabber Wonger,Dark,95,99,67,79,340,Undying Will,-,Gachiakuta
+1137,August Stilza,Null,80,94,90,77,341,Divine Blessing,-,Gachiakuta
+1138,Eishia Stilza,Electric,103,62,85,90,340,Celestial Blessing,-,Gachiakuta
+1139,Amo Empool,Null,103,80,103,67,353,Recoil,-,Gachiakuta
+1140,Shizuku Murasaki,Water,83,93,90,74,340,Devour,-,Hunter X Hunter
+1141,Meruem,Grass,90,80,90,80,340,Elemental Drain,-,Hunter X Hunter
+1142,Chrollo Lucilfer,Null,93,91,80,73,337,Rising Resolve,-,Hunter X Hunter
+1143,Kite,Null,78,89,87,87,341,Lucky Coin,-,Hunter X Hunter
+1144,Pochita,Neutral,75,95,95,72,337,Arcane Affinity,Neutral,Chainsaw Man
+1145,Kobeni Higashiyama,Null,80,83,80,97,340,Underdog,DEF,Chainsaw Man
+1146,Tsunade,Grass,89,78,94,80,341,Bloodthirster,-,Naruto
+1147,Kyubey,Neutral,97,60,94,89,340,Trick Room,ATK,Madoka Magica
+1148,Klein Moretti,Null,93,87,87,75,342,Yin Yang,-,Lord Of Mysteries
+1149,Alger Wilson,Water,101,83,95,60,339,Elemental Drain,-,Lord Of Mysteries
+1150,Audrey Hall,Light,99,80,94,66,339,Berserker,DEF,Lord Of Mysteries
+1151,Leonard Mitchell,Grass,85,89,89,80,343,Unlucky Coin,-,Lord Of Mysteries
+1152,Daly Simone,Null,84,80,81,95,340,Mana Reaver,-,Lord Of Mysteries
+1153,Dunn Smith,Dark,79,87,82,92,340,Paralysis,-,Lord Of Mysteries
+1154,Azik Eggers,Neutral,89,95,73,83,340,Elemental Manipulation,Dark,Lord Of Mysteries
+1155,Melissa Moretti,Water,90,80,80,85,335,Arcane Affinity,Water,Lord Of Mysteries
+1156,Benson Moretti,Neutral,78,103,85,74,340,Breaker,DEF,Lord Of Mysteries
+1157,Trissy (Tris),Dark,70,100,70,100,340,Freeze,-,Lord Of Mysteries
+1158,Megose,Light,88,86,89,77,340,Rising Resolve,-,Lord Of Mysteries
+1159,Old Neil,Electric,95,80,82,81,338,Celestial Influence,-,Lord Of Mysteries
+1160,Gravemonger,Dark,95,97,79,70,341,Trick Room,DEF,Halloween 2025
+1161,Mourngrave Oracle,Null,93,67,99,81,340,Time Attack,Dark/DEF,Halloween 2025
+1162,Widowbane Creeper,Fire,80,85,90,90,345,Lethal Clarity,-,Halloween 2025
+1163,Superman,Light,72,107,72,89,340,Overload,ATK,Batman Ninja Vs Yakuza League
+1164,Omni Man (Nolan),Null,98,89,80,75,342,Double-edged Strike,Null/ATK,Invincible
+1165,Invincible (Mark Grayson),Electric,89,78,93,80,340,Brutality,-,Invincible
+1166,Atom Eve (Samantha Eve Wilkins),Null,98,71,97,74,340,Regeneration,-,Invincible
+1167,Conquest,Null,86,93,77,84,340,Executioner,-,Invincible
+1168,Cecil Stedman,Grass,88,93,76,83,340,Foul Play,-,Invincible
+1169,Totoro,Water,92,83,85,73,333,Life Sap,-,My Neighbor Totoro
+1170,Herald Of Salvation,Light,90,90,90,90,360,Divine Blessing,-,Clan Breach
+1171,Herald Of Damnation,Dark,90,90,90,90,360,Restricted Instinct,-,Clan Breach
+1172,Giovanni,Null,100,87,84,68,339,Dominance,-,Pokemon
+1173,James,Water,74,99,93,70,336,Time Bomb,-,Pokemon
+1174,Jessie,Fire,97,62,85,90,334,Omniscient Hack,-,Pokemon
+1175,Meowth,Null,82,83,84,87,336,Vengeance,DEF,Pokemon
+1176,Wobbuffet,Null,75,88,95,77,335,Unlucky Coin,-,Pokemon
+1177,Cynthia,Grass,80,94,92,73,339,Blood Surge,-,Pokemon
+1178,May,Electric,98,67,98,76,339,Undying Will,-,Pokemon
+1179,Serena,Dark,95,79,80,86,340,Smokescreen,-,Pokemon
+1180,Eevee,Neutral,85,85,85,85,340,Elemental Manipulation,Dark,Pokemon
+1181,Snivy,Grass,81,80,79,99,339,Overload,SPD,Pokemon
+1182,Snorlax,Neutral,99,70,99,70,338,Endurance,-,Pokemon
+1183,Gardevoir,Grass,82,93,78,85,338,Aegis,-,Pokemon
+1184,Cozy Penguin,Null,85,85,82,88,340,Celestial Influence,-,Christmas 2025
+1185,Northstar Polar Bear,Electric,98,93,78,71,340,Freeze,-,Christmas 2025
+1186,Snowy Owl,Light,81,88,72,97,338,Atmospheric Acceleration,Light,Christmas 2025
+1187,Spongebob,Grass,95,92,81,72,340,Elemental Manipulation,Water,The Spongebob Movie
+1188,Chisato Nishikigi,Null,87,93,80,80,340,Evasion,-,Lycoris Recoil
+1189,Takina Inoue,Grass,91,79,84,77,331,Protector,-,Lycoris Recoil
+1190,Kurumi (Walnut),Grass,99,75,84,80,338,Omniscient Hack,-,Lycoris Recoil
+1191,Mizuki Nakahara,Neutral,99,99,70,71,339,Divine Blessing,-,Lycoris Recoil
+1192,Majima,Ground,70,94,91,83,338,Ultimate Combo,-,Lycoris Recoil
+1193,Fuki Harukawa,Water,80,97,70,92,339,Aegis,-,Lycoris Recoil
+1194,Robota,Null,85,89,99,62,335,Undying Will,-,Lycoris Recoil
+1195,Sakura Otome,Light,90,90,80,90,350,Recoil,-,Lycoris Recoil
+1196,Shinji Yoshimatsu,Null,88,90,74,88,340,Paralysis,-,Lycoris Recoil
+1197,Mika,Null,91,85,89,74,339,Restricted Instinct,-,Lycoris Recoil
+1198,Iruma Suzuki,Grass,84,93,74,93,344,Evasion,-,Welcome To Demon School! Iruma Kun
+1199,Alice Asmodeus,Fire,67,98,98,82,345,Double-edged Strike,Fire/ATK,Welcome To Demon School! Iruma Kun
+1200,Ameri Azazel,Light,99,99,68,70,336,Omniscient Hack,-,Welcome To Demon School! Iruma Kun
+1201,Kalego Naberius,Electric,87,79,88,83,337,Aegis,-,Welcome To Demon School! Iruma Kun
+1202,Clara Valac,Electric,84,82,97,81,344,Trick Room,ATK,Welcome To Demon School! Iruma Kun
+1203,Keroli Crocell,Water,77,83,94,81,335,Elemental Manipulation,Water,Welcome To Demon School! Iruma Kun
+1204,Opera,Null,75,100,70,95,340,Pain For Power,-,Welcome To Demon School! Iruma Kun
+1205,Sullivan,Dark,84,82,97,77,340,Yin Yang,-,Welcome To Demon School! Iruma Kun
+1206,Sabro Sabnock,Grass,79,81,98,81,339,Endurance,-,Welcome To Demon School! Iruma Kun
+1207,Balam Shichiro,Grass,83,83,83,86,335,Poison,-,Welcome To Demon School! Iruma Kun
+1208,Jazz M Andro,Fire,74,93,78,95,340,Dexterity Drive,Electric,Welcome To Demon School! Iruma Kun
+1209,Amy Kiriwo,Ground,93,74,91,73,331,Unlucky Coin,-,Welcome To Demon School! Iruma Kun
+1210,Baal,Electric,70,99,80,90,339,Atmospheric Acceleration,Electric,Welcome To Demon School! Iruma Kun
+1211,Patrick Star,Grass,96,70,99,69,334,Regeneration,-,The Spongebob Movie
+1212,Kaori Miyazono,Water,98,88,67,85,338,Trick Room,DEF,Your Lie in April
+1213,Kosei Arima,Grass,96,72,89,80,337,Trick Room,ATK,Your Lie in April
+1214,Takeshi Aiza,Electric,83,89,87,79,338,Arcane Affinity,Grass,Your Lie in April
+1215,Emi Igawa,Dark,78,80,97,83,338,Aegis,-,Your Lie in April
+1216,Ryota Watari,Ground,86,92,80,81,339,Rejuvenation,-,Your Lie in April
+1217,Tsubaki Sawabe,Light,80,89,80,91,340,Soul Stealer,DEF,Your Lie in April
+1218,Catbus,Dark,85,76,82,97,340,Overload,SPD,My Neighbor Totoro
+1219,Nikola Tesla,Electric,92,75,74,99,340,Atmospheric Acceleration,Electric,Record Of Ragnarok
+1220,Yamato,Water,89,92,91,69,341,Foul Play,-,One Piece
+1221,Isaac Netero,Ground,73,92,75,100,340,Dexterity Drive,Light,Hunter X Hunter
+1222,Hanami,Grass,92,84,85,79,340,Arcane Affinity,Grass,Jujutsu Kaisen
+1223,Qin Shi Huang,Null,98,72,100,70,340,Reflector,-,Record Of Ragnarok
+1224,Divine General Mahoraga,Dark,90,88,81,81,340,Elemental Manipulation,Null,Jujutsu Kaisen
+1225,Gol D Roger,Null,85,85,70,100,340,Ultimate Combo,-,One Piece
+1226,Senjumaru Shutara,Light,92,70,98,80,340,Aegis,-,Bleach
+1227,Quinella (Administrator),Null,100,100,75,68,343,Omniscient Hack,-,Sword Art Online
+1228,Retsu Unohana (Yachiru Unohana),Fire,80,90,90,80,340,Yin Yang,-,Bleach
+1229,Regulus Corneas,Null,82,97,92,69,340,Temporal Rewind,-,Re:Zero
+1230,Nelliel Tu Odelschwanck,Ground,100,83,84,73,340,Balancing Strike,-,Bleach
+1231,Merlin (Fate),Light,92,98,81,70,341,Elemental Drain,-,Fate
+1232,Satoru (Mumen Rider),Null,98,72,88,80,338,Endurance,-,One Punch Man
+1233,Panda,Ground,99,82,94,65,340,Aegis,-,Jujutsu Kaisen
+1234,Master Roshi,Null,86,95,84,74,339,Transformation,DEF,Dragon Ball
+1235,Leprechaun,Grass,90,88,83,84,345,Divine Fortune,Grass,Saint Patricks 2026
+1236,Kiki,Null,90,81,73,96,340,Atmospheric Acceleration,Null,Kiki's Delivery Service
+1237,Rakuro Hizutome (Sunraku),Null,80,94,73,98,345,Dexterity Drive,Null,Shangri La Frontier
+1238,Emul,Neutral,85,90,79,86,340,Aegis,-,Shangri La Frontier
+1239,Towa Amane (Arthur Pencilgon),Water,80,93,73,99,345,Omniscient Hack,-,Shangri La Frontier
+1240,Kei Uomi (Oikatzo),Electric,76,90,74,95,335,Double-edged Strike,Null/ATK,Shangri La Frontier
+1241,Rei Saiga (Psyger 0),Null,86,100,80,74,340,Lethal Clarity,-,Shangri La Frontier
+1242,Akane Oki (Akane Akitsu),Fire,88,87,80,83,338,Atmospheric Acceleration,Fire,Shangri La Frontier
+1243,Vysache,Electric,94,85,73,85,337,Transformation,DEF,Shangri La Frontier
+1244,Bilac,Ground,88,92,80,69,329,Breaker,DEF,Shangri La Frontier
+1245,Wethermon The Tombguard,Null,85,100,82,73,340,Reversion,-,Shangri La Frontier
+1246,Lycagon The Nightslayer,Dark,120,115,65,81,381,Cursed,-,Shangri La Frontier
+1247,Thragg,Dark,90,93,72,85,340,Brutality,-,Invincible
+1248,Hiromi Higuruma,Light,82,93,84,81,340,Final Verdict,-,Jujutsu Kaisen
+1249,Izuru Kamukura,Null,86,90,82,82,340,Foul Play,-,Danganronpa
+1250,Tao Fa,Grass,82,74,91,93,340,Yin Yang,-,Hells Paradise
+1251,Enji Todoroki (Endeavor),Null,90,96,80,66,332,Blaze,-,My Hero Academia
+1252,Death Gun,Null,76,92,78,90,336,Time Bomb,-,Sword Art Online
+1253,Ryunosuke Akutagawa,Dark,74,94,70,90,328,Double-edged Strike,Dark/ATK,Bungou Stray Dogs
+1254,Pieck Finger,Ground,96,70,75,98,339,Atmospheric Acceleration,Ground,Attack On Titan
+1255,Gyomei Himejima,Ground,94,86,100,60,340,Double-edged Strike,Ground/DEF,Demon Slayer
+1256,Muichiro Tokito,Water,70,95,68,100,333,Smokescreen,-,Demon Slayer
+1257,Monokuma,Dark,82,76,96,86,340,Divine Fortune,Dark,Danganronpa
+1258,Donquixote Doflamingo,Null,86,92,82,80,340,Grievous Limiter,-,One Piece
+1259,Monkey D Garp,Neutral,95,100,71,70,336,Time Attack,Neutral/HP,One Piece
+1260,Marco The Phoenix,Fire,96,78,86,65,325,Rejuvenation,-,One Piece
+1261,Koyomi Araragi,Dark,110,70,76,84,340,Life Sap,-,Monogatari Series
+1262,Hitagi Senjougahara,Null,81,76,85,96,338,Smokescreen,-,Monogatari Series
+1263,Shinobu Oshino,Dark,84,101,90,65,340,Elemental Drain,-,Monogatari Series
+1264,Tsubasa Hanekawa,Light,82,67,95,95,339,Yin Yang,-,Monogatari Series
+1265,Meme Oshino,Dark,85,85,85,85,340,Final Verdict,-,Monogatari Series
+1266,Mayoi Hachikuji,Grass,92,80,91,75,338,Paralysis,-,Monogatari Series
+1267,Suruga Kanbaru,Water,84,95,80,78,337,Miracle Injection,-,Monogatari Series
+1268,Nadeko Sengoku,Null,92,69,84,93,338,Poison,-,Monogatari Series
+1269,Karen Araragi,Neutral,92,104,85,96,377,Cursed,-,Monogatari Series
+1270,Tsukihi Araragi,Fire,94,76,93,82,345,Undying Will,-,Monogatari Series
+1271,Porco Rosso,Fire,82,88,72,99,341,Temporal Rewind,-,Porco Rosso
+1272,Iori Kitahara,Water,89,96,83,70,338,Elemental Drain,-,Grand Blue
+1273,Kohei Imamura,Water,97,73,93,77,340,Brutality,-,Grand Blue
+1274,Chisa Kotegawa,Water,79,70,100,91,340,Divine Fortune,Water,Grand Blue
+1275,Azusa Hamaoka,Grass,82,83,81,94,340,Atmospheric Acceleration,Fire,Grand Blue
+1276,Nanaka Kotegawa,Light,93,97,67,83,340,Aegis,-,Grand Blue
+1277,Aina Yoshiwara,Electric,98,97,75,70,340,Evasion,-,Grand Blue
+1278,Ryujiro Kotobuki,Fire,75,98,82,82,337,Pain For Power,-,Grand Blue
+1279,Shinji Tokita,Electric,80,90,80,90,340,Devour,-,Grand Blue

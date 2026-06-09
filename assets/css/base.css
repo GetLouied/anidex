@@ -1,0 +1,67 @@
+/* ==========================================================================
+   Anidex — base.css
+   Shared design tokens, reset, header/nav, and common components.
+   Both pages (cards + breach) import this first.
+   ========================================================================== */
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;500;600;700&family=Spline+Sans+Mono:wght@400;500;600&display=swap');
+
+:root{
+  /* surfaces */
+  --bg:#0c0e14; --panel:#13161f; --panel-2:#1a1e2a; --line:#262b3a;
+  --row:#10131b; --row-alt:#0e1119;
+  /* ink */
+  --ink:#e8ebf2; --ink-dim:#8b93a7; --ink-faint:#5a6175;
+  /* accent */
+  --accent:#5ee0c9; --accent-dim:#2a8576;
+  /* phase icons */
+  --sun:#ead98a; --moon:#9b7fc4;
+  /* difficulty */
+  --imp:#e8896b; --hard:#e8d44d; --med:#7cc465;
+  /* element palette (mirrors the in-game dex) */
+  --grass:#7cc465; --fire:#e8896b; --electric:#e8d44d; --water:#5fa8e0;
+  --ground:#c9a36b; --neutral:#9aa0b0; --null:#8a8fa0; --light:#ead9a0; --dark:#9b7fc4;
+}
+
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%}
+body{
+  background:var(--bg); color:var(--ink);
+  font-family:'Spline Sans Mono',monospace; font-size:13px; line-height:1.45;
+  min-height:100vh;
+  background-image:
+    radial-gradient(circle at 13% -10%,rgba(94,224,201,.06),transparent 42%),
+    radial-gradient(circle at 92% 0%,rgba(155,127,196,.06),transparent 38%);
+}
+.wrap{max-width:1400px;margin:0 auto;padding:24px 20px 80px}
+
+/* --- header + nav (shared) --- */
+header{display:flex;align-items:baseline;gap:16px;border-bottom:1px solid var(--line);
+  padding-bottom:16px;margin-bottom:20px;flex-wrap:wrap}
+h1{font-family:'Chakra Petch',sans-serif;font-weight:700;font-size:24px;letter-spacing:.04em}
+h1 .dot{color:var(--accent)}
+.sub{color:var(--ink-faint);font-size:12px;letter-spacing:.05em}
+nav{display:flex;gap:6px;margin-left:auto}
+nav a{font-family:'Chakra Petch',sans-serif;font-size:12px;letter-spacing:.05em;text-transform:uppercase;
+  color:var(--ink-dim);text-decoration:none;padding:7px 14px;border:1px solid var(--line);border-radius:6px;transition:all .13s}
+nav a:hover{color:var(--ink);border-color:var(--ink-faint)}
+nav a.active{background:var(--accent-dim);border-color:var(--accent);color:var(--ink)}
+
+/* --- element tags (shared) --- */
+.el-Grass{background:var(--grass)}.el-Fire{background:var(--fire)}.el-Electric{background:var(--electric)}
+.el-Water{background:var(--water)}.el-Ground{background:var(--ground)}.el-Neutral{background:var(--neutral)}
+.el-Null{background:var(--null)}.el-Light{background:var(--light)}.el-Dark{background:var(--dark)}
+
+/* --- shared bits --- */
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:14px 16px}
+.panel-title{font-family:'Chakra Petch',sans-serif;font-size:11px;text-transform:uppercase;letter-spacing:.12em;
+  color:var(--ink-faint);margin-bottom:10px;display:flex;align-items:center;gap:8px}
+.btn{font-family:'Chakra Petch',sans-serif;font-size:12px;letter-spacing:.05em;padding:8px 16px;border-radius:6px;
+  border:1px solid var(--line);background:var(--panel-2);color:var(--ink-dim);cursor:pointer;text-transform:uppercase;transition:all .13s}
+.btn:hover{border-color:var(--ink-faint);color:var(--ink)}
+.btn.primary{background:var(--accent-dim);border-color:var(--accent);color:var(--ink)}
+.hidden{display:none}
+
+/* scrollbar */
+*::-webkit-scrollbar{width:10px;height:10px}
+*::-webkit-scrollbar-track{background:var(--bg)}
+*::-webkit-scrollbar-thumb{background:var(--line);border-radius:5px}

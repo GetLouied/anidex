@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Anidex — Cards</title>
+<link rel="stylesheet" href="assets/css/base.css">
+<link rel="stylesheet" href="assets/css/cards.css">
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>ANIDEX<span class="dot">.</span></h1>
+    <span class="sub">CARD FILTER // CLAN BREACH TOOLKIT</span>
+    <nav>
+      <a href="cards.html" class="active">Cards</a>
+      <a href="breach.html">Breach</a>
+    </nav>
+    <span class="count-badge" id="countBadge">0 / 0</span>
+  </header>
+
+  <div class="controls">
+    <div class="row-controls">
+      <div class="panel">
+        <div class="panel-title">Search</div>
+        <div class="search-box"><input id="search" placeholder="Name or series..." autocomplete="off"></div>
+        <div style="margin-top:12px" class="panel-title">Talent</div>
+        <select id="talentSelect"><option value="">All talents</option></select>
+        <select id="variantSelect" style="margin-top:10px;display:none"><option value="">All variants</option></select>
+      </div>
+      <div class="panel">
+        <div class="panel-title">Element</div>
+        <div class="chips" id="elementChips"></div>
+        <div style="margin-top:14px" class="panel-title">Sort</div>
+        <div style="display:flex;gap:10px">
+          <select id="sortKey" style="flex:2"></select>
+          <select id="sortDir" style="flex:1"><option value="desc">High → Low</option><option value="asc">Low → High</option></select>
+        </div>
+      </div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-title">Stat Ranges</div>
+      <div class="sliders" id="sliders"></div>
+    </div>
+
+    <div class="actions">
+      <button class="btn primary" id="resetBtn">Reset Filters</button>
+      <span class="sub" id="activeFilters"></span>
+    </div>
+  </div>
+
+  <div class="tbl-wrap">
+    <table>
+      <thead><tr id="headRow"></tr></thead>
+      <tbody id="tbody"></tbody>
+    </table>
+  </div>
+  <div class="foot">Click any row to expand talent details &nbsp;·&nbsp; Click column headers to sort</div>
+</div>
+
+<script src="assets/js/data.js"></script>
+<script src="assets/js/cards.js"></script>
+</body>
+</html>
