@@ -13,7 +13,7 @@ async function loadData(){
 
 const state = {
   search:"", elements:new Set(), talent:"", variant:"",
-  ranges:{}, sortKey:"total", sortDir:"desc", expanded:new Set()
+  ranges:{}, sortKey:"id", sortDir:"asc", expanded:new Set()
 };
 STATS.forEach(s=>state.ranges[s]=[0,200]);
 state.ranges.total=[0,800];
@@ -49,9 +49,10 @@ function buildUI(){
   [["total","TOTAL"],["hp","HP"],["atk","ATK"],["def","DEF"],["spd","SPD"],["name","Name"],["id","ID"],["element","Element"]].forEach(([v,l])=>{
     const o=document.createElement('option');o.value=v;o.textContent=l;sk.appendChild(o);
   });
-  sk.value="total";
+  sk.value="id";
   sk.onchange=()=>{state.sortKey=sk.value;render()};
   document.getElementById('sortDir').onchange=e=>{state.sortDir=e.target.value;render()};
+  document.getElementById('sortDir').value=state.sortDir;
   // sliders
   const b=statBounds();
   const sl=document.getElementById('sliders');sl.innerHTML='';
