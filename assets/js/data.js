@@ -8,7 +8,7 @@ window.Anidex = (function () {
   const STATS = ["hp","atk","def","spd"];
 
   const store = {
-    cards: [], talents: {}, breach: null, pvp: null,
+    cards: [], talents: {}, breach: null, pvp: null, effectiveness: null,
     byId: {}, byName: {}
   };
 
@@ -26,6 +26,7 @@ window.Anidex = (function () {
     if (which.includes('cards'))   jobs.push(getJSON('data/cards.json').then(d => { if (Array.isArray(d)) store.cards = d; }));
     if (which.includes('talents')) jobs.push(getJSON('data/talents.json').then(d => { if (d) store.talents = d; }));
     if (which.includes('pvp'))     jobs.push(getJSON('data/pvp.json').then(d => { if (d) store.pvp = d; }));
+    if (which.includes('effectiveness')) jobs.push(getJSON('data/effectiveness.json').then(d => { if (d) store.effectiveness = d; }));
     // NOTE: breach is no longer loaded here in plaintext. Use loadBreachEncrypted(passphrase).
     // Future: rankings.json, effectiveness.json
     await Promise.all(jobs);
@@ -77,5 +78,24 @@ window.Anidex = (function () {
     return [];
   }
 
-  return { ELEMENTS, STATS, store, load, getJSON, variantDesc, talentVariants, loadBreachEncrypted };
+  // Element effectiveness multiplier: how `attacker` element performs vs `defender`.
+  // Applies the 1.0 +/- swing interpretation in code (data only stores relationships).
+  // Returns 1.0 if effectiveness data isn't loaded or elements unknown.
+  function effMultiplier(attacker, defender) {
+    const e = store.effectiveness;
+    if (!e || !e.matrix || !e.matrix[attacker]) return 1.0;
+    const code = e.matrix[attacker][defender];
+    const es = e.swings ? e.swings.element : 0.5;
+    const ns = e.swings ? e.swings.null : 0.15;
+    switch (code) {
+      case 'eff':       return 1 + es;
+      case 'weak':      return 1 - es;
+      case 'null_eff':  return 1 + ns;
+      case 'null_weak': return 1 - ns;
+      case 'neutral':
+      default:          return 1.0;
+    }
+  }
+
+  return { ELEMENTS, STATS, store, load, getJSON, variantDesc, talentVariants, loadBreachEncrypted, effMultiplier };
 })();
