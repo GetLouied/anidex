@@ -1,0 +1,1924 @@
+{
+  "meta": {
+    "title": "PvP Guide",
+    "updated": "2026-05-05",
+    "credit": "Adapted from adobs's AniGame PvP Guide. Original guide by adobs, with credits to: yamisynthesis, voisinee, samknightssamfield, _ulala_, and chigiri__."
+  },
+  "tiers": [
+    {
+      "tier": "INSTA BAN",
+      "slug": "insta-ban",
+      "desc": "Banned at the start of nearly every match.",
+      "talents": [
+        {
+          "label": "Atmospheric Acceleration",
+          "talent": "Atmospheric Acceleration",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Cursed",
+          "talent": "Cursed",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Elemental Drain",
+          "talent": "Elemental Drain",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Restricted Instinct",
+          "talent": "Restricted Instinct",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Yin Yang",
+          "talent": "Yin Yang",
+          "variant": null,
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "tier": "VERY META",
+      "slug": "very-meta",
+      "desc": "Top-tier picks that define the current meta.",
+      "talents": [
+        {
+          "label": "Blaze",
+          "talent": "Blaze",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Brutality",
+          "talent": "Brutality",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Celestial Influence",
+          "talent": "Celestial Influence",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Overload (ATK)",
+          "talent": "Overload",
+          "variant": "ATK",
+          "resolved": true
+        },
+        {
+          "label": "Rising Resolve",
+          "talent": "Rising Resolve",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Reversion",
+          "talent": "Reversion",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Regeneration",
+          "talent": "Regeneration",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Reflector",
+          "talent": "Reflector",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Transformation (DEF)",
+          "talent": "Transformation",
+          "variant": "DEF",
+          "resolved": true
+        },
+        {
+          "label": "Undying Will",
+          "talent": "Undying Will",
+          "variant": null,
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "tier": "GREAT",
+      "slug": "great",
+      "desc": "Strong, reliable choices.",
+      "talents": [
+        {
+          "label": "Celestial Blessing",
+          "talent": "Celestial Blessing",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Divine Blessing",
+          "talent": "Divine Blessing",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Double-Edged Strike (ATK)",
+          "talent": "Double-edged Strike",
+          "variant": "ATK",
+          "resolved": true
+        },
+        {
+          "label": "Elemental Manipulation",
+          "talent": "Elemental Manipulation",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Elemental Strike (ATK)",
+          "talent": "Elemental Strike",
+          "variant": "ATK",
+          "resolved": true
+        },
+        {
+          "label": "Mana Reaver",
+          "talent": "Mana Reaver",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Miracle Injection",
+          "talent": "Miracle Injection",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Pain for Power",
+          "talent": "Pain For Power",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Rejuvenation",
+          "talent": "Rejuvenation",
+          "variant": null,
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "tier": "DECENT",
+      "slug": "decent",
+      "desc": "Solid situational picks.",
+      "talents": [
+        {
+          "label": "Aegis",
+          "talent": "Aegis",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Bloodthirster",
+          "talent": "Bloodthirster",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Breaker (DEF)",
+          "talent": "Breaker",
+          "variant": "DEF",
+          "resolved": true
+        },
+        {
+          "label": "Dexterity Drive",
+          "talent": "Dexterity Drive",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Dominance",
+          "talent": "Dominance",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Executioner",
+          "talent": "Executioner",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Life Sap",
+          "talent": "Life Sap",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Protector",
+          "talent": "Protector",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Time Bomb",
+          "talent": "Time Bomb",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Recoil",
+          "talent": "Recoil",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Transformation (ATK)",
+          "talent": "Transformation",
+          "variant": "ATK",
+          "resolved": true
+        },
+        {
+          "label": "Ultimate Combo",
+          "talent": "Ultimate Combo",
+          "variant": null,
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "tier": "VERY NICHE",
+      "slug": "niche",
+      "desc": "Work in specific gimmick comps only.",
+      "talents": [
+        {
+          "label": "Balancing Strike",
+          "talent": "Balancing Strike",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Blood Surge",
+          "talent": "Blood Surge",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Freeze",
+          "talent": "Freeze",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Grievous Limiter",
+          "talent": "Grievous Limiter",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Lethal Clarity",
+          "talent": "Lethal Clarity",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Overload (SPD)",
+          "talent": "Overload",
+          "variant": "SPD",
+          "resolved": true
+        },
+        {
+          "label": "Paralysis",
+          "talent": "Paralysis",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Precision",
+          "talent": "Precision",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Time Attack",
+          "talent": "Time Attack",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Temporal Rewind",
+          "talent": "Temporal Rewind",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Trick (ATK)",
+          "talent": "Trick Room",
+          "variant": "ATK",
+          "resolved": true
+        },
+        {
+          "label": "Vengeance (ATK)",
+          "talent": "Vengeance",
+          "variant": "ATK",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "tier": "VERY BAD",
+      "slug": "bad",
+      "desc": "Rarely worth running.",
+      "talents": [
+        {
+          "label": "Berserker (ATK)",
+          "talent": "Berserker",
+          "variant": "ATK",
+          "resolved": true
+        },
+        {
+          "label": "Amplifier (ATK)",
+          "talent": "Amplifier",
+          "variant": "ATK",
+          "resolved": true
+        },
+        {
+          "label": "Evasion",
+          "talent": "Evasion",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Poison",
+          "talent": "Poison",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Soul Steal",
+          "talent": "Soul Stealer",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Smokescreen",
+          "talent": "Smokescreen",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Underdog (ATK)",
+          "talent": "Underdog",
+          "variant": "ATK",
+          "resolved": true
+        },
+        {
+          "label": "Unlucky Coin",
+          "talent": "Unlucky Coin",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Devour",
+          "talent": "Devour",
+          "variant": null,
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "tier": "DON'T EVEN USE",
+      "slug": "dont-use",
+      "desc": "Avoid in PvP.",
+      "talents": [
+        {
+          "label": "Arcane Affinity",
+          "talent": "Arcane Affinity",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Amplifier (DEF)",
+          "talent": "Amplifier",
+          "variant": "DEF",
+          "resolved": true
+        },
+        {
+          "label": "Berserker (DEF)",
+          "talent": "Berserker",
+          "variant": "DEF",
+          "resolved": true
+        },
+        {
+          "label": "Breaker (ATK)",
+          "talent": "Breaker",
+          "variant": "ATK",
+          "resolved": true
+        },
+        {
+          "label": "Double-Edged Strike (DEF)",
+          "talent": "Double-edged Strike",
+          "variant": "DEF",
+          "resolved": true
+        },
+        {
+          "label": "Double-Edged Strike (SPD)",
+          "talent": "Double-edged Strike",
+          "variant": "SPD",
+          "resolved": true
+        },
+        {
+          "label": "Elemental Strike (DEF)",
+          "talent": "Elemental Strike",
+          "variant": "DEF",
+          "resolved": true
+        },
+        {
+          "label": "Endurance",
+          "talent": "Endurance",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Foul Play",
+          "talent": "Foul Play",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Lucky Coin",
+          "talent": "Lucky Coin",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Offensive Stance",
+          "talent": "Offensive Stance",
+          "variant": null,
+          "resolved": true
+        },
+        {
+          "label": "Overload (DEF)",
+          "talent": "Overload",
+          "variant": "DEF",
+          "resolved": true
+        },
+        {
+          "label": "Trick (DEF)",
+          "talent": "Trick Room",
+          "variant": "DEF",
+          "resolved": true
+        },
+        {
+          "label": "Underdog (DEF)",
+          "talent": "Underdog",
+          "variant": "DEF",
+          "resolved": true
+        },
+        {
+          "label": "Vengeance (DEF)",
+          "talent": "Vengeance",
+          "variant": "DEF",
+          "resolved": true
+        },
+        {
+          "label": "Vengeance (SPD)",
+          "talent": "Vengeance",
+          "variant": "SPD",
+          "resolved": true
+        }
+      ]
+    }
+  ],
+  "meta_cards": [
+    {
+      "talent": "Atmospheric Acceleration",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Masahito Karikiri",
+          "id": 1075
+        }
+      ]
+    },
+    {
+      "talent": "Brutality",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Hyo",
+          "id": 1019
+        },
+        {
+          "type": "card",
+          "name": "Vi",
+          "id": 924
+        }
+      ]
+    },
+    {
+      "talent": "Celestial Influence",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Tsuyu Asui (Froppy)",
+          "id": 950
+        },
+        {
+          "type": "card",
+          "name": "Old Neil",
+          "id": 1159
+        }
+      ]
+    },
+    {
+      "talent": "Cursed",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Statue Of God",
+          "id": 801
+        }
+      ]
+    },
+    {
+      "talent": "Divine Blessing",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Mizuki Nakahara",
+          "id": 1191
+        },
+        {
+          "type": "card",
+          "name": "August Stilza",
+          "id": 1137
+        },
+        {
+          "type": "card",
+          "name": "Yor Forger",
+          "id": 553
+        }
+      ]
+    },
+    {
+      "talent": "Dominance",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Vlad Tepes (Dracula)",
+          "id": 712
+        }
+      ]
+    },
+    {
+      "talent": "Elemental Manipulation",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Alphonse Elric",
+          "id": 956
+        }
+      ]
+    },
+    {
+      "talent": "Executioner",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Jack Frost",
+          "id": 204
+        },
+        {
+          "type": "card",
+          "name": "Skull Knight",
+          "id": 706
+        },
+        {
+          "type": "card",
+          "name": "Yamada Asaemon Sagiri",
+          "id": 866
+        }
+      ]
+    },
+    {
+      "talent": "Life Sap",
+      "cards": [
+        {
+          "type": "any",
+          "label": "(any, tankier is better)"
+        }
+      ]
+    },
+    {
+      "talent": "Miracle Injection",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Franky",
+          "id": 844
+        },
+        {
+          "type": "card",
+          "name": "Shogo Makishima",
+          "id": 477
+        },
+        {
+          "type": "card",
+          "name": "Souji Okita",
+          "id": 1045
+        },
+        {
+          "type": "card",
+          "name": "Dizzy",
+          "id": 1021
+        }
+      ]
+    },
+    {
+      "talent": "Omniscient Hack",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Atom",
+          "id": 721
+        }
+      ]
+    },
+    {
+      "talent": "Overload (ATK)",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Adam Smasher",
+          "id": 694
+        },
+        {
+          "type": "card",
+          "name": "Superman",
+          "id": 1163
+        },
+        {
+          "type": "card",
+          "name": "Minami Kotobuki",
+          "id": 889
+        }
+      ]
+    },
+    {
+      "talent": "Protector",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Hajime Umemiya",
+          "id": 1026
+        },
+        {
+          "type": "card",
+          "name": "Kanna Kamui",
+          "id": 230
+        },
+        {
+          "type": "card",
+          "name": "Kaori Shirasaki",
+          "id": 637
+        }
+      ]
+    },
+    {
+      "talent": "Recoil",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Amo Empool",
+          "id": 1139
+        },
+        {
+          "type": "card",
+          "name": "Epsilon (Eis)",
+          "id": 1004
+        }
+      ]
+    },
+    {
+      "talent": "Reflector",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Kim Chul (Iron)",
+          "id": 1116
+        },
+        {
+          "type": "card",
+          "name": "Hercules",
+          "id": 726
+        }
+      ]
+    },
+    {
+      "talent": "Reversion",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Shinpei Ajiro",
+          "id": 1067
+        },
+        {
+          "type": "card",
+          "name": "Myu",
+          "id": 638
+        },
+        {
+          "type": "card",
+          "name": "Hiei",
+          "id": 166
+        }
+      ]
+    },
+    {
+      "talent": "Rising Resolve",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Chrollo Lucilfer",
+          "id": 1142
+        },
+        {
+          "type": "card",
+          "name": "Taiju Oki",
+          "id": 960
+        }
+      ]
+    },
+    {
+      "talent": "Temporal Rewind",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Ekko",
+          "id": 949
+        },
+        {
+          "type": "card",
+          "name": "Madara Uchiha",
+          "id": 298
+        }
+      ]
+    },
+    {
+      "talent": "Transformation (DEF)",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Ponyo",
+          "id": 1114
+        },
+        {
+          "type": "card",
+          "name": "Marin Kitagawa",
+          "id": 977
+        }
+      ]
+    },
+    {
+      "talent": "Transformation (ATK)",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Itachi Uchiha",
+          "id": 194
+        },
+        {
+          "type": "card",
+          "name": "Rize Kamishiro",
+          "id": 922
+        }
+      ]
+    },
+    {
+      "talent": "Undying Will",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Thorfinn",
+          "id": 740
+        },
+        {
+          "type": "card",
+          "name": "Jabber Wonger",
+          "id": 1136
+        },
+        {
+          "type": "card",
+          "name": "May",
+          "id": 1178
+        },
+        {
+          "type": "card",
+          "name": "Mika Harima",
+          "id": 1062
+        },
+        {
+          "type": "card",
+          "name": "Love Demon",
+          "id": 983
+        }
+      ]
+    },
+    {
+      "talent": "Yin Yang",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Taki Tachibana",
+          "id": 754
+        },
+        {
+          "type": "card",
+          "name": "Klein Moretti",
+          "id": 1148
+        },
+        {
+          "type": "card",
+          "name": "Suguru Geto",
+          "id": 967
+        }
+      ]
+    },
+    {
+      "talent": "Amplifier (ATK)",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Kaneki Ken",
+          "id": 229
+        }
+      ]
+    },
+    {
+      "talent": "Balancing Strike",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Zanka Nijiku",
+          "id": 1130
+        },
+        {
+          "type": "card",
+          "name": "Alexia Midgar",
+          "id": 997
+        },
+        {
+          "type": "card",
+          "name": "Krillin",
+          "id": 269
+        }
+      ]
+    },
+    {
+      "talent": "Blaze",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Muhammad Avdol",
+          "id": 1090
+        },
+        {
+          "type": "card",
+          "name": "Hao Asakura",
+          "id": 156
+        },
+        {
+          "type": "card",
+          "name": "Portgas D Ace",
+          "id": 389
+        }
+      ]
+    },
+    {
+      "talent": "Breaker (DEF)",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Shigaraki Tomura",
+          "id": 951
+        },
+        {
+          "type": "card",
+          "name": "Benson Moretti",
+          "id": 1156
+        }
+      ]
+    },
+    {
+      "talent": "Celestial Blessing",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Beatrice",
+          "id": 1036
+        }
+      ]
+    },
+    {
+      "talent": "Dexterity Drive",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Minato Namikaze",
+          "id": 337
+        },
+        {
+          "type": "card",
+          "name": "Koro Sensei",
+          "id": 264
+        },
+        {
+          "type": "card",
+          "name": "Kei Shirogane",
+          "id": 239
+        },
+        {
+          "type": "card",
+          "name": "Taro Sakamoto",
+          "id": 1010
+        }
+      ]
+    },
+    {
+      "talent": "Elemental Drain",
+      "cards": [
+        {
+          "type": "any",
+          "label": "(any 2 different elements)"
+        }
+      ]
+    },
+    {
+      "talent": "Double-edged Strike",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Yamada Asaemon Shion",
+          "id": 867
+        },
+        {
+          "type": "card",
+          "name": "Omni Man (Nolan)",
+          "id": 1164
+        },
+        {
+          "type": "card",
+          "name": "Michiyo Gotoh",
+          "id": 1108
+        },
+        {
+          "type": "card",
+          "name": "Keigo Takami (Hawks)",
+          "id": 241
+        }
+      ]
+    },
+    {
+      "talent": "Elemental Strike",
+      "cards": [
+        {
+          "type": "card",
+          "name": "San",
+          "id": 1127
+        },
+        {
+          "type": "card",
+          "name": "Griffith",
+          "id": 705
+        },
+        {
+          "type": "card",
+          "name": "Mlynar",
+          "id": 733
+        }
+      ]
+    },
+    {
+      "talent": "Freeze",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Cocytus",
+          "id": 962
+        }
+      ]
+    },
+    {
+      "talent": "Mana Reaver",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Daly Simone",
+          "id": 1152
+        },
+        {
+          "type": "card",
+          "name": "Sans",
+          "id": 445
+        }
+      ]
+    },
+    {
+      "talent": "Pain For Power",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Baek Yoonho",
+          "id": 1120
+        }
+      ]
+    },
+    {
+      "talent": "Poison",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Boa Hancock",
+          "id": 846
+        },
+        {
+          "type": "card",
+          "name": "Shalltear Bloodfallen",
+          "id": 458
+        }
+      ]
+    },
+    {
+      "talent": "Precision",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Ginjiro Nezu",
+          "id": 1073
+        },
+        {
+          "type": "card",
+          "name": "Arrow",
+          "id": 1043
+        }
+      ]
+    },
+    {
+      "talent": "Regeneration",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Atom Eve (Samantha Eve Wilkins)",
+          "id": 1166
+        }
+      ]
+    },
+    {
+      "talent": "Rejuvenation",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Namie Yagiri",
+          "id": 1058
+        },
+        {
+          "type": "card",
+          "name": "Chihiro Ogino",
+          "id": 1080
+        },
+        {
+          "type": "card",
+          "name": "Darkness",
+          "id": 85
+        }
+      ]
+    },
+    {
+      "talent": "Restricted Instinct",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Shiemi Moriyama",
+          "id": 461
+        },
+        {
+          "type": "card",
+          "name": "Kage",
+          "id": 770
+        }
+      ]
+    },
+    {
+      "talent": "Time Attack",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Mourngrave Oracle",
+          "id": 1161
+        },
+        {
+          "type": "card",
+          "name": "Loli",
+          "id": 1097
+        },
+        {
+          "type": "card",
+          "name": "Mine",
+          "id": 338
+        }
+      ]
+    },
+    {
+      "talent": "Time Bomb",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Franken Stein",
+          "id": 125
+        },
+        {
+          "type": "card",
+          "name": "Chongyue",
+          "id": 731
+        }
+      ]
+    },
+    {
+      "talent": "Trick Room",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Zeldris",
+          "id": 1085
+        },
+        {
+          "type": "card",
+          "name": "Kyubey",
+          "id": 1147
+        }
+      ]
+    },
+    {
+      "talent": "Ultimate Combo",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Soshiro Hoshina",
+          "id": 838
+        }
+      ]
+    },
+    {
+      "talent": "Vengeance",
+      "cards": [
+        {
+          "type": "card",
+          "name": "Raphtalia",
+          "id": 397
+        }
+      ]
+    }
+  ],
+  "archetypes": [
+    {
+      "name": "Atmospheric Acceleration",
+      "slug": "atmospheric",
+      "objective": "Use one of the strongest talents in the game and amplify its damage.",
+      "counters": "Anything without Cursed, Undying Will, or Freeze.",
+      "stats": "SPD is the overwhelming priority.",
+      "meta_comps": [
+        {
+          "slots": [
+            {
+              "type": "card",
+              "name": "Snivy",
+              "id": 1181
+            },
+            {
+              "type": "card",
+              "name": "Minato Namikaze",
+              "id": 337
+            },
+            {
+              "type": "card",
+              "name": "Masahito Karikiri",
+              "id": 1075
+            }
+          ],
+          "note": "Variation #1 (BiS). Bursts down almost anything lacking the counters."
+        },
+        {
+          "slots": [
+            {
+              "type": "card",
+              "name": "Dizzy",
+              "id": 1021
+            },
+            {
+              "type": "card",
+              "name": "Minato Namikaze",
+              "id": 337
+            },
+            {
+              "type": "card",
+              "name": "Masahito Karikiri",
+              "id": 1075
+            }
+          ],
+          "note": "Variation #2. Dizzy adds speed if Overload (SPD) is unavailable."
+        },
+        {
+          "slots": [
+            {
+              "type": "card",
+              "name": "Kyohei Kadota",
+              "id": 1064
+            },
+            {
+              "type": "card",
+              "name": "Minato Namikaze",
+              "id": 337
+            },
+            {
+              "type": "card",
+              "name": "Masahito Karikiri",
+              "id": 1075
+            }
+          ],
+          "note": "Variation #3. Third option if the others are unavailable."
+        }
+      ],
+      "other_comps": []
+    },
+    {
+      "name": "Elemental Drain",
+      "slug": "drain",
+      "objective": "Abuse Drain — high damage plus healing with little stat-debuff counterplay.",
+      "counters": "Hard-countered by Elemental Manipulation. Otherwise very versatile.",
+      "stats": "HP/DEF for tanky variants; HP/SPD for fast variants.",
+      "meta_comps": [
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Undying Will"
+            },
+            {
+              "type": "role",
+              "label": "Brutality"
+            },
+            {
+              "type": "role",
+              "label": "Drain"
+            }
+          ],
+          "note": "Variation #1. Beats bursts and some anti-burst, influence, and reaver comps."
+        },
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Omniscient Hack"
+            },
+            {
+              "type": "role",
+              "label": "Drain"
+            },
+            {
+              "type": "role",
+              "label": "Drain"
+            }
+          ],
+          "note": "Variation #2. Hack + double drain; kills bursts, stalls, and anti-bursts."
+        },
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Celestial Influence"
+            },
+            {
+              "type": "role",
+              "label": "Drain"
+            },
+            {
+              "type": "role",
+              "label": "Drain"
+            }
+          ],
+          "note": "Variation #3. Keeps proccing Drain; match-up dependent on elements."
+        },
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Reflector"
+            },
+            {
+              "type": "role",
+              "label": "Drain"
+            },
+            {
+              "type": "role",
+              "label": "Drain"
+            }
+          ],
+          "note": "Variation #4. Tankier to fuel more Drain procs; weak to Hack."
+        },
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Protector"
+            },
+            {
+              "type": "role",
+              "label": "Brutality"
+            },
+            {
+              "type": "role",
+              "label": "Drain"
+            }
+          ],
+          "note": "Variation #5. Counters Double Yin Yang; may lose to Overload bursts."
+        }
+      ],
+      "other_comps": []
+    },
+    {
+      "name": "Stall",
+      "slug": "stall",
+      "objective": "Tank damage and out-heal the opponent until R20 (or they die).",
+      "counters": "Almost anything without Blaze or high damage-over-time.",
+      "stats": "HP/DEF. Lower SPD is better.",
+      "meta_comps": [
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Transformation",
+              "note": "DEF"
+            },
+            {
+              "type": "role",
+              "label": "Reversion"
+            },
+            {
+              "type": "role",
+              "label": "Regeneration"
+            }
+          ],
+          "note": "Meta #1. Versatile; beats bursts and stalls lacking Transformation (DEF)."
+        },
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Transformation",
+              "note": "DEF"
+            },
+            {
+              "type": "role",
+              "label": "Rejuvenation"
+            },
+            {
+              "type": "role",
+              "label": "Rejuvenation"
+            }
+          ],
+          "note": "Meta #2. Tanky with huge healing per Rejuvenation proc."
+        },
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Reversion"
+            },
+            {
+              "type": "role",
+              "label": "Reflector"
+            },
+            {
+              "type": "role",
+              "label": "Regeneration"
+            }
+          ],
+          "note": "Meta #3. Reversion line without Transformation (DEF)."
+        }
+      ],
+      "other_comps": [
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Reversion"
+            },
+            {
+              "type": "role",
+              "label": "Recoil"
+            },
+            {
+              "type": "role",
+              "label": "Regeneration"
+            }
+          ],
+          "note": "Other #1. Counters Blaze while still beating bursts; slow mana regen."
+        },
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Celestial Influence"
+            },
+            {
+              "type": "role",
+              "label": "Rejuvenation"
+            },
+            {
+              "type": "role",
+              "label": "Rejuvenation"
+            }
+          ],
+          "note": "Other #2. Strong early healing when better stall talents are banned."
+        },
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Elemental Manipulation"
+            },
+            {
+              "type": "role",
+              "label": "Rejuvenation"
+            },
+            {
+              "type": "role",
+              "label": "Regeneration"
+            }
+          ],
+          "note": "Other #3. Specifically counters Drain; beats some non-Overload bursts."
+        }
+      ]
+    },
+    {
+      "name": "Burst",
+      "slug": "burst",
+      "objective": "Deal massive early damage to kill quickly (ideally within two rounds).",
+      "counters": "Loses to Stall and Anti-Burst comps.",
+      "stats": "ATK (top priority ~90% of the time), SPD (high), HP (good, not prioritized).",
+      "meta_comps": [
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Overload"
+            },
+            {
+              "type": "role",
+              "label": "Omniscient Hack"
+            },
+            {
+              "type": "role",
+              "label": "Double-edged Strike / Elemental Strike"
+            }
+          ],
+          "note": "Meta #1. Incredibly strong burst, especially with BiS."
+        },
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Yin Yang"
+            },
+            {
+              "type": "role",
+              "label": "Yin Yang"
+            },
+            {
+              "type": "role",
+              "label": "Elemental Strike / Double-edged Strike"
+            }
+          ],
+          "note": "Meta #2. Double Yin Yang keeps DEF up; beats most bursts and many reversion comps."
+        },
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Overload"
+            },
+            {
+              "type": "role",
+              "label": "Undying Will"
+            },
+            {
+              "type": "role",
+              "label": "Elemental Strike / Double-edged Strike"
+            }
+          ],
+          "note": "Meta #3. Undying Will makes you un-burstable yourself."
+        }
+      ],
+      "other_comps": [
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Divine Blessing"
+            },
+            {
+              "type": "role",
+              "label": "Miracle Injection"
+            },
+            {
+              "type": "role",
+              "label": "Time Bomb"
+            }
+          ],
+          "note": "Other #1. Variety pick; Overload/Hack/Yin Yang work even better here."
+        },
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Pain For Power"
+            },
+            {
+              "type": "role",
+              "label": "Divine Blessing"
+            },
+            {
+              "type": "role",
+              "label": "Elemental Strike / Double-edged Strike"
+            }
+          ],
+          "note": "Other #2. Waits until R3 for a massive blow; can beat some anti-bursts."
+        }
+      ]
+    },
+    {
+      "name": "Anti-Burst",
+      "slug": "anti-burst",
+      "objective": "Counter Burst comps (and often Stall too).",
+      "counters": "Burst comps.",
+      "stats": "HP and DEF.",
+      "meta_comps": [
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Reversion"
+            },
+            {
+              "type": "role",
+              "label": "Celestial Blessing / Reflector"
+            },
+            {
+              "type": "role",
+              "label": "Blaze"
+            }
+          ],
+          "note": "Meta #1. Beats bursts and stalls; safe early-round pick."
+        },
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Rising Resolve"
+            },
+            {
+              "type": "role",
+              "label": "Rising Resolve"
+            },
+            {
+              "type": "role",
+              "label": "Balancing Strike"
+            }
+          ],
+          "note": "Meta #2. Good vs faster bursts; loses to Hack/Undying Will."
+        },
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Protector"
+            },
+            {
+              "type": "role",
+              "label": "Brutality"
+            },
+            {
+              "type": "role",
+              "label": "Blaze"
+            }
+          ],
+          "note": "Meta #3. Beats hackless bursts, some reaver/combo, and stalls; loses to Pain for Power bursts."
+        }
+      ],
+      "other_comps": [
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Reversion"
+            },
+            {
+              "type": "role",
+              "label": "Precision"
+            },
+            {
+              "type": "role",
+              "label": "Omniscient Hack"
+            }
+          ],
+          "note": "Other #1. Decent anti-burst that also beats some stalls."
+        },
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Trick Room",
+              "note": "ATK"
+            },
+            {
+              "type": "role",
+              "label": "Protector"
+            },
+            {
+              "type": "role",
+              "label": "Blaze"
+            }
+          ],
+          "note": "Other #2. Like the Brutality comp; beats bursts and resist-less stalls."
+        }
+      ]
+    },
+    {
+      "name": "Celestial Influence",
+      "slug": "celestial",
+      "objective": "Chain whatever talent you want to abuse — extremely versatile.",
+      "counters": "Highly dependent on the variation.",
+      "stats": "HP and SPD (one usually matters more than the other).",
+      "meta_comps": [
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Pain For Power"
+            },
+            {
+              "type": "role",
+              "label": "Celestial Influence"
+            },
+            {
+              "type": "role",
+              "label": "Elemental Strike"
+            }
+          ],
+          "note": "Variation #1. High damage; handles many anti-bursts and some stalls."
+        },
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Celestial Influence"
+            },
+            {
+              "type": "role",
+              "label": "Ultimate Combo"
+            },
+            {
+              "type": "role",
+              "label": "Ultimate Combo"
+            }
+          ],
+          "note": "Variation #2. Original stall counter, especially vs Transformation."
+        },
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Celestial Influence"
+            },
+            {
+              "type": "role",
+              "label": "Celestial Blessing"
+            },
+            {
+              "type": "role",
+              "label": "Paralysis"
+            }
+          ],
+          "note": "Variation #3. Gimmick; beats stalls and anything too slow to kill you."
+        },
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Celestial Influence"
+            },
+            {
+              "type": "role",
+              "label": "Celestial Blessing"
+            },
+            {
+              "type": "role",
+              "label": "Rejuvenation"
+            }
+          ],
+          "note": "Variation #4. Stall option when Transformation/Reversion are banned."
+        }
+      ],
+      "other_comps": []
+    },
+    {
+      "name": "Mana Reaver",
+      "slug": "reaver",
+      "objective": "Steal opponent mana so they proc talents rarely or never.",
+      "counters": "Single-talent-bar comps and proc-reliant comps.",
+      "stats": "SPD (being faster is vital), HP and ATK as bonuses.",
+      "meta_comps": [
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Celestial Influence"
+            },
+            {
+              "type": "role",
+              "label": "Mana Reaver"
+            },
+            {
+              "type": "role",
+              "label": "Mana Reaver"
+            }
+          ],
+          "note": "Variation #1. Standard reaver lock-out."
+        },
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Overload",
+              "note": "ATK"
+            },
+            {
+              "type": "role",
+              "label": "Mana Reaver"
+            },
+            {
+              "type": "role",
+              "label": "Elemental Strike / Double-edged Strike"
+            }
+          ],
+          "note": "Variation #2. Reaver + burst; great vs single-talent comps."
+        },
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Celestial Influence"
+            },
+            {
+              "type": "role",
+              "label": "Mana Reaver"
+            },
+            {
+              "type": "role",
+              "label": "Elemental Drain"
+            }
+          ],
+          "note": "Variation #3. Adds burst + Drain healing; heavy damage-over-time."
+        },
+        {
+          "slots": [
+            {
+              "type": "role",
+              "label": "Omniscient Hack"
+            },
+            {
+              "type": "role",
+              "label": "Mana Reaver"
+            },
+            {
+              "type": "role",
+              "label": "Mana Reaver"
+            }
+          ],
+          "note": "Variation #4. Hack boosts reaver damage and sustain."
+        }
+      ],
+      "other_comps": []
+    }
+  ],
+  "roleTalentMap": {
+    "Drain": {
+      "talent": "Elemental Drain",
+      "variant": null
+    },
+    "Brutality": {
+      "talent": "Brutality",
+      "variant": null
+    },
+    "Undying Will": {
+      "talent": "Undying Will",
+      "variant": null
+    },
+    "Omniscient Hack": {
+      "talent": "Omniscient Hack",
+      "variant": null
+    },
+    "Celestial Influence": {
+      "talent": "Celestial Influence",
+      "variant": null
+    },
+    "Reflector": {
+      "talent": "Reflector",
+      "variant": null
+    },
+    "Protector": {
+      "talent": "Protector",
+      "variant": null
+    },
+    "Reversion": {
+      "talent": "Reversion",
+      "variant": null
+    },
+    "Regeneration": {
+      "talent": "Regeneration",
+      "variant": null
+    },
+    "Rejuvenation": {
+      "talent": "Rejuvenation",
+      "variant": null
+    },
+    "Recoil": {
+      "talent": "Recoil",
+      "variant": null
+    },
+    "Elemental Manipulation": {
+      "talent": "Elemental Manipulation",
+      "variant": null
+    },
+    "Overload": {
+      "talent": "Overload",
+      "variant": "ATK"
+    },
+    "Yin Yang": {
+      "talent": "Yin Yang",
+      "variant": null
+    },
+    "Pain For Power": {
+      "talent": "Pain For Power",
+      "variant": null
+    },
+    "Blaze": {
+      "talent": "Blaze",
+      "variant": null
+    },
+    "Rising Resolve": {
+      "talent": "Rising Resolve",
+      "variant": null
+    },
+    "Balancing Strike": {
+      "talent": "Balancing Strike",
+      "variant": null
+    },
+    "Precision": {
+      "talent": "Precision",
+      "variant": null
+    },
+    "Mana Reaver": {
+      "talent": "Mana Reaver",
+      "variant": null
+    },
+    "Paralysis": {
+      "talent": "Paralysis",
+      "variant": null
+    },
+    "Celestial Blessing": {
+      "talent": "Celestial Blessing",
+      "variant": null
+    },
+    "Time Bomb": {
+      "talent": "Time Bomb",
+      "variant": null
+    },
+    "Divine Blessing": {
+      "talent": "Divine Blessing",
+      "variant": null
+    },
+    "Miracle Injection": {
+      "talent": "Miracle Injection",
+      "variant": null
+    },
+    "Ultimate Combo": {
+      "talent": "Ultimate Combo",
+      "variant": null
+    }
+  }
+}

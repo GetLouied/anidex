@@ -8,7 +8,7 @@ window.Anidex = (function () {
   const STATS = ["hp","atk","def","spd"];
 
   const store = {
-    cards: [], talents: {}, breach: null,
+    cards: [], talents: {}, breach: null, pvp: null,
     byId: {}, byName: {}
   };
 
@@ -25,6 +25,7 @@ window.Anidex = (function () {
     const jobs = [];
     if (which.includes('cards'))   jobs.push(getJSON('data/cards.json').then(d => { if (Array.isArray(d)) store.cards = d; }));
     if (which.includes('talents')) jobs.push(getJSON('data/talents.json').then(d => { if (d) store.talents = d; }));
+    if (which.includes('pvp'))     jobs.push(getJSON('data/pvp.json').then(d => { if (d) store.pvp = d; }));
     // NOTE: breach is no longer loaded here in plaintext. Use loadBreachEncrypted(passphrase).
     // Future: rankings.json, effectiveness.json
     await Promise.all(jobs);

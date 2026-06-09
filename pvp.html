@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Anidex — PvP</title>
+<link rel="stylesheet" href="assets/css/base.css">
+<link rel="stylesheet" href="assets/css/pvp.css">
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>ANIDEX<span class="dot">.</span></h1>
+    <span class="sub">PVP GUIDE</span>
+    <nav>
+      <a href="cards.html">Cards</a>
+      <a href="breach.html">Breach</a>
+      <a href="pvp.html" class="active">PvP</a>
+    </nav>
+  </header>
+
+  <div class="pvp-tabs" id="pvpTabs">
+    <button class="pvp-tab active" data-view="tiers">Tier List</button>
+    <button class="pvp-tab" data-view="comps">Comps</button>
+    <button class="pvp-tab" data-view="meta">Meta Cards</button>
+    <button class="pvp-tab" data-view="reference">Reference</button>
+  </div>
+
+  <main id="main"></main>
+
+  <footer class="credit" id="credit"></footer>
+</div>
+
+<div class="modal-bg" id="modalBg"><div class="modal" id="modal"></div></div>
+
+<script src="assets/js/data.js"></script>
+<script src="assets/js/pvp.js"></script>
+</body>
+</html>

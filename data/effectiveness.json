@@ -1,0 +1,119 @@
+{
+  "swings": {
+    "element": 0.5,
+    "null": 0.15
+  },
+  "note": "Codes: eff/weak use element swing; null_eff/null_weak use null swing; neutral=1.0. Damage multiplier = 1.0 +/- swing, applied in code.",
+  "elements": [
+    "Fire",
+    "Water",
+    "Electric",
+    "Ground",
+    "Grass",
+    "Neutral",
+    "Light",
+    "Dark",
+    "Null"
+  ],
+  "matrix": {
+    "Fire": {
+      "Fire": "weak",
+      "Water": "weak",
+      "Electric": "neutral",
+      "Ground": "neutral",
+      "Grass": "eff",
+      "Neutral": "neutral",
+      "Light": "neutral",
+      "Dark": "neutral",
+      "Null": "null_weak"
+    },
+    "Water": {
+      "Fire": "eff",
+      "Water": "weak",
+      "Electric": "weak",
+      "Ground": "neutral",
+      "Grass": "neutral",
+      "Neutral": "neutral",
+      "Light": "neutral",
+      "Dark": "neutral",
+      "Null": "null_weak"
+    },
+    "Electric": {
+      "Fire": "neutral",
+      "Water": "eff",
+      "Electric": "weak",
+      "Ground": "weak",
+      "Grass": "neutral",
+      "Neutral": "neutral",
+      "Light": "neutral",
+      "Dark": "neutral",
+      "Null": "null_weak"
+    },
+    "Ground": {
+      "Fire": "neutral",
+      "Water": "neutral",
+      "Electric": "eff",
+      "Ground": "weak",
+      "Grass": "weak",
+      "Neutral": "neutral",
+      "Light": "neutral",
+      "Dark": "neutral",
+      "Null": "null_weak"
+    },
+    "Grass": {
+      "Fire": "weak",
+      "Water": "neutral",
+      "Electric": "neutral",
+      "Ground": "eff",
+      "Grass": "weak",
+      "Neutral": "neutral",
+      "Light": "neutral",
+      "Dark": "neutral",
+      "Null": "null_weak"
+    },
+    "Neutral": {
+      "Fire": "neutral",
+      "Water": "neutral",
+      "Electric": "neutral",
+      "Ground": "neutral",
+      "Grass": "neutral",
+      "Neutral": "neutral",
+      "Light": "neutral",
+      "Dark": "neutral",
+      "Null": "null_eff"
+    },
+    "Light": {
+      "Fire": "neutral",
+      "Water": "neutral",
+      "Electric": "neutral",
+      "Ground": "neutral",
+      "Grass": "neutral",
+      "Neutral": "neutral",
+      "Light": "weak",
+      "Dark": "eff",
+      "Null": "null_weak"
+    },
+    "Dark": {
+      "Fire": "neutral",
+      "Water": "neutral",
+      "Electric": "neutral",
+      "Ground": "neutral",
+      "Grass": "neutral",
+      "Neutral": "neutral",
+      "Light": "eff",
+      "Dark": "weak",
+      "Null": "null_weak"
+    },
+    "Null": {
+      "Fire": "null_eff",
+      "Water": "null_eff",
+      "Electric": "null_eff",
+      "Ground": "null_eff",
+      "Grass": "null_eff",
+      "Neutral": "neutral",
+      "Light": "null_eff",
+      "Dark": "null_eff",
+      "Null": "null_weak"
+    }
+  }
+}
