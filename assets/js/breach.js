@@ -2,16 +2,71 @@ let BREACH=null, CARDS=[], TALENTS={};
 let CARD_BY_ID={}, CARD_BY_NAME={};
 
 async function loadData(){
-  await Anidex.load(['cards','talents','breach']);
-  BREACH = Anidex.store.breach;
+  await Anidex.load(['cards','talents']);
   CARDS = Anidex.store.cards;
   TALENTS = Anidex.store.talents;
   CARD_BY_ID = Anidex.store.byId;
   CARD_BY_NAME = Anidex.store.byName;
-  init();
+  // Breach data is encrypted. Show the passphrase gate; decrypt on submit.
+  showGate();
 }
 
+// Remember the passphrase for THIS TAB only (cleared when tab closes).
+function rememberPass(p){ try{ sessionStorage.setItem('breachPass', p); }catch(e){} }
+function recallPass(){ try{ return sessionStorage.getItem('breachPass'); }catch(e){ return null; } }
 
+async function tryUnlock(passphrase, onFail){
+  let ok=false;
+  try{ ok = await Anidex.loadBreachEncrypted(passphrase); }
+  catch(e){ onFail('Breach data file missing. Contact the site owner.'); return; }
+  if(ok){
+    BREACH = Anidex.store.breach;
+    rememberPass(passphrase);
+    document.getElementById('gate').remove();
+    init();
+  } else {
+    onFail('Incorrect passphrase.');
+  }
+}
+
+function showGate(){
+  // If we already unlocked this tab, reuse the passphrase silently.
+  const saved = recallPass();
+  const main = document.getElementById('main');
+  const gate = document.createElement('div');
+  gate.id='gate';
+  gate.innerHTML = `
+    <div class="gate-card">
+      <div class="gate-title">Clan Access</div>
+      <p class="gate-sub">The breach comps are clan-only. Enter the passphrase shared in Discord.</p>
+      <input id="gatePass" type="password" placeholder="Passphrase" autocomplete="off">
+      <button class="btn primary" id="gateBtn">Unlock</button>
+      <div class="gate-err" id="gateErr"></div>
+    </div>`;
+  // Replace the layout with the gate
+  document.querySelector('.layout').classList.add('hidden');
+  document.querySelector('.wrap').appendChild(gate);
+  const input=document.getElementById('gatePass');
+  const err=document.getElementById('gateErr');
+  const submit=()=>{
+    err.textContent='';
+    const p=input.value;
+    if(!p){err.textContent='Enter the passphrase.';return}
+    document.getElementById('gateBtn').textContent='Unlocking…';
+    tryUnlock(p, msg=>{
+      err.textContent=msg;
+      document.getElementById('gateBtn').textContent='Unlock';
+      input.select();
+    });
+  };
+  document.getElementById('gateBtn').onclick=submit;
+  input.onkeydown=e=>{if(e.key==='Enter')submit()};
+  input.focus();
+  // Auto-attempt with remembered passphrase (no error shown if it fails)
+  if(saved){ tryUnlock(saved, ()=>{}); }
+}
+
+function revealLayout(){ document.querySelector('.layout').classList.remove('hidden'); }
 
 let state={boss:null,search:"",showRef:false};
 
@@ -158,6 +213,7 @@ function renderSidebar(){
 }
 
 function init(){
+  revealLayout();
   state.boss=BREACH.bosses[0].id;
   renderSidebar();
   renderBoss(BREACH.bosses[0]);

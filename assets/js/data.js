@@ -25,12 +25,38 @@ window.Anidex = (function () {
     const jobs = [];
     if (which.includes('cards'))   jobs.push(getJSON('data/cards.json').then(d => { if (Array.isArray(d)) store.cards = d; }));
     if (which.includes('talents')) jobs.push(getJSON('data/talents.json').then(d => { if (d) store.talents = d; }));
-    if (which.includes('breach'))  jobs.push(getJSON('data/breach.json').then(d => { if (d) store.breach = d; }));
+    // NOTE: breach is no longer loaded here in plaintext. Use loadBreachEncrypted(passphrase).
     // Future: rankings.json, effectiveness.json
     await Promise.all(jobs);
     store.byId = {}; store.byName = {};
     store.cards.forEach(c => { store.byId[c.id] = c; store.byName[c.name] = c; });
     return store;
+  }
+
+  // --- encrypted breach support ---
+  const b64dec = s => Uint8Array.from(atob(s), c => c.charCodeAt(0));
+
+  async function decryptBlob(blob, passphrase) {
+    const salt = b64dec(blob.salt), iv = b64dec(blob.iv), data = b64dec(blob.data);
+    const enc = new TextEncoder();
+    const base = await crypto.subtle.importKey('raw', enc.encode(passphrase), {name:'PBKDF2'}, false, ['deriveKey']);
+    const key = await crypto.subtle.deriveKey(
+      {name:'PBKDF2', salt, iterations:250000, hash:'SHA-256'},
+      base, {name:'AES-GCM', length:256}, false, ['decrypt']);
+    const plain = await crypto.subtle.decrypt({name:'AES-GCM', iv}, key, data);
+    return JSON.parse(new TextDecoder().decode(plain));
+  }
+
+  // Returns true on success (store.breach populated), false on wrong passphrase.
+  async function loadBreachEncrypted(passphrase) {
+    const blob = await getJSON('data/breach.enc.json');
+    if (!blob) throw new Error('encrypted breach file not found');
+    try {
+      store.breach = await decryptBlob(blob, passphrase);
+      return true;
+    } catch (e) {
+      return false; // wrong passphrase (AES-GCM auth fails) or corrupt data
+    }
   }
 
   function variantDesc(talent, variant) {
@@ -50,5 +76,5 @@ window.Anidex = (function () {
     return [];
   }
 
-  return { ELEMENTS, STATS, store, load, getJSON, variantDesc, talentVariants };
+  return { ELEMENTS, STATS, store, load, getJSON, variantDesc, talentVariants, loadBreachEncrypted };
 })();
