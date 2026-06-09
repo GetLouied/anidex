@@ -106,3 +106,7 @@
 .modal .mdesc{color:var(--ink-dim);font-size:12.5px;line-height:1.6}
 .modal .mseries{margin-top:12px;color:var(--ink-faint);font-size:11px}
 .notfound{color:var(--ink-faint);font-size:12px;font-style:italic}
+
+/* compound "pick one" talent slots */
+.role-compound{display:inline-flex;align-items:center;gap:5px;padding:4px 7px;border:1px solid var(--line);border-radius:7px;background:rgba(0,0,0,.15)}
+.role-or{font-size:9px;color:var(--ink-faint);text-transform:uppercase}

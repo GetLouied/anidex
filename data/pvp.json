@@ -1919,6 +1919,26 @@
     "Ultimate Combo": {
       "talent": "Ultimate Combo",
       "variant": null
+    },
+    "Transformation": {
+      "talent": "Transformation",
+      "variant": null
+    },
+    "Trick Room": {
+      "talent": "Trick Room",
+      "variant": null
+    },
+    "Elemental Drain": {
+      "talent": "Elemental Drain",
+      "variant": null
+    },
+    "Elemental Strike": {
+      "talent": "Elemental Strike",
+      "variant": null
+    },
+    "Double-edged Strike": {
+      "talent": "Double-edged Strike",
+      "variant": null
     }
   }
 }

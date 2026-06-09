@@ -42,10 +42,10 @@ function talentLink(talent,variant){
   if(variant)url+='&variant='+encodeURIComponent(variant);
   return url;
 }
-function roleLink(label){
+function roleLink(label, variantOverride){
   const map=(PVP.roleTalentMap||{})[label];
   if(!map)return null;
-  return talentLink(map.talent,map.variant);
+  return talentLink(map.talent, variantOverride!==undefined && variantOverride!==null ? variantOverride : map.variant);
 }
 
 /* ---------- slot rendering (shared) ---------- */
@@ -57,8 +57,26 @@ function renderSlot(slot){
     return `<span class="slot slot-card" data-cid="${card?card.id:''}" data-cname="${slot.name}"><span class="nm">${slot.name}</span>${elTag}</span>`;
   }
   if(slot.type==='role'){
-    const url=roleLink(slot.label);
-    return `<span class="slot slot-role ${url?'':'norole'}" ${url?`data-url="${url}"`:''} title="${url?'Open candidates in Cards':''}"><span class="rk">talent</span>${slot.label}${slot.variant?' ('+slot.variant+')':''}</span>`;
+    // Compound "A / B" labels = pick-one-of; link each half separately.
+    if(slot.label.includes(' / ')){
+      const parts=slot.label.split(' / ').map(p=>p.trim());
+      const inner=parts.map(p=>{
+        const url=roleLink(p);
+        return url
+          ? `<span class="slot slot-role" data-url="${url}" title="Open candidates in Cards"><span class="rk">talent</span>${p}</span>`
+          : `<span class="slot slot-role norole"><span class="rk">talent</span>${p}</span>`;
+      }).join('<span class="role-or">/</span>');
+      return `<span class="role-compound">${inner}</span>`;
+    }
+    // Single talent. If the slot has a stat-variant note (DEF/ATK/SPD), try to link with it.
+    const noteIsVariant = slot.note && ['ATK','DEF','SPD'].includes(slot.note);
+    // Talents whose card-data variants are compound (e.g. "Fire/ATK") can't match a bare "ATK" filter.
+    const COMPOUND=["Elemental Strike","Double-edged Strike"];
+    const linkVariant = (noteIsVariant && !COMPOUND.includes(slot.label)) ? slot.note : null;
+    const url = roleLink(slot.label, linkVariant);
+    const shownVariant = noteIsVariant ? ' ('+slot.note+')' : (slot.variant?' ('+slot.variant+')':'');
+    const otherNote = (slot.note && !noteIsVariant) ? `<span class="slot-note">${slot.note}</span>` : '';
+    return `<span class="slot slot-role ${url?'':'norole'}" ${url?`data-url="${url}"`:''} title="${url?'Open candidates in Cards':''}"><span class="rk">talent</span>${slot.label}${shownVariant}</span>${otherNote}`;
   }
   if(slot.type==='any'){
     return `<span class="meta-any">${slot.label}</span>`;
