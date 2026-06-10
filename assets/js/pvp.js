@@ -209,6 +209,16 @@ function setView(v){
 
 function init(){
   document.getElementById('credit').textContent=PVP.meta.credit||'';
+  // Outdated-guide notice banner (shown above the tabs)
+  if(PVP.meta.notice){
+    const tabs=document.getElementById('pvpTabs');
+    if(tabs && !document.getElementById('pvpNotice')){
+      const n=document.createElement('div');
+      n.id='pvpNotice'; n.className='pvp-notice';
+      n.textContent=PVP.meta.notice;
+      tabs.parentNode.insertBefore(n, tabs);
+    }
+  }
   document.querySelectorAll('.pvp-tab').forEach(t=>t.onclick=()=>setView(t.dataset.view));
   setView('tiers');
 }
