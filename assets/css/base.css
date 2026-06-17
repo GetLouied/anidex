@@ -71,3 +71,8 @@ nav a.active{background:var(--accent-dim);border-color:var(--accent);color:var(-
 *::-webkit-scrollbar{width:10px;height:10px}
 *::-webkit-scrollbar-track{background:var(--bg)}
 *::-webkit-scrollbar-thumb{background:var(--line);border-radius:5px}
+
+/* tighter side padding on small screens so content gets more width */
+@media(max-width:560px){
+  .wrap{padding:18px 12px 60px}
+}

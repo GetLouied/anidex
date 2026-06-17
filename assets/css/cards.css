@@ -43,7 +43,6 @@ select option{background:var(--panel-2)}
 
 .actions{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
 
-table{width:100%;border-collapse:collapse;font-size:13px}
 thead th{position:sticky;top:0;background:var(--panel);z-index:5;font-family:'Chakra Petch',sans-serif;font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--ink-dim);text-align:left;padding:10px 12px;border-bottom:2px solid var(--line);cursor:pointer;user-select:none;white-space:nowrap}
 thead th:hover{color:var(--ink)}
 thead th .arr{color:var(--accent);margin-left:4px;opacity:0}
@@ -69,7 +68,8 @@ td{padding:9px 12px;vertical-align:middle}
 .bar{display:inline-block;height:5px;border-radius:3px;background:var(--accent-dim);vertical-align:middle;margin-left:8px;opacity:.5}
 
 .empty{text-align:center;padding:60px 20px;color:var(--ink-faint)}
-.tbl-wrap{background:var(--panel);border:1px solid var(--line);border-radius:8px;overflow:hidden;max-height:70vh;overflow-y:auto}
+.tbl-wrap{background:var(--panel);border:1px solid var(--line);border-radius:8px;overflow-x:auto;overflow-y:auto;max-height:70vh;-webkit-overflow-scrolling:touch}
+table{width:100%;border-collapse:collapse;font-size:13px;min-width:720px}
 .tbl-wrap::-webkit-scrollbar{width:10px}
 .tbl-wrap::-webkit-scrollbar-track{background:var(--bg)}
 .tbl-wrap::-webkit-scrollbar-thumb{background:var(--line);border-radius:5px}

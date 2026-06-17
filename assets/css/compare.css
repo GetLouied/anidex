@@ -33,7 +33,7 @@
 .pc-x:hover{color:var(--imp)}
 
 /* ---- card compare table ---- */
-.cmp-table-wrap{overflow-x:auto;border:1px solid var(--line);border-radius:8px}
+.cmp-table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;border:1px solid var(--line);border-radius:8px}
 .cmp-table{width:100%;border-collapse:collapse;font-size:13px;min-width:480px}
 .cmp-table th,.cmp-table td{padding:11px 14px;text-align:center;border-bottom:1px solid var(--row-alt)}
 .cmp-table thead th{font-family:'Chakra Petch',sans-serif;font-size:13px;letter-spacing:.02em;color:var(--ink);background:var(--panel);border-bottom:2px solid var(--line)}
@@ -55,7 +55,7 @@
 .team-teamA{background:rgba(94,224,201,.12);border:1px solid var(--accent-dim);color:var(--accent)}
 .team-teamB{background:rgba(232,137,107,.12);border:1px solid rgba(232,137,107,.4);color:var(--imp)}
 
-.team-stats-wrap{border:1px solid var(--line);border-radius:8px;overflow:hidden;margin-bottom:22px}
+.team-stats-wrap{border:1px solid var(--line);border-radius:8px;overflow-x:auto;-webkit-overflow-scrolling:touch;margin-bottom:22px}
 .team-stats{width:100%;border-collapse:collapse;font-size:14px}
 .team-stats th,.team-stats td{padding:12px 14px;text-align:center}
 .team-stats thead th{font-family:'Chakra Petch',sans-serif;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--ink-faint);background:var(--panel);border-bottom:2px solid var(--line)}
