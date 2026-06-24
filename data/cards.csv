@@ -1,4 +1,4 @@
-ID,Name,Element,HP,ATK,DEF,SPD,TOTAL,Talent,Talent Variant,Series
+id,name,element,hp,atk,def,spd,total,talent,variant,series
 1,2B,Neutral,80,97,66,82,325,Temporal Rewind,-,Nier: Automata
 2,9S,Neutral,94,67,90,76,327,Temporal Rewind,-,Nier: Automata
 3,Accelerator,Light,73,89,70,89,321,Offensive Stance,-,A Certain Scientific Railgun
@@ -1278,3 +1278,18 @@ ID,Name,Element,HP,ATK,DEF,SPD,TOTAL,Talent,Talent Variant,Series
 1277,Aina Yoshiwara,Electric,98,97,75,70,340,Evasion,-,Grand Blue
 1278,Ryujiro Kotobuki,Fire,75,98,82,82,337,Pain For Power,-,Grand Blue
 1279,Shinji Tokita,Electric,80,90,80,90,340,Devour,-,Grand Blue
+1280,Jinta Yadomi,Water,84,99,77,80,340,Arcane Affinity,Ground,Anohana: The Flower We Saw That Day
+1281,Meiko Honma,Null,93,82,95,70,340,Divine Fortune,Dark,Anohana: The Flower We Saw That Day
+1282,Naruko Anjou,Fire,81,73,87,99,340,Atmospheric Acceleration,Electric,Anohana: The Flower We Saw That Day
+1283,Tetsudou Hisakawa,Neutral,90,93,80,75,338,Berserker,DEF,Anohana: The Flower We Saw That Day
+1284,Atsumu Matsuyuki,Dark,79,96,80,83,338,Double-edged Strike,Light/ATK,Anohana: The Flower We Saw That Day
+1285,Chiriko Tsurumi,Water,93,92,75,80,340,Underdog,ATK,Anohana: The Flower We Saw That Day
+1286,Tsubasa Ozora,Null,78,82,89,91,340,Elemental Drain,-,Captain Tsubasa
+1287,Kojiro Hyuga,Light,95,125,90,87,397,Cursed,-,Captain Tsubasa
+1288,Genzo Wakabayashi,Ground,87,80,101,72,340,Aegis,-,Captain Tsubasa
+1289,Taro Misaki,Electric,70,94,78,98,340,Pain For Power,-,Captain Tsubasa
+1290,Ken Wakashimazu,Light,95,71,76,98,340,Overload,SPD,Captain Tsubasa
+1291,Hikaru Matsuyama,Ground,97,86,61,95,339,Trick Room,DEF,Captain Tsubasa
+1292,Lionel Messi,Water,88,99,66,87,340,Final Verdict,-,Summer 2026
+1293,Cristiano Ronaldo,Fire,84,101,60,95,340,Foul Play,-,Summer 2026
+1294,Neymar Jr,Electric,76,97,67,100,340,Divine Fortune,Dark,Summer 2026

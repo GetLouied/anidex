@@ -285,6 +285,10 @@
     {
       "label": "Water/DEF",
       "desc": "Deal Water damage equal to 15% of your DEF, and take 1/4 of the damage dealt to yourself."
+    },
+    {
+      "label": "Light/ATK",
+      "desc": "Deal Light damage equal to 15% of your ATK, and take 1/4 of the damage dealt to yourself."
     }
   ],
   "Elemental Drain": [
